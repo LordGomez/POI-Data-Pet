@@ -1,0 +1,7257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0395304,
+          63.7938233
+        ]
+      },
+      "properties": {
+        "osm_id": 13391878,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9850731,
+          64.1513019
+        ]
+      },
+      "properties": {
+        "osm_id": 26452735,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9840732,
+          64.1494498
+        ]
+      },
+      "properties": {
+        "osm_id": 26586193,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su,PH 00:00+",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5007303,
+          63.8794725
+        ]
+      },
+      "properties": {
+        "osm_id": 34814044,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3356481,
+          66.1979368
+        ]
+      },
+      "properties": {
+        "osm_id": 52096313,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9496321,
+          66.4535561
+        ]
+      },
+      "properties": {
+        "osm_id": 52130408,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3434445,
+          66.0475797
+        ]
+      },
+      "properties": {
+        "osm_id": 53017162,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Héðinsbraut",
+        "city": "Húsavík",
+        "postcode": "640",
+        "phone": null,
+        "opening_hours": "Mo-Fr 08:00-23:30; Sa 09:00-22:00; Su 10:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3444893,
+          66.0487357
+        ]
+      },
+      "properties": {
+        "osm_id": 53017208,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8948347,
+          64.1464783
+        ]
+      },
+      "properties": {
+        "osm_id": 59644347,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.9992134,
+          65.2618313
+        ]
+      },
+      "properties": {
+        "osm_id": 59665958,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4077805,
+          65.2605294
+        ]
+      },
+      "properties": {
+        "osm_id": 59666454,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "N1",
+        "address": "Austurlandsvegur",
+        "city": null,
+        "postcode": "700",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2862906,
+          64.6561037
+        ]
+      },
+      "properties": {
+        "osm_id": 59861237,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1917154,
+          63.9954406
+        ]
+      },
+      "properties": {
+        "osm_id": 59864651,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.807943,
+          64.1370366
+        ]
+      },
+      "properties": {
+        "osm_id": 59985139,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6953997,
+          64.1658534
+        ]
+      },
+      "properties": {
+        "osm_id": 59999766,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8265536,
+          64.1235591
+        ]
+      },
+      "properties": {
+        "osm_id": 67046220,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8807864,
+          64.099141
+        ]
+      },
+      "properties": {
+        "osm_id": 111472895,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5975171,
+          64.4101054
+        ]
+      },
+      "properties": {
+        "osm_id": 122272928,
+        "osm_type": "node",
+        "name": "OB",
+        "brand": null,
+        "operator": "OB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9078675,
+          64.5446508
+        ]
+      },
+      "properties": {
+        "osm_id": 122275348,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": "ÓB",
+        "address": "Brúartorg",
+        "city": null,
+        "postcode": "310",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9103893,
+          64.5440281
+        ]
+      },
+      "properties": {
+        "osm_id": 122275354,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "N1",
+        "address": "Brúartorg",
+        "city": "Borgarnes",
+        "postcode": "310",
+        "phone": null,
+        "opening_hours": "Mo-Su 07:30-23:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9087217,
+          64.5435232
+        ]
+      },
+      "properties": {
+        "osm_id": 122275360,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5482369,
+          64.0002696
+        ]
+      },
+      "properties": {
+        "osm_id": 129990758,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5494434,
+          63.9967189
+        ]
+      },
+      "properties": {
+        "osm_id": 129992659,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Hafnargata",
+        "city": "Keflavík",
+        "postcode": "230",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.529624,
+          65.9672052
+        ]
+      },
+      "properties": {
+        "osm_id": 137819767,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "ÓB",
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7048188,
+          64.0360358
+        ]
+      },
+      "properties": {
+        "osm_id": 206196150,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.08072,
+          65.6698504
+        ]
+      },
+      "properties": {
+        "osm_id": 242702953,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1084858,
+          65.690865
+        ]
+      },
+      "properties": {
+        "osm_id": 242703163,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8495466,
+          64.1412127
+        ]
+      },
+      "properties": {
+        "osm_id": 251964756,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7737442,
+          64.1510525
+        ]
+      },
+      "properties": {
+        "osm_id": 256214755,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7723072,
+          64.1384579
+        ]
+      },
+      "properties": {
+        "osm_id": 256214897,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1287183,
+          65.6870288
+        ]
+      },
+      "properties": {
+        "osm_id": 256427349,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1010155,
+          65.6891566
+        ]
+      },
+      "properties": {
+        "osm_id": 256517469,
+        "osm_type": "node",
+        "name": "Olís Þjónustustöð",
+        "brand": null,
+        "operator": "Olís",
+        "address": "Tryggvabraut",
+        "city": "Akureyri",
+        "postcode": "600",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4467408,
+          65.5536769
+        ]
+      },
+      "properties": {
+        "osm_id": 256630412,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8931809,
+          64.5678383
+        ]
+      },
+      "properties": {
+        "osm_id": 279526567,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1922262,
+          63.9960789
+        ]
+      },
+      "properties": {
+        "osm_id": 279923870,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Th 07:30-19:30; Fr 07:30-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5428833,
+          63.9724898
+        ]
+      },
+      "properties": {
+        "osm_id": 280108140,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2510493,
+          64.0412435
+        ]
+      },
+      "properties": {
+        "osm_id": 283703895,
+        "osm_type": "node",
+        "name": "N1 Árnes",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0012693,
+          63.4177702
+        ]
+      },
+      "properties": {
+        "osm_id": 283716430,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": "Austurvegur",
+        "city": null,
+        "postcode": "870",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8680981,
+          64.6992817
+        ]
+      },
+      "properties": {
+        "osm_id": 285925037,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0081899,
+          63.9437636
+        ]
+      },
+      "properties": {
+        "osm_id": 288061023,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0107498,
+          63.9450037
+        ]
+      },
+      "properties": {
+        "osm_id": 288061024,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0131135,
+          63.9465555
+        ]
+      },
+      "properties": {
+        "osm_id": 288061025,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7424828,
+          65.0967154
+        ]
+      },
+      "properties": {
+        "osm_id": 289351529,
+        "osm_type": "node",
+        "name": "Shellskáli",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8129222,
+          64.1253878
+        ]
+      },
+      "properties": {
+        "osm_id": 289552811,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9937485,
+          63.4174454
+        ]
+      },
+      "properties": {
+        "osm_id": 293384488,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+354 444 3001",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2356352,
+          63.7517134
+        ]
+      },
+      "properties": {
+        "osm_id": 293389080,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": "Suðurlandsvegur",
+        "city": null,
+        "postcode": "860",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9188377,
+          64.1457331
+        ]
+      },
+      "properties": {
+        "osm_id": 293536733,
+        "osm_type": "node",
+        "name": "AO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8772419,
+          64.1310096
+        ]
+      },
+      "properties": {
+        "osm_id": 294023624,
+        "osm_type": "node",
+        "name": "Dælan",
+        "brand": null,
+        "operator": "Dælan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.757043,
+          64.1265192
+        ]
+      },
+      "properties": {
+        "osm_id": 297180410,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8420474,
+          64.1125779
+        ]
+      },
+      "properties": {
+        "osm_id": 297180434,
+        "osm_type": "node",
+        "name": "Orkan Stekkjarbakki",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": "Stekkjarbakki",
+        "city": "Reykjavík",
+        "postcode": "109",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0678968,
+          64.3244228
+        ]
+      },
+      "properties": {
+        "osm_id": 318804111,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0649795,
+          64.322043
+        ]
+      },
+      "properties": {
+        "osm_id": 318959634,
+        "osm_type": "node",
+        "name": "N1 Skútan",
+        "brand": "N1",
+        "operator": null,
+        "address": "Þjóðbraut",
+        "city": "Akranes",
+        "postcode": "300",
+        "phone": "+354 431 2061",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 10:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0882763,
+          64.3139587
+        ]
+      },
+      "properties": {
+        "osm_id": 318985889,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0695865,
+          64.3200698
+        ]
+      },
+      "properties": {
+        "osm_id": 319128498,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8956746,
+          63.9905012
+        ]
+      },
+      "properties": {
+        "osm_id": 319323599,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1353644,
+          65.6990744
+        ]
+      },
+      "properties": {
+        "osm_id": 319967425,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0896024,
+          65.683498
+        ]
+      },
+      "properties": {
+        "osm_id": 320384079,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.097123,
+          65.6896733
+        ]
+      },
+      "properties": {
+        "osm_id": 321005643,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4482676,
+          66.3003386
+        ]
+      },
+      "properties": {
+        "osm_id": 324472005,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9111103,
+          65.6417285
+        ]
+      },
+      "properties": {
+        "osm_id": 324731381,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9235985,
+          64.1319006
+        ]
+      },
+      "properties": {
+        "osm_id": 326415332,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5907887,
+          63.971565
+        ]
+      },
+      "properties": {
+        "osm_id": 331112064,
+        "osm_type": "node",
+        "name": "Knútsstöð",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4061122,
+          65.2631339
+        ]
+      },
+      "properties": {
+        "osm_id": 331269144,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.6544517,
+          66.0699277
+        ]
+      },
+      "properties": {
+        "osm_id": 333327344,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9762699,
+          65.5910836
+        ]
+      },
+      "properties": {
+        "osm_id": 339900612,
+        "osm_type": "node",
+        "name": null,
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1235054,
+          66.074536
+        ]
+      },
+      "properties": {
+        "osm_id": 347459043,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8300115,
+          64.2419841
+        ]
+      },
+      "properties": {
+        "osm_id": 348724172,
+        "osm_type": "node",
+        "name": "AO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5017064,
+          64.0576685
+        ]
+      },
+      "properties": {
+        "osm_id": 356718665,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6646956,
+          64.6752771
+        ]
+      },
+      "properties": {
+        "osm_id": 361122562,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2467271,
+          64.9215218
+        ]
+      },
+      "properties": {
+        "osm_id": 412448477,
+        "osm_type": "node",
+        "name": "Orkán Bensín",
+        "brand": "Orkan",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5469172,
+          63.9800136
+        ]
+      },
+      "properties": {
+        "osm_id": 412698197,
+        "osm_type": "node",
+        "name": "ÓB Reykjanesbær",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+354 421 3755",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2757588,
+          65.6600497
+        ]
+      },
+      "properties": {
+        "osm_id": 440121272,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1 ehf",
+        "address": "Norðurlandsvegur",
+        "city": "Blönduós",
+        "postcode": "540",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.7044779,
+          64.8942516
+        ]
+      },
+      "properties": {
+        "osm_id": 452035084,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.7026369,
+          64.8936033
+        ]
+      },
+      "properties": {
+        "osm_id": 452040604,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7631468,
+          65.1079801
+        ]
+      },
+      "properties": {
+        "osm_id": 452144325,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "N1",
+        "address": "Vesturbraut",
+        "city": "Búðardalur",
+        "postcode": "370",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6946434,
+          65.147649
+        ]
+      },
+      "properties": {
+        "osm_id": 475838197,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7072785,
+          65.1473335
+        ]
+      },
+      "properties": {
+        "osm_id": 477529745,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.732973,
+          65.0728991
+        ]
+      },
+      "properties": {
+        "osm_id": 483500784,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.4889012,
+          65.8767076
+        ]
+      },
+      "properties": {
+        "osm_id": 483694950,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0217108,
+          65.0757947
+        ]
+      },
+      "properties": {
+        "osm_id": 496075605,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Skeljungur",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4362913,
+          63.8436713
+        ]
+      },
+      "properties": {
+        "osm_id": 510134971,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+354 426 7222",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.453748,
+          64.1772503
+        ]
+      },
+      "properties": {
+        "osm_id": 524104542,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6847749,
+          65.7012491
+        ]
+      },
+      "properties": {
+        "osm_id": 543869304,
+        "osm_type": "node",
+        "name": "N1 Hólmavík",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2312876,
+          65.0341416
+        ]
+      },
+      "properties": {
+        "osm_id": 616397906,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2279202,
+          65.0345635
+        ]
+      },
+      "properties": {
+        "osm_id": 656083366,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Orkan",
+        "address": "Búðareyri",
+        "city": null,
+        "postcode": "730",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2605021,
+          64.9251667
+        ]
+      },
+      "properties": {
+        "osm_id": 661621068,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8041314,
+          64.1238443
+        ]
+      },
+      "properties": {
+        "osm_id": 693487239,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.733101,
+          65.0721555
+        ]
+      },
+      "properties": {
+        "osm_id": 693566746,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9371851,
+          65.3921401
+        ]
+      },
+      "properties": {
+        "osm_id": 693747726,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": "Hvammstangabraut",
+        "city": "Hvammstangi",
+        "postcode": "530",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2849105,
+          65.6563164
+        ]
+      },
+      "properties": {
+        "osm_id": 693747734,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7642615,
+          64.0747134
+        ]
+      },
+      "properties": {
+        "osm_id": 694333757,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7341817,
+          64.2169675
+        ]
+      },
+      "properties": {
+        "osm_id": 694333764,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9031188,
+          66.1493904
+        ]
+      },
+      "properties": {
+        "osm_id": 793762280,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "Ólís",
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.036259,
+          65.567437
+        ]
+      },
+      "properties": {
+        "osm_id": 826578064,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4322879,
+          63.8406
+        ]
+      },
+      "properties": {
+        "osm_id": 826724956,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5388064,
+          65.686071
+        ]
+      },
+      "properties": {
+        "osm_id": 826724989,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4308367,
+          63.8400029
+        ]
+      },
+      "properties": {
+        "osm_id": 826725301,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3722062,
+          65.7208033
+        ]
+      },
+      "properties": {
+        "osm_id": 826725434,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9392651,
+          64.0817489
+        ]
+      },
+      "properties": {
+        "osm_id": 828001008,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "no",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7083302,
+          64.1656727
+        ]
+      },
+      "properties": {
+        "osm_id": 828977666,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8669435,
+          64.1052534
+        ]
+      },
+      "properties": {
+        "osm_id": 828977691,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.2852622,
+          64.1971782
+        ]
+      },
+      "properties": {
+        "osm_id": 851174116,
+        "osm_type": "node",
+        "name": "OB",
+        "brand": null,
+        "operator": "OB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.5283371,
+          65.9702186
+        ]
+      },
+      "properties": {
+        "osm_id": 910847732,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.433846,
+          63.8396526
+        ]
+      },
+      "properties": {
+        "osm_id": 983183947,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.201905,
+          65.4516088
+        ]
+      },
+      "properties": {
+        "osm_id": 998922747,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0110264,
+          66.5387867
+        ]
+      },
+      "properties": {
+        "osm_id": 1194752605,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6325178,
+          63.9992396
+        ]
+      },
+      "properties": {
+        "osm_id": 1243095783,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5413375,
+          64.7681837
+        ]
+      },
+      "properties": {
+        "osm_id": 1250209231,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2831591,
+          64.6628831
+        ]
+      },
+      "properties": {
+        "osm_id": 1259103371,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5104985,
+          66.0518139
+        ]
+      },
+      "properties": {
+        "osm_id": 1260712412,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9166935,
+          64.1319145
+        ]
+      },
+      "properties": {
+        "osm_id": 1280200430,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1209886,
+          65.3159837
+        ]
+      },
+      "properties": {
+        "osm_id": 1285442162,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7975897,
+          64.117731
+        ]
+      },
+      "properties": {
+        "osm_id": 1299573388,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5483056,
+          66.0512808
+        ]
+      },
+      "properties": {
+        "osm_id": 1317121626,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0620167,
+          63.8362521
+        ]
+      },
+      "properties": {
+        "osm_id": 1324807385,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8484433,
+          64.1279729
+        ]
+      },
+      "properties": {
+        "osm_id": 1344359833,
+        "osm_type": "node",
+        "name": "AO",
+        "brand": null,
+        "operator": "AO",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0886239,
+          65.6903836
+        ]
+      },
+      "properties": {
+        "osm_id": 1352407658,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1100339,
+          65.6690048
+        ]
+      },
+      "properties": {
+        "osm_id": 1352411170,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1083024,
+          65.6795944
+        ]
+      },
+      "properties": {
+        "osm_id": 1352412669,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9761626,
+          64.0649084
+        ]
+      },
+      "properties": {
+        "osm_id": 1398459414,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.3795018,
+          63.9805133
+        ]
+      },
+      "properties": {
+        "osm_id": 1401730039,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8531704,
+          64.110179
+        ]
+      },
+      "properties": {
+        "osm_id": 1429345747,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0079134,
+          64.7936751
+        ]
+      },
+      "properties": {
+        "osm_id": 1480473149,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9379819,
+          64.076527
+        ]
+      },
+      "properties": {
+        "osm_id": 1536991947,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3742343,
+          63.8563034
+        ]
+      },
+      "properties": {
+        "osm_id": 1565489294,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3783215,
+          63.85878
+        ]
+      },
+      "properties": {
+        "osm_id": 1565489322,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3434828,
+          66.0390056
+        ]
+      },
+      "properties": {
+        "osm_id": 1565495476,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "Ólis",
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9910696,
+          66.0257962
+        ]
+      },
+      "properties": {
+        "osm_id": 1651347745,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9863315,
+          64.0445671
+        ]
+      },
+      "properties": {
+        "osm_id": 1744149053,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "ÓB",
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6012568,
+          65.6854214
+        ]
+      },
+      "properties": {
+        "osm_id": 1793033489,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1674327,
+          65.5758899
+        ]
+      },
+      "properties": {
+        "osm_id": 1793164175,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2492009,
+          66.1532811
+        ]
+      },
+      "properties": {
+        "osm_id": 1865609053,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1747412,
+          66.0607844
+        ]
+      },
+      "properties": {
+        "osm_id": 1867351457,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2295636,
+          64.3136271
+        ]
+      },
+      "properties": {
+        "osm_id": 1871929135,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": "Valgerður Egilsdóttir",
+        "address": "Nesjar",
+        "city": "Höfn",
+        "postcode": "781",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7873064,
+          64.1498063
+        ]
+      },
+      "properties": {
+        "osm_id": 1932942868,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0670857,
+          64.3248126
+        ]
+      },
+      "properties": {
+        "osm_id": 2019134561,
+        "osm_type": "node",
+        "name": "Olís Verslun og stöð",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3060012,
+          65.8237941
+        ]
+      },
+      "properties": {
+        "osm_id": 2067109683,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7136697,
+          64.0403688
+        ]
+      },
+      "properties": {
+        "osm_id": 2078460482,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.833335,
+          65.7496746
+        ]
+      },
+      "properties": {
+        "osm_id": 2190238244,
+        "osm_type": "node",
+        "name": "Ollasjoppa",
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4287041,
+          65.9276297
+        ]
+      },
+      "properties": {
+        "osm_id": 2264935181,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.147972,
+          63.8623682
+        ]
+      },
+      "properties": {
+        "osm_id": 2314548945,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.692822,
+          65.701328
+        ]
+      },
+      "properties": {
+        "osm_id": 2573914989,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7517464,
+          64.1562289
+        ]
+      },
+      "properties": {
+        "osm_id": 2876942551,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": "Barðastaðir",
+        "city": "Reykjavík",
+        "postcode": "112",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2470791,
+          66.1574107
+        ]
+      },
+      "properties": {
+        "osm_id": 2876950598,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.896234,
+          64.0982465
+        ]
+      },
+      "properties": {
+        "osm_id": 2876954531,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8322568,
+          64.1247612
+        ]
+      },
+      "properties": {
+        "osm_id": 2876957003,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": "Bíldshöfði",
+        "city": null,
+        "postcode": "110",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7745559,
+          64.3618909
+        ]
+      },
+      "properties": {
+        "osm_id": 2876959433,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2705486,
+          63.442359
+        ]
+      },
+      "properties": {
+        "osm_id": 2876969075,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.465301,
+          65.48815
+        ]
+      },
+      "properties": {
+        "osm_id": 2935922190,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.1046225,
+          65.5559624
+        ]
+      },
+      "properties": {
+        "osm_id": 2935923272,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8838049,
+          64.102123
+        ]
+      },
+      "properties": {
+        "osm_id": 2990669212,
+        "osm_type": "node",
+        "name": "Skeljungur",
+        "brand": null,
+        "operator": "Skeljungur",
+        "address": "Hagasmári",
+        "city": "Kópavogur",
+        "postcode": "201",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3017417,
+          64.3098842
+        ]
+      },
+      "properties": {
+        "osm_id": 3004751824,
+        "osm_type": "node",
+        "name": "Geysir Center",
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7344223,
+          65.0706823
+        ]
+      },
+      "properties": {
+        "osm_id": 3495392732,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8325479,
+          64.0872768
+        ]
+      },
+      "properties": {
+        "osm_id": 3622187782,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6904152,
+          64.1638953
+        ]
+      },
+      "properties": {
+        "osm_id": 3645997930,
+        "osm_type": "node",
+        "name": "Atlantstolía",
+        "brand": null,
+        "operator": "Atlantstolía",
+        "address": "sunnukriki",
+        "city": null,
+        "postcode": "270",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1851276,
+          63.9955544
+        ]
+      },
+      "properties": {
+        "osm_id": 3676883147,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Skeljungur hf/ Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8024916,
+          64.1239043
+        ]
+      },
+      "properties": {
+        "osm_id": 3805062141,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7072829,
+          64.1658388
+        ]
+      },
+      "properties": {
+        "osm_id": 4231009690,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": "Langitangi",
+        "city": null,
+        "postcode": "270",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4255269,
+          65.2823847
+        ]
+      },
+      "properties": {
+        "osm_id": 4237682894,
+        "osm_type": "node",
+        "name": "Olis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0999032,
+          65.6878036
+        ]
+      },
+      "properties": {
+        "osm_id": 4244438864,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": "Atlantsolía",
+        "operator": "Atlantsolía",
+        "address": "Gleráreyrar",
+        "city": "Akureyri",
+        "postcode": "600",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2769265,
+          63.4417821
+        ]
+      },
+      "properties": {
+        "osm_id": 4308018925,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8263312,
+          65.6266093
+        ]
+      },
+      "properties": {
+        "osm_id": 4344783533,
+        "osm_type": "node",
+        "name": "SB Tank",
+        "brand": null,
+        "operator": "N1",
+        "address": "Strandgata",
+        "city": "Tálknafjörður",
+        "postcode": "460",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1957205,
+          64.2500942
+        ]
+      },
+      "properties": {
+        "osm_id": 4352143792,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6459268,
+          65.7470323
+        ]
+      },
+      "properties": {
+        "osm_id": 4353045890,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.8170924,
+          65.5280107
+        ]
+      },
+      "properties": {
+        "osm_id": 4755958723,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0283913,
+          64.9326239
+        ]
+      },
+      "properties": {
+        "osm_id": 4780745782,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9151808,
+          64.0754486
+        ]
+      },
+      "properties": {
+        "osm_id": 4873082443,
+        "osm_type": "node",
+        "name": "Costco eldsneyti",
+        "brand": "Costco Gasoline",
+        "operator": "Costco",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.653904,
+          64.8437133
+        ]
+      },
+      "properties": {
+        "osm_id": 4951000121,
+        "osm_type": "node",
+        "name": "Breiðablik",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7937856,
+          65.2025765
+        ]
+      },
+      "properties": {
+        "osm_id": 4957609701,
+        "osm_type": "node",
+        "name": null,
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1220164,
+          66.0685834
+        ]
+      },
+      "properties": {
+        "osm_id": 4990104923,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0387367,
+          63.7945668
+        ]
+      },
+      "properties": {
+        "osm_id": 5080315022,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "ÓB",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5881634,
+          63.9980944
+        ]
+      },
+      "properties": {
+        "osm_id": 5174792755,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": "ÓB",
+        "operator": "ÓB",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0560157,
+          64.3268541
+        ]
+      },
+      "properties": {
+        "osm_id": 5277931386,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8047932,
+          66.0381106
+        ]
+      },
+      "properties": {
+        "osm_id": 5445211732,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7795006,
+          64.1002094
+        ]
+      },
+      "properties": {
+        "osm_id": 5751786811,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": "Reykjavík",
+        "postcode": "110",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8923724,
+          65.3259727
+        ]
+      },
+      "properties": {
+        "osm_id": 5764557976,
+        "osm_type": "node",
+        "name": null,
+        "brand": "ÓB",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.424995,
+          63.8413873
+        ]
+      },
+      "properties": {
+        "osm_id": 5871875085,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0365682,
+          65.0766426
+        ]
+      },
+      "properties": {
+        "osm_id": 6542888734,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8845415,
+          64.9149433
+        ]
+      },
+      "properties": {
+        "osm_id": 6646306268,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Hellissandur",
+        "postcode": "360",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6432082,
+          65.378591
+        ]
+      },
+      "properties": {
+        "osm_id": 6680666262,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6456728,
+          63.8813988
+        ]
+      },
+      "properties": {
+        "osm_id": 6781214241,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8742206,
+          64.1020598
+        ]
+      },
+      "properties": {
+        "osm_id": 7057126968,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4128778,
+          65.8971014
+        ]
+      },
+      "properties": {
+        "osm_id": 7288851121,
+        "osm_type": "node",
+        "name": null,
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.144093,
+          65.6999631
+        ]
+      },
+      "properties": {
+        "osm_id": 7691848086,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2221719,
+          65.0315927
+        ]
+      },
+      "properties": {
+        "osm_id": 7769507253,
+        "osm_type": "node",
+        "name": null,
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9358027,
+          64.1112487
+        ]
+      },
+      "properties": {
+        "osm_id": 8717969295,
+        "osm_type": "node",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": "Kópavogsbraut",
+        "city": "Kópavogur",
+        "postcode": "200",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5117778,
+          63.970289
+        ]
+      },
+      "properties": {
+        "osm_id": 8975288818,
+        "osm_type": "node",
+        "name": "AO",
+        "brand": null,
+        "operator": "Atlantsolía ehf.",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.442637,
+          65.6891981
+        ]
+      },
+      "properties": {
+        "osm_id": 9522271452,
+        "osm_type": "node",
+        "name": null,
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.401386,
+          63.8351001
+        ]
+      },
+      "properties": {
+        "osm_id": 9693609448,
+        "osm_type": "node",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 8:00-23:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0024444,
+          63.4179504
+        ]
+      },
+      "properties": {
+        "osm_id": 9900839725,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1807027,
+          65.9467691
+        ]
+      },
+      "properties": {
+        "osm_id": 10119946089,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2833374,
+          63.4441834
+        ]
+      },
+      "properties": {
+        "osm_id": 10968042979,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5757541,
+          63.9678219
+        ]
+      },
+      "properties": {
+        "osm_id": 12358899817,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5826953,
+          63.9974575
+        ]
+      },
+      "properties": {
+        "osm_id": 12358899818,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7584028,
+          64.1414958
+        ]
+      },
+      "properties": {
+        "osm_id": 12495715861,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": "Lambhagavegur",
+        "city": "Reykjavík",
+        "postcode": "113",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7806,
+          64.3588787
+        ]
+      },
+      "properties": {
+        "osm_id": 12532935977,
+        "osm_type": "node",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9514702,
+          64.155025
+        ]
+      },
+      "properties": {
+        "osm_id": 12823417000,
+        "osm_type": "node",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Fiskislóð",
+        "city": "Reykjavík",
+        "postcode": "101",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2775158,
+          63.4404848
+        ]
+      },
+      "properties": {
+        "osm_id": 13119245378,
+        "osm_type": "node",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9552135,
+          64.1525932
+        ]
+      },
+      "properties": {
+        "osm_id": 25794975,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": null,
+        "address": "Ánanaust",
+        "city": "Reykjavík",
+        "postcode": "101",
+        "phone": "+354 552 4190",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8708864,
+          64.1321229
+        ]
+      },
+      "properties": {
+        "osm_id": 27228054,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8585226,
+          64.1458193
+        ]
+      },
+      "properties": {
+        "osm_id": 28846090,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": "Kleppsvegur",
+        "city": null,
+        "postcode": "104",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1222897,
+          65.6957933
+        ]
+      },
+      "properties": {
+        "osm_id": 34004727,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": null,
+        "address": "Hlíðarbraut",
+        "city": null,
+        "postcode": "603",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8420482,
+          64.112575
+        ]
+      },
+      "properties": {
+        "osm_id": 95103139,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9528195,
+          64.1421251
+        ]
+      },
+      "properties": {
+        "osm_id": 98046275,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Birkimelur",
+        "city": "Reykjavík",
+        "postcode": "107",
+        "phone": null,
+        "opening_hours": "Mo-Fr 07:30-23:30; Sa 09:00-23:30; Su 10:00-23:30",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8043129,
+          64.1446351
+        ]
+      },
+      "properties": {
+        "osm_id": 107390843,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": "Gylfaflöt",
+        "city": null,
+        "postcode": "112",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8309213,
+          64.101726
+        ]
+      },
+      "properties": {
+        "osm_id": 110356080,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Skeljungur",
+        "address": "Suðurfell",
+        "city": "Reykjavík",
+        "postcode": "111",
+        "phone": "+354 557 4060",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8952089,
+          64.140244
+        ]
+      },
+      "properties": {
+        "osm_id": 117276394,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": "Laugavegur",
+        "city": null,
+        "postcode": "105",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7662739,
+          64.1028446
+        ]
+      },
+      "properties": {
+        "osm_id": 125392106,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": "Norðlingabraut",
+        "city": null,
+        "postcode": "110",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9655052,
+          64.063569
+        ]
+      },
+      "properties": {
+        "osm_id": 168519451,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9714954,
+          64.0590615
+        ]
+      },
+      "properties": {
+        "osm_id": 168519833,
+        "osm_type": "way",
+        "name": "ÓB",
+        "brand": null,
+        "operator": "ÓB",
+        "address": "Melabraut",
+        "city": null,
+        "postcode": "220",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9282177,
+          64.091501
+        ]
+      },
+      "properties": {
+        "osm_id": 168771598,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": "Olís",
+        "address": "Hafnarfjarðarvegur",
+        "city": "Garðabær",
+        "postcode": "210",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8929247,
+          64.1327002
+        ]
+      },
+      "properties": {
+        "osm_id": 180739586,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8842041,
+          64.0988337
+        ]
+      },
+      "properties": {
+        "osm_id": 182944031,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": "Hæðasmári",
+        "city": "Kópavogur",
+        "postcode": "201",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2062802,
+          64.2589958
+        ]
+      },
+      "properties": {
+        "osm_id": 193117948,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2089562,
+          64.2555287
+        ]
+      },
+      "properties": {
+        "osm_id": 193117952,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": "Hafnarbraut",
+        "city": "Höfn",
+        "postcode": "780",
+        "phone": "+354 478 1260",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6367338,
+          65.7403827
+        ]
+      },
+      "properties": {
+        "osm_id": 219454280,
+        "osm_type": "way",
+        "name": "N1 Ábær",
+        "brand": null,
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8673353,
+          64.1532499
+        ]
+      },
+      "properties": {
+        "osm_id": 220041726,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": "Klettagarðar",
+        "city": null,
+        "postcode": "104",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6162334,
+          64.1784296
+        ]
+      },
+      "properties": {
+        "osm_id": 222003151,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Dalsgarður",
+        "city": null,
+        "postcode": "271",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8597307,
+          64.0937183
+        ]
+      },
+      "properties": {
+        "osm_id": 222079838,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Dælan",
+        "operator": "Dælan",
+        "address": "Salavegur",
+        "city": null,
+        "postcode": "201",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.851981,
+          64.110648
+        ]
+      },
+      "properties": {
+        "osm_id": 223566513,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": "Smiðjuvegur",
+        "city": "Kópavogur",
+        "postcode": "200",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4426154,
+          65.6891671
+        ]
+      },
+      "properties": {
+        "osm_id": 236469641,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.987587,
+          63.9368058
+        ]
+      },
+      "properties": {
+        "osm_id": 243922377,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": "Austurvegur",
+        "city": null,
+        "postcode": "800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.3547497,
+          65.9440984
+        ]
+      },
+      "properties": {
+        "osm_id": 256699870,
+        "osm_type": "way",
+        "name": "Orkan Árskógssandur",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": "Öldugata",
+        "city": "Árskógssandur",
+        "postcode": "621",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4066319,
+          65.276105
+        ]
+      },
+      "properties": {
+        "osm_id": 256886259,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4065602,
+          65.2759935
+        ]
+      },
+      "properties": {
+        "osm_id": 280407697,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Vatnsdæluhús við flugvöll",
+        "city": null,
+        "postcode": "700",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8670301,
+          64.132597
+        ]
+      },
+      "properties": {
+        "osm_id": 291216598,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": null,
+        "operator": null,
+        "address": "Álfheimar",
+        "city": null,
+        "postcode": "104",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9248409,
+          64.1476357
+        ]
+      },
+      "properties": {
+        "osm_id": 307956399,
+        "osm_type": "way",
+        "name": "ÓB",
+        "brand": null,
+        "operator": null,
+        "address": "Sæbraut",
+        "city": "Reykjavík",
+        "postcode": "101",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1857198,
+          63.9941841
+        ]
+      },
+      "properties": {
+        "osm_id": 308796505,
+        "osm_type": "way",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": "Mánamörk",
+        "city": null,
+        "postcode": "810",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8908886,
+          64.1375166
+        ]
+      },
+      "properties": {
+        "osm_id": 384568622,
+        "osm_type": "way",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": "Atlantsolía",
+        "address": "Háaleitisbraut",
+        "city": "Reykjavík",
+        "postcode": "108",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4293925,
+          63.8413937
+        ]
+      },
+      "properties": {
+        "osm_id": 414495312,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": "Hafnargata",
+        "city": "Grindavík",
+        "postcode": "240",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6486655,
+          64.0675294
+        ]
+      },
+      "properties": {
+        "osm_id": 445085905,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9691674,
+          64.0533616
+        ]
+      },
+      "properties": {
+        "osm_id": 445251755,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9379587,
+          64.1385695
+        ]
+      },
+      "properties": {
+        "osm_id": 469400043,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3980954,
+          65.2607586
+        ]
+      },
+      "properties": {
+        "osm_id": 492589868,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Orkan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2336729,
+          63.7497918
+        ]
+      },
+      "properties": {
+        "osm_id": 510868218,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Austurvegur",
+        "city": null,
+        "postcode": "860",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9498374,
+          64.0771881
+        ]
+      },
+      "properties": {
+        "osm_id": 510868558,
+        "osm_type": "way",
+        "name": "Orkan Reykjavíkurvegi",
+        "brand": null,
+        "operator": "Orkan",
+        "address": "Reykjavíkurvegur",
+        "city": null,
+        "postcode": "220",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9501621,
+          64.0766832
+        ]
+      },
+      "properties": {
+        "osm_id": 510868560,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Reykjavíkurvegur",
+        "city": null,
+        "postcode": "220",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8991303,
+          64.1179337
+        ]
+      },
+      "properties": {
+        "osm_id": 510877938,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": "Kringlumýrarbraut",
+        "city": null,
+        "postcode": "108",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9387701,
+          64.0667781
+        ]
+      },
+      "properties": {
+        "osm_id": 512341639,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": "Lækjargata",
+        "city": null,
+        "postcode": "220",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8561678,
+          64.1100011
+        ]
+      },
+      "properties": {
+        "osm_id": 514576626,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": "Valahjalli",
+        "city": "Kópavogur",
+        "postcode": "200",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8704311,
+          64.150408
+        ]
+      },
+      "properties": {
+        "osm_id": 517406357,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": null,
+        "operator": "Olís",
+        "address": "Sundagarðar",
+        "city": null,
+        "postcode": "104",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8477841,
+          64.1208725
+        ]
+      },
+      "properties": {
+        "osm_id": 517428442,
+        "osm_type": "way",
+        "name": "Atlantsolía",
+        "brand": null,
+        "operator": null,
+        "address": "Reykjanesbraut",
+        "city": null,
+        "postcode": "108",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.893101,
+          64.1320811
+        ]
+      },
+      "properties": {
+        "osm_id": 517753164,
+        "osm_type": "way",
+        "name": "Orkan X",
+        "brand": "Orkan",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8287961,
+          64.1243357
+        ]
+      },
+      "properties": {
+        "osm_id": 517783243,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0332592,
+          63.9280799
+        ]
+      },
+      "properties": {
+        "osm_id": 625169339,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.633887,
+          64.7666407
+        ]
+      },
+      "properties": {
+        "osm_id": 640345373,
+        "osm_type": "way",
+        "name": "Olis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4837565,
+          66.0306872
+        ]
+      },
+      "properties": {
+        "osm_id": 655272513,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0836722,
+          65.1448197
+        ]
+      },
+      "properties": {
+        "osm_id": 735028153,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": "500",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6506734,
+          65.759231
+        ]
+      },
+      "properties": {
+        "osm_id": 791541082,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.918275,
+          64.1311673
+        ]
+      },
+      "properties": {
+        "osm_id": 900355165,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Skeljungur",
+        "address": "Bústaðavegur",
+        "city": null,
+        "postcode": "105",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9125259,
+          65.4378365
+        ]
+      },
+      "properties": {
+        "osm_id": 1201047085,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9846165,
+          64.0460396
+        ]
+      },
+      "properties": {
+        "osm_id": 1202358123,
+        "osm_type": "way",
+        "name": "N1 Norðurhella",
+        "brand": "N1",
+        "operator": "N1",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6268406,
+          65.7439564
+        ]
+      },
+      "properties": {
+        "osm_id": 1202971083,
+        "osm_type": "way",
+        "name": null,
+        "brand": "ÓB",
+        "operator": "Olís",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3217666,
+          64.1315097
+        ]
+      },
+      "properties": {
+        "osm_id": 1218664882,
+        "osm_type": "way",
+        "name": "N1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3914024,
+          63.8306365
+        ]
+      },
+      "properties": {
+        "osm_id": 1284730961,
+        "osm_type": "way",
+        "name": "Orkan",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": "Faxaflatir",
+        "city": "Hella",
+        "postcode": "850",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3969647,
+          65.2601512
+        ]
+      },
+      "properties": {
+        "osm_id": 1292397126,
+        "osm_type": "way",
+        "name": "Atlantsolía",
+        "brand": "Atlantsolía",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8426458,
+          64.1104121
+        ]
+      },
+      "properties": {
+        "osm_id": 1292832048,
+        "osm_type": "way",
+        "name": "Olís",
+        "brand": "Olís",
+        "operator": "Olís",
+        "address": "Álfabakki",
+        "city": "Reykjavík",
+        "postcode": "109",
+        "phone": "+354 557 4530",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9905421,
+          64.0401162
+        ]
+      },
+      "properties": {
+        "osm_id": 1381334574,
+        "osm_type": "way",
+        "name": "Orkan Einhella",
+        "brand": "Orkan",
+        "operator": "Orkan",
+        "address": "Einhella",
+        "city": "Hafnarfjörður",
+        "postcode": "221",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9260781,
+          64.0899634
+        ]
+      },
+      "properties": {
+        "osm_id": 7433237,
+        "osm_type": "relation",
+        "name": "Orkan",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Litlatún",
+        "city": "Garðabær",
+        "postcode": "210",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "IS"
+      }
+    }
+  ]
+}

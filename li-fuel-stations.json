@@ -1,0 +1,901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6150358,
+          47.2677821
+        ]
+      },
+      "properties": {
+        "osm_id": 275615953,
+        "osm_type": "node",
+        "name": "OMV",
+        "brand": "OMV",
+        "operator": "OMV",
+        "address": "Königshofstraße",
+        "city": "Feldkirch",
+        "postcode": "6804",
+        "phone": "+43 5522 73589",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6173711,
+          47.2244954
+        ]
+      },
+      "properties": {
+        "osm_id": 322189685,
+        "osm_type": "node",
+        "name": "OMV",
+        "brand": "OMV",
+        "operator": "OMV",
+        "address": "Feldkircher Straße",
+        "city": "Frastanz",
+        "postcode": "6820",
+        "phone": "+43 5522 51109",
+        "opening_hours": "Mo-Th 06:00-22:00; Fr-Su 06:00-24:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4886231,
+          47.2094875
+        ]
+      },
+      "properties": {
+        "osm_id": 432296457,
+        "osm_type": "node",
+        "name": "Agrola",
+        "brand": "Agrola",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4943153,
+          47.2112124
+        ]
+      },
+      "properties": {
+        "osm_id": 432296458,
+        "osm_type": "node",
+        "name": "Coop",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.521694,
+          47.1325398
+        ]
+      },
+      "properties": {
+        "osm_id": 572519925,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Toyota",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4839681,
+          47.1726778
+        ]
+      },
+      "properties": {
+        "osm_id": 623260650,
+        "osm_type": "node",
+        "name": "AVIA",
+        "brand": "Avia",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5041851,
+          47.166812
+        ]
+      },
+      "properties": {
+        "osm_id": 1306221194,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Avia",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5079903,
+          47.2111637
+        ]
+      },
+      "properties": {
+        "osm_id": 1844762225,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Avia",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.508061,
+          47.2114054
+        ]
+      },
+      "properties": {
+        "osm_id": 1844762333,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Avia",
+        "operator": "Avia",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4878351,
+          47.1230483
+        ]
+      },
+      "properties": {
+        "osm_id": 3224540989,
+        "osm_type": "node",
+        "name": "Riet Garage Tankstelle",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Sevelen",
+        "postcode": "9475",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4780441,
+          47.0704761
+        ]
+      },
+      "properties": {
+        "osm_id": 3618403643,
+        "osm_type": "node",
+        "name": "Agrola",
+        "brand": "Agrola",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4898036,
+          47.209926
+        ]
+      },
+      "properties": {
+        "osm_id": 3654662924,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5248814,
+          47.1054055
+        ]
+      },
+      "properties": {
+        "osm_id": 13110893681,
+        "osm_type": "node",
+        "name": null,
+        "brand": "AVIA",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4835105,
+          47.0765015
+        ]
+      },
+      "properties": {
+        "osm_id": 13194685681,
+        "osm_type": "node",
+        "name": "Ruedi Rüssel",
+        "brand": "Ruedi Rüssel",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4863863,
+          47.074961
+        ]
+      },
+      "properties": {
+        "osm_id": 13194685689,
+        "osm_type": "node",
+        "name": "Migrol",
+        "brand": "Migrol",
+        "operator": "Migrol",
+        "address": "Staatsstrasse",
+        "city": "Trübbach",
+        "postcode": "9477",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5911843,
+          47.2411399
+        ]
+      },
+      "properties": {
+        "osm_id": 36738554,
+        "osm_type": "way",
+        "name": "BP",
+        "brand": "BP",
+        "operator": "BP",
+        "address": "Hämmerlestraße",
+        "city": "Feldkirch",
+        "postcode": "6800",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4790498,
+          47.1649856
+        ]
+      },
+      "properties": {
+        "osm_id": 119079176,
+        "osm_type": "way",
+        "name": "Agrola",
+        "brand": "Agrola",
+        "operator": "LANDI Buchs",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 06:00-22:00, Su 07:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5170278,
+          47.1437577
+        ]
+      },
+      "properties": {
+        "osm_id": 136705442,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": "Coop",
+        "address": "Landstrasse",
+        "city": "Vaduz",
+        "postcode": "9490",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5160355,
+          47.1702502
+        ]
+      },
+      "properties": {
+        "osm_id": 306581807,
+        "osm_type": "way",
+        "name": "Migroil",
+        "brand": null,
+        "operator": "Migroll",
+        "address": "Feldkircher Strasse",
+        "city": "Schaan",
+        "postcode": "9494",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6103799,
+          47.2473253
+        ]
+      },
+      "properties": {
+        "osm_id": 317809050,
+        "osm_type": "way",
+        "name": "Jet",
+        "brand": "Jet",
+        "operator": "JET",
+        "address": "Reichsstraße",
+        "city": "Feldkirch",
+        "postcode": "6800",
+        "phone": "+43 5522 76172",
+        "opening_hours": "Mo-Fr 05:30-23:30; Sa-Su,PH 05:30-23:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5863653,
+          47.2308104
+        ]
+      },
+      "properties": {
+        "osm_id": 320200954,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Liechtensteiner Straße",
+        "city": "Feldkirch",
+        "postcode": "6800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6042143,
+          47.2686314
+        ]
+      },
+      "properties": {
+        "osm_id": 326265511,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": "Scheier",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6097998,
+          47.2467745
+        ]
+      },
+      "properties": {
+        "osm_id": 340468442,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Reichsstraße",
+        "city": "Feldkirch",
+        "postcode": "6800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5232872,
+          47.1245542
+        ]
+      },
+      "properties": {
+        "osm_id": 364544542,
+        "osm_type": "way",
+        "name": "SOCAR",
+        "brand": "Socar",
+        "operator": "SOCAR Energy Switzerland GmbH",
+        "address": "Gewerbeweg",
+        "city": "Vaduz",
+        "postcode": "9490",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6152483,
+          47.2632956
+        ]
+      },
+      "properties": {
+        "osm_id": 364880273,
+        "osm_type": "way",
+        "name": "diskonttank",
+        "brand": null,
+        "operator": "Gutmann GmbH",
+        "address": "Königshofstraße",
+        "city": "Feldkirch",
+        "postcode": "6800",
+        "phone": null,
+        "opening_hours": "06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5141929,
+          47.1454049
+        ]
+      },
+      "properties": {
+        "osm_id": 399332603,
+        "osm_type": "way",
+        "name": "Eni",
+        "brand": "Eni",
+        "operator": null,
+        "address": "Landstrasse",
+        "city": "Vaduz",
+        "postcode": "9490",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4800846,
+          47.1568087
+        ]
+      },
+      "properties": {
+        "osm_id": 420595625,
+        "osm_type": "way",
+        "name": "BP Tankstelle",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5003854,
+          47.1459274
+        ]
+      },
+      "properties": {
+        "osm_id": 552405757,
+        "osm_type": "way",
+        "name": "BP",
+        "brand": "BP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5011259,
+          47.1462334
+        ]
+      },
+      "properties": {
+        "osm_id": 552405760,
+        "osm_type": "way",
+        "name": "BP",
+        "brand": "BP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5482441,
+          47.206293
+        ]
+      },
+      "properties": {
+        "osm_id": 984438214,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Vorarlberger-Strasse",
+        "city": "Schaanwald",
+        "postcode": "9486",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4981707,
+          47.104278
+        ]
+      },
+      "properties": {
+        "osm_id": 1168831640,
+        "osm_type": "way",
+        "name": "Freie Tankstelle",
+        "brand": null,
+        "operator": "Garage Willi AG",
+        "address": "Plattis",
+        "city": "Weite",
+        "postcode": "9476",
+        "phone": "+41 81 785 12 52",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.526787,
+          47.2078402
+        ]
+      },
+      "properties": {
+        "osm_id": 1321462007,
+        "osm_type": "way",
+        "name": "Coop Tankstelle",
+        "brand": "Coop",
+        "operator": "Artan Bekteshi",
+        "address": "Essanestrasse",
+        "city": "Eschen",
+        "postcode": "9492",
+        "phone": "+423 370 14 35",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LI"
+      }
+    }
+  ]
+}
