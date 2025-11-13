@@ -1,0 +1,5073 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8446363,
+          21.1140281
+        ]
+      },
+      "properties": {
+        "osm_id": 700515586,
+        "osm_type": "node",
+        "name": "Servicentro Guardalavaca",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5272718,
+          21.2352932
+        ]
+      },
+      "properties": {
+        "osm_id": 702255904,
+        "osm_type": "node",
+        "name": "Oro Negro Sibanicú",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": null,
+        "postcode": null,
+        "phone": "+53 32 380284",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8038814,
+          21.2774765
+        ]
+      },
+      "properties": {
+        "osm_id": 818734135,
+        "osm_type": "node",
+        "name": "Servicentro Gimbambay",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3674412,
+          22.5075417
+        ]
+      },
+      "properties": {
+        "osm_id": 1283037862,
+        "osm_type": "node",
+        "name": "Servicentro La Rotonda",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Rotonda de 4 Caminos",
+        "city": "Cayo Coco",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.903294,
+          21.3685729
+        ]
+      },
+      "properties": {
+        "osm_id": 1529435123,
+        "osm_type": "node",
+        "name": "Servicentro Oriente",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central Este",
+        "city": null,
+        "postcode": null,
+        "phone": "32 296038",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6683315,
+          26.5193318
+        ]
+      },
+      "properties": {
+        "osm_id": 1881825236,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6374823,
+          26.5169116
+        ]
+      },
+      "properties": {
+        "osm_id": 1883117247,
+        "osm_type": "node",
+        "name": "Grand Bahama Yacht Club",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9071503,
+          21.3930795
+        ]
+      },
+      "properties": {
+        "osm_id": 2131885650,
+        "osm_type": "node",
+        "name": "Servicentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9150043,
+          21.3757595
+        ]
+      },
+      "properties": {
+        "osm_id": 2131888372,
+        "osm_type": "node",
+        "name": "Servicentro Libertad",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central Oeste",
+        "city": null,
+        "postcode": null,
+        "phone": "32 297240",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9164298,
+          21.3736115
+        ]
+      },
+      "properties": {
+        "osm_id": 2131893487,
+        "osm_type": "node",
+        "name": "Servicentro Via Blanca",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central Oeste",
+        "city": "Camagüey",
+        "postcode": null,
+        "phone": "32 297186",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9389622,
+          20.9671908
+        ]
+      },
+      "properties": {
+        "osm_id": 2132515148,
+        "osm_type": "node",
+        "name": "Servicentro El Pnachito",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9629505,
+          20.9547003
+        ]
+      },
+      "properties": {
+        "osm_id": 2132515153,
+        "osm_type": "node",
+        "name": "Servicentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0427062,
+          21.5573173
+        ]
+      },
+      "properties": {
+        "osm_id": 2161765921,
+        "osm_type": "node",
+        "name": "Servicentro Policentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Turística",
+        "city": null,
+        "postcode": null,
+        "phone": "+53 32 365475",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9428993,
+          20.96557
+        ]
+      },
+      "properties": {
+        "osm_id": 2317616416,
+        "osm_type": "node",
+        "name": "Servicentro El Especial",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9704729,
+          22.1456516
+        ]
+      },
+      "properties": {
+        "osm_id": 2405792434,
+        "osm_type": "node",
+        "name": "Servicentro La Trocha",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9663038,
+          20.9576946
+        ]
+      },
+      "properties": {
+        "osm_id": 2435816452,
+        "osm_type": "node",
+        "name": "Servicentro FINCIMEX",
+        "brand": null,
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7822516,
+          22.1686682
+        ]
+      },
+      "properties": {
+        "osm_id": 2616500410,
+        "osm_type": "node",
+        "name": "Oro Negro Falla",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": "Circuito Norte",
+        "city": "Falla",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9164552,
+          22.1948743
+        ]
+      },
+      "properties": {
+        "osm_id": 2616500415,
+        "osm_type": "node",
+        "name": "Servicentro El Triángulo",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3671418,
+          22.4806461
+        ]
+      },
+      "properties": {
+        "osm_id": 2619215752,
+        "osm_type": "node",
+        "name": "Transtur",
+        "brand": null,
+        "operator": "Grupo CubaSol SA",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2250859,
+          21.5259573
+        ]
+      },
+      "properties": {
+        "osm_id": 2681388374,
+        "osm_type": "node",
+        "name": "Servicentro Florida",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central y Francisco V. Aguilera",
+        "city": "Florida",
+        "postcode": null,
+        "phone": "+53 32 51 3347",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1168151,
+          21.8495908
+        ]
+      },
+      "properties": {
+        "osm_id": 2823632055,
+        "osm_type": "node",
+        "name": "Servicentro El Popular",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7335252,
+          26.5175103
+        ]
+      },
+      "properties": {
+        "osm_id": 3213319219,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8842968,
+          21.3616781
+        ]
+      },
+      "properties": {
+        "osm_id": 3243991384,
+        "osm_type": "node",
+        "name": "Servicentro Jayamá",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": "Camagüey",
+        "postcode": null,
+        "phone": "32 273692",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9002689,
+          21.3928687
+        ]
+      },
+      "properties": {
+        "osm_id": 3360833106,
+        "osm_type": "node",
+        "name": "Servicentro Saratoga",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Saratoga",
+        "city": null,
+        "postcode": null,
+        "phone": "32 285504",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4549511,
+          21.1954825
+        ]
+      },
+      "properties": {
+        "osm_id": 3390656817,
+        "osm_type": "node",
+        "name": "Servicentro Cascorro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": "Cascorro",
+        "postcode": null,
+        "phone": "+53 32 878402",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0580149,
+          26.5442007
+        ]
+      },
+      "properties": {
+        "osm_id": 3425099794,
+        "osm_type": "node",
+        "name": "Abaco Suzuki",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "242-367-3695",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7906423,
+          26.9198229
+        ]
+      },
+      "properties": {
+        "osm_id": 3445313293,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7928648,
+          26.9199481
+        ]
+      },
+      "properties": {
+        "osm_id": 3445313493,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8657033,
+          21.4147145
+        ]
+      },
+      "properties": {
+        "osm_id": 3454613844,
+        "osm_type": "node",
+        "name": "Servicentro Israel Reyes",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Dr. Carlos Juan Finlay",
+        "city": "Ciudad de Camagüey",
+        "postcode": null,
+        "phone": "32 264145",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0409018,
+          25.1475304
+        ]
+      },
+      "properties": {
+        "osm_id": 3524470493,
+        "osm_type": "node",
+        "name": "Campbell Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0316449,
+          25.1472348
+        ]
+      },
+      "properties": {
+        "osm_id": 3524470894,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9339049,
+          21.386297
+        ]
+      },
+      "properties": {
+        "osm_id": 3586900118,
+        "osm_type": "node",
+        "name": "Oro Negro El Sputnik",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3244124,
+          25.0577333
+        ]
+      },
+      "properties": {
+        "osm_id": 3716223791,
+        "osm_type": "node",
+        "name": "Shell Service Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8139084,
+          21.2841928
+        ]
+      },
+      "properties": {
+        "osm_id": 3746420189,
+        "osm_type": "node",
+        "name": "Servicentro Bidot",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8784756,
+          21.3586582
+        ]
+      },
+      "properties": {
+        "osm_id": 3775292960,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "MININT",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.742558,
+          21.9539259
+        ]
+      },
+      "properties": {
+        "osm_id": 3816349680,
+        "osm_type": "node",
+        "name": "Servicentro Ceballos",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": "Ceballos",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6446795,
+          22.567802
+        ]
+      },
+      "properties": {
+        "osm_id": 3881534444,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7610676,
+          26.5176123
+        ]
+      },
+      "properties": {
+        "osm_id": 3905448469,
+        "osm_type": "node",
+        "name": "Petro Express",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6364508,
+          26.5362725
+        ]
+      },
+      "properties": {
+        "osm_id": 3924622875,
+        "osm_type": "node",
+        "name": "Five Palms",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 06:30-19:00; Su 07:00-19:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1596607,
+          24.8646172
+        ]
+      },
+      "properties": {
+        "osm_id": 4124168428,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1799253,
+          24.9728764
+        ]
+      },
+      "properties": {
+        "osm_id": 4124430795,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5567608,
+          25.3938741
+        ]
+      },
+      "properties": {
+        "osm_id": 4131013406,
+        "osm_type": "node",
+        "name": "7 to Eleven",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9511823,
+          20.9546394
+        ]
+      },
+      "properties": {
+        "osm_id": 4527032872,
+        "osm_type": "node",
+        "name": "Oro Negro Luanda",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": "Francisco Varona",
+        "city": null,
+        "postcode": null,
+        "phone": "31 346263",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2290552,
+          21.5289957
+        ]
+      },
+      "properties": {
+        "osm_id": 4527054675,
+        "osm_type": "node",
+        "name": "Servicentro El Seguro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42771,
+          25.0749247
+        ]
+      },
+      "properties": {
+        "osm_id": 4592069489,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.399007,
+          25.0345769
+        ]
+      },
+      "properties": {
+        "osm_id": 4607970092,
+        "osm_type": "node",
+        "name": "Caribbean Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "2423414881",
+        "opening_hours": "Mo-Sa 07:00-17:00; Su 07:00-13:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4451999,
+          21.148985
+        ]
+      },
+      "properties": {
+        "osm_id": 5265116679,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3507836,
+          21.0897436
+        ]
+      },
+      "properties": {
+        "osm_id": 5327517633,
+        "osm_type": "node",
+        "name": "Servicentro Velazco",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida 26",
+        "city": null,
+        "postcode": null,
+        "phone": "+53 24 864467",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8891933,
+          21.4025082
+        ]
+      },
+      "properties": {
+        "osm_id": 5343188879,
+        "osm_type": "node",
+        "name": "Servicentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7796978,
+          21.8488348
+        ]
+      },
+      "properties": {
+        "osm_id": 5353963349,
+        "osm_type": "node",
+        "name": "Servicentro El Avileño",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5394597,
+          20.9298774
+        ]
+      },
+      "properties": {
+        "osm_id": 5400155925,
+        "osm_type": "node",
+        "name": "Servicentro Jíquima",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4402044,
+          21.9404052
+        ]
+      },
+      "properties": {
+        "osm_id": 5603333438,
+        "osm_type": "node",
+        "name": "Servicentro Primero de Enero",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6848459,
+          21.6668404
+        ]
+      },
+      "properties": {
+        "osm_id": 5666799826,
+        "osm_type": "node",
+        "name": "Servicentro Sola",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "32 615202; 32 615500",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0425681,
+          25.0546296
+        ]
+      },
+      "properties": {
+        "osm_id": 5830688390,
+        "osm_type": "node",
+        "name": "AirPort service station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7996956,
+          24.7371024
+        ]
+      },
+      "properties": {
+        "osm_id": 5935035986,
+        "osm_type": "node",
+        "name": "Rooney’s",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3793402,
+          26.7410689
+        ]
+      },
+      "properties": {
+        "osm_id": 6771625551,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.800109,
+          21.750972
+        ]
+      },
+      "properties": {
+        "osm_id": 6845273685,
+        "osm_type": "node",
+        "name": "Servicentro Simón Reyes",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Línea",
+        "city": "Venezuela",
+        "postcode": null,
+        "phone": "33 491050",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9100838,
+          23.6145326
+        ]
+      },
+      "properties": {
+        "osm_id": 6970501326,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6736416,
+          21.2512047
+        ]
+      },
+      "properties": {
+        "osm_id": 7078930005,
+        "osm_type": "node",
+        "name": "Servicentro Siboney",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9404106,
+          21.3729203
+        ]
+      },
+      "properties": {
+        "osm_id": 7129588354,
+        "osm_type": "node",
+        "name": "Servicentro Victoria",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9557599,
+          21.8342552
+        ]
+      },
+      "properties": {
+        "osm_id": 7243757994,
+        "osm_type": "node",
+        "name": "Servicentro Jaronú",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4722768,
+          21.1645544
+        ]
+      },
+      "properties": {
+        "osm_id": 7471768797,
+        "osm_type": "node",
+        "name": "Servicentro Chaparra",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8962507,
+          21.7662274
+        ]
+      },
+      "properties": {
+        "osm_id": 8239158672,
+        "osm_type": "node",
+        "name": "Servicentro Juventud Heroica",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6796339,
+          21.7998469
+        ]
+      },
+      "properties": {
+        "osm_id": 8239162164,
+        "osm_type": "node",
+        "name": "Servicentro El Mambí",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 12:00-11:59",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3802631,
+          21.8582824
+        ]
+      },
+      "properties": {
+        "osm_id": 8239165764,
+        "osm_type": "node",
+        "name": "Servicentro El Triunfo",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8529658,
+          21.6213373
+        ]
+      },
+      "properties": {
+        "osm_id": 8239178765,
+        "osm_type": "node",
+        "name": "Servicentro Júcaro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3524691,
+          22.0794804
+        ]
+      },
+      "properties": {
+        "osm_id": 8243576125,
+        "osm_type": "node",
+        "name": "Servicentro Sofia",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8137889,
+          22.379892
+        ]
+      },
+      "properties": {
+        "osm_id": 8243864195,
+        "osm_type": "node",
+        "name": "Servicentro Pesca San Juan",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.885389,
+          22.2491586
+        ]
+      },
+      "properties": {
+        "osm_id": 8243915718,
+        "osm_type": "node",
+        "name": "Servicentro El Asiento",
+        "brand": null,
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9125141,
+          22.1145391
+        ]
+      },
+      "properties": {
+        "osm_id": 8243959897,
+        "osm_type": "node",
+        "name": "Servicentro Tamarindo",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7915159,
+          26.5329262
+        ]
+      },
+      "properties": {
+        "osm_id": 9272496324,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6342,
+          22.1122259
+        ]
+      },
+      "properties": {
+        "osm_id": 9481093323,
+        "osm_type": "node",
+        "name": "Servicentro El Rápido",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Libertad",
+        "city": null,
+        "postcode": null,
+        "phone": "33 504103",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6277208,
+          22.1032155
+        ]
+      },
+      "properties": {
+        "osm_id": 9481093335,
+        "osm_type": "node",
+        "name": "Oro Negro Morón",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Tarafa",
+        "city": null,
+        "postcode": null,
+        "phone": "33 503858;33 503878;33 503837",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8507434,
+          21.1039795
+        ]
+      },
+      "properties": {
+        "osm_id": 11597923263,
+        "osm_type": "node",
+        "name": "Servicentro Aguada La Piedra",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9364202,
+          21.3132864
+        ]
+      },
+      "properties": {
+        "osm_id": 12539206301,
+        "osm_type": "node",
+        "name": "Manatí",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1522629,
+          21.2573925
+        ]
+      },
+      "properties": {
+        "osm_id": 12682561210,
+        "osm_type": "node",
+        "name": "Servicentro Vertientes",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8233758,
+          22.235602
+        ]
+      },
+      "properties": {
+        "osm_id": 13104531285,
+        "osm_type": "node",
+        "name": "Servicentro Cayo Cruz",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6377557,
+          26.5196064
+        ]
+      },
+      "properties": {
+        "osm_id": 191388524,
+        "osm_type": "way",
+        "name": "Cooper's",
+        "brand": null,
+        "operator": null,
+        "address": "Midshipman Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6791651,
+          26.517043
+        ]
+      },
+      "properties": {
+        "osm_id": 191983457,
+        "osm_type": "way",
+        "name": "Blvd",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6946818,
+          26.5393622
+        ]
+      },
+      "properties": {
+        "osm_id": 191986586,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Settler's Way",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6930534,
+          26.5174931
+        ]
+      },
+      "properties": {
+        "osm_id": 196495485,
+        "osm_type": "way",
+        "name": "FOCOL",
+        "brand": null,
+        "operator": null,
+        "address": "East Sunrise Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7023947,
+          26.5427257
+        ]
+      },
+      "properties": {
+        "osm_id": 205489171,
+        "osm_type": "way",
+        "name": "Queen's Highway Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6982806,
+          26.5327894
+        ]
+      },
+      "properties": {
+        "osm_id": 205506814,
+        "osm_type": "way",
+        "name": "Freeport Jetwash",
+        "brand": null,
+        "operator": null,
+        "address": "West Atlantic Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6974424,
+          26.5328548
+        ]
+      },
+      "properties": {
+        "osm_id": 205506815,
+        "osm_type": "way",
+        "name": "Freeport Jetwash",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5146618,
+          21.8645223
+        ]
+      },
+      "properties": {
+        "osm_id": 276918751,
+        "osm_type": "way",
+        "name": "Servicentro La Cuba",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5331835,
+          21.7503745
+        ]
+      },
+      "properties": {
+        "osm_id": 277447459,
+        "osm_type": "way",
+        "name": "Servicentro El Centro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5953388,
+          22.118894
+        ]
+      },
+      "properties": {
+        "osm_id": 332237967,
+        "osm_type": "way",
+        "name": "Servicentro La Nueva Imagen",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": "Morón",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24 Horas",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7686657,
+          23.5053933
+        ]
+      },
+      "properties": {
+        "osm_id": 341087752,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "336-2378",
+        "opening_hours": "Mo-Sa 06:00-19:00; Su 07:00-11:00, 14:00-17:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0298293,
+          25.1716751
+        ]
+      },
+      "properties": {
+        "osm_id": 345797026,
+        "osm_type": "way",
+        "name": "David Romer & Son",
+        "brand": "Sol Petroleum",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3518945,
+          25.0333059
+        ]
+      },
+      "properties": {
+        "osm_id": 369272775,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.390294,
+          25.0156454
+        ]
+      },
+      "properties": {
+        "osm_id": 374040678,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.316883,
+          25.058281
+        ]
+      },
+      "properties": {
+        "osm_id": 375011024,
+        "osm_type": "way",
+        "name": "Esso On The Run",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Wulff Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.321815,
+          25.057676
+        ]
+      },
+      "properties": {
+        "osm_id": 375056219,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Wulff Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3648106,
+          25.0799453
+        ]
+      },
+      "properties": {
+        "osm_id": 375190782,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "West Bay Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3726789,
+          25.0781503
+        ]
+      },
+      "properties": {
+        "osm_id": 375192123,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "West Bay Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.332904,
+          25.0589845
+        ]
+      },
+      "properties": {
+        "osm_id": 375341059,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Wulff Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3341691,
+          25.0587785
+        ]
+      },
+      "properties": {
+        "osm_id": 375348697,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Wulff Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3274536,
+          25.0580553
+        ]
+      },
+      "properties": {
+        "osm_id": 375410256,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3259011,
+          25.0475623
+        ]
+      },
+      "properties": {
+        "osm_id": 375763854,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Prince Charles Drive",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0618321,
+          26.5344181
+        ]
+      },
+      "properties": {
+        "osm_id": 378358565,
+        "osm_type": "way",
+        "name": "K and S Auto Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "Crockett Drive",
+        "city": "Marsh Harbour",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7520346,
+          21.8386386
+        ]
+      },
+      "properties": {
+        "osm_id": 406911675,
+        "osm_type": "way",
+        "name": "Oro Negro Ciego de Ávila",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+53 33 214443",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6775551,
+          20.9516024
+        ]
+      },
+      "properties": {
+        "osm_id": 407542950,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4602944,
+          25.0545758
+        ]
+      },
+      "properties": {
+        "osm_id": 407981005,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3306846,
+          25.0765157
+        ]
+      },
+      "properties": {
+        "osm_id": 408048398,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.314258,
+          25.0743219
+        ]
+      },
+      "properties": {
+        "osm_id": 408472704,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "East Bay Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3131465,
+          25.0703001
+        ]
+      },
+      "properties": {
+        "osm_id": 408473586,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Shirley Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.316847,
+          25.0741191
+        ]
+      },
+      "properties": {
+        "osm_id": 408474709,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "East Bay Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3240755,
+          25.0731673
+        ]
+      },
+      "properties": {
+        "osm_id": 408481171,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Shirley Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2928512,
+          25.0365609
+        ]
+      },
+      "properties": {
+        "osm_id": 408500575,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Prince Charles Drive",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3508289,
+          25.043909
+        ]
+      },
+      "properties": {
+        "osm_id": 408718585,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Tonique Darling Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3751544,
+          25.0456387
+        ]
+      },
+      "properties": {
+        "osm_id": 408719325,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Tonique Darling Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3730923,
+          25.0603191
+        ]
+      },
+      "properties": {
+        "osm_id": 408719864,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3648409,
+          25.0568441
+        ]
+      },
+      "properties": {
+        "osm_id": 408720768,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Thompson Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3820685,
+          25.0324765
+        ]
+      },
+      "properties": {
+        "osm_id": 408724540,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Fire Trail Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3750525,
+          25.0217622
+        ]
+      },
+      "properties": {
+        "osm_id": 408727104,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Carmichael Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3108138,
+          25.0252518
+        ]
+      },
+      "properties": {
+        "osm_id": 408729589,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Joe Farrington Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3499544,
+          25.0447684
+        ]
+      },
+      "properties": {
+        "osm_id": 408782158,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Baillou Hill Road",
+        "city": "Nassau",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3584007,
+          25.0580914
+        ]
+      },
+      "properties": {
+        "osm_id": 408783371,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Thompson Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3770985,
+          25.0205387
+        ]
+      },
+      "properties": {
+        "osm_id": 408784129,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Carmichael Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3423722,
+          25.0379486
+        ]
+      },
+      "properties": {
+        "osm_id": 408874172,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Soldier Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3426031,
+          25.0191808
+        ]
+      },
+      "properties": {
+        "osm_id": 408878707,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Bamboo Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3643169,
+          25.0271542
+        ]
+      },
+      "properties": {
+        "osm_id": 408901581,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Carmichael Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3422924,
+          25.0384707
+        ]
+      },
+      "properties": {
+        "osm_id": 408904395,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "East Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4924863,
+          25.048359
+        ]
+      },
+      "properties": {
+        "osm_id": 408947700,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059358,
+          26.5395945
+        ]
+      },
+      "properties": {
+        "osm_id": 410330416,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Don Mackay Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0603541,
+          26.5368591
+        ]
+      },
+      "properties": {
+        "osm_id": 410341079,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Don Mackay Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0762527,
+          26.5441184
+        ]
+      },
+      "properties": {
+        "osm_id": 410346993,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Queen Elizabeth Drive",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.083862,
+          26.543321
+        ]
+      },
+      "properties": {
+        "osm_id": 410355960,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1619366,
+          24.8723096
+        ]
+      },
+      "properties": {
+        "osm_id": 410594240,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1624397,
+          24.873352
+        ]
+      },
+      "properties": {
+        "osm_id": 410609957,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1828112,
+          24.9598086
+        ]
+      },
+      "properties": {
+        "osm_id": 410615685,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1853897,
+          25.1603301
+        ]
+      },
+      "properties": {
+        "osm_id": 410653017,
+        "osm_type": "way",
+        "name": "Paradise Service Plaza",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1864513,
+          25.1604776
+        ]
+      },
+      "properties": {
+        "osm_id": 410654260,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2405439,
+          25.1917886
+        ]
+      },
+      "properties": {
+        "osm_id": 410654641,
+        "osm_type": "way",
+        "name": "Esso (VISA and MC Accepted)",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.243758,
+          25.1954991
+        ]
+      },
+      "properties": {
+        "osm_id": 410657609,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Queen's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5563992,
+          25.393578
+        ]
+      },
+      "properties": {
+        "osm_id": 411429768,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7050773,
+          25.4699802
+        ]
+      },
+      "properties": {
+        "osm_id": 411436358,
+        "osm_type": "way",
+        "name": "RUBiS",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3466016,
+          25.0615082
+        ]
+      },
+      "properties": {
+        "osm_id": 431324237,
+        "osm_type": "way",
+        "name": "BPSU On The Go Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3477836,
+          25.061468
+        ]
+      },
+      "properties": {
+        "osm_id": 431324580,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3495414,
+          25.047678
+        ]
+      },
+      "properties": {
+        "osm_id": 433262512,
+        "osm_type": "way",
+        "name": "Shell Service Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3410952,
+          25.0520165
+        ]
+      },
+      "properties": {
+        "osm_id": 434551669,
+        "osm_type": "way",
+        "name": "Esso Service Station",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7023233,
+          22.0174809
+        ]
+      },
+      "properties": {
+        "osm_id": 442124201,
+        "osm_type": "way",
+        "name": "Servicentro El Fortín",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3254888,
+          25.0655377
+        ]
+      },
+      "properties": {
+        "osm_id": 442871847,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3300446,
+          25.0683757
+        ]
+      },
+      "properties": {
+        "osm_id": 442875915,
+        "osm_type": "way",
+        "name": "Esso Palmdale Service Station",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2920534,
+          25.0363037
+        ]
+      },
+      "properties": {
+        "osm_id": 442977931,
+        "osm_type": "way",
+        "name": "rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3020289,
+          25.0366882
+        ]
+      },
+      "properties": {
+        "osm_id": 442979469,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.354916,
+          25.0646443
+        ]
+      },
+      "properties": {
+        "osm_id": 443682988,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3431317,
+          25.0203269
+        ]
+      },
+      "properties": {
+        "osm_id": 444206403,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3184959,
+          25.0626223
+        ]
+      },
+      "properties": {
+        "osm_id": 444336802,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3488999,
+          25.0525454
+        ]
+      },
+      "properties": {
+        "osm_id": 444339664,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0782535,
+          23.1414965
+        ]
+      },
+      "properties": {
+        "osm_id": 445932264,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8844858,
+          21.360221
+        ]
+      },
+      "properties": {
+        "osm_id": 448862342,
+        "osm_type": "way",
+        "name": "Servicentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Mónaco Sur",
+        "city": null,
+        "postcode": null,
+        "phone": "+53 32 270095",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4186894,
+          20.9856548
+        ]
+      },
+      "properties": {
+        "osm_id": 455324937,
+        "osm_type": "way",
+        "name": "Servicentro Terpel El Principal",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Cándido González",
+        "city": null,
+        "postcode": null,
+        "phone": "31 625345",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1308086,
+          21.1034922
+        ]
+      },
+      "properties": {
+        "osm_id": 522724605,
+        "osm_type": "way",
+        "name": "Oro Negro Los Pinos",
+        "brand": "Oro Negro",
+        "operator": "CUPET - CIMEX",
+        "address": "Ronda de la Marina",
+        "city": "Gibara",
+        "postcode": null,
+        "phone": "+53 24 844223",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6449895,
+          22.110748
+        ]
+      },
+      "properties": {
+        "osm_id": 522879809,
+        "osm_type": "way",
+        "name": "Servicentro",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4042997,
+          20.9884299
+        ]
+      },
+      "properties": {
+        "osm_id": 590306783,
+        "osm_type": "way",
+        "name": "Servicentro Colombia",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "31 625662",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5560035,
+          25.3908022
+        ]
+      },
+      "properties": {
+        "osm_id": 724088002,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7420735,
+          20.9671407
+        ]
+      },
+      "properties": {
+        "osm_id": 738670520,
+        "osm_type": "way",
+        "name": "Servicentro Banes",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.869464,
+          23.5739434
+        ]
+      },
+      "properties": {
+        "osm_id": 744780452,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": "Rubis Gas Station",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6138565,
+          21.4841811
+        ]
+      },
+      "properties": {
+        "osm_id": 775828025,
+        "osm_type": "way",
+        "name": "Servicentro Minas",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Cisneros",
+        "city": null,
+        "postcode": null,
+        "phone": "32 697283",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2773753,
+          21.5496685
+        ]
+      },
+      "properties": {
+        "osm_id": 787145232,
+        "osm_type": "way",
+        "name": "Servicentro Circunvalación",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2660343,
+          21.5382829
+        ]
+      },
+      "properties": {
+        "osm_id": 803340910,
+        "osm_type": "way",
+        "name": "Servicentro Nuevitas",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": "Nuevitas",
+        "postcode": null,
+        "phone": "+53 32 412348",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9801949,
+          25.0526937
+        ]
+      },
+      "properties": {
+        "osm_id": 1053162068,
+        "osm_type": "way",
+        "name": "David Romer's and Son",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3584661,
+          25.0695586
+        ]
+      },
+      "properties": {
+        "osm_id": 1157887814,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7404553,
+          21.8503616
+        ]
+      },
+      "properties": {
+        "osm_id": 1203384722,
+        "osm_type": "way",
+        "name": "Servicentro Ciego de Ávila",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.866835,
+          21.4152365
+        ]
+      },
+      "properties": {
+        "osm_id": 1286470479,
+        "osm_type": "way",
+        "name": "Servi FAR",
+        "brand": null,
+        "operator": "MINFAR",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7496555,
+          21.080974
+        ]
+      },
+      "properties": {
+        "osm_id": 1286678155,
+        "osm_type": "way",
+        "name": "Servicentro Najasa",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.968545,
+          20.9604474
+        ]
+      },
+      "properties": {
+        "osm_id": 1286678158,
+        "osm_type": "way",
+        "name": "Servicentro Las Tunas",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "31 346284",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15122,
+          21.3752322
+        ]
+      },
+      "properties": {
+        "osm_id": 1287575939,
+        "osm_type": "way",
+        "name": "Servicentro Camalote",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "32 849131;32 849280",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9306076,
+          21.385849
+        ]
+      },
+      "properties": {
+        "osm_id": 1288207112,
+        "osm_type": "way",
+        "name": "Servicentro Camagüey",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "32 296766",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7578318,
+          21.8462266
+        ]
+      },
+      "properties": {
+        "osm_id": 1296665070,
+        "osm_type": "way",
+        "name": "Marcial Gómez",
+        "brand": "Cupet",
+        "operator": "CUPET – CIMEX",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "33 21 6129",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9088808,
+          21.4152107
+        ]
+      },
+      "properties": {
+        "osm_id": 1341846159,
+        "osm_type": "way",
+        "name": "Servicentro El Tinajón",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Circunvalación Norte",
+        "city": "Camagüey",
+        "postcode": null,
+        "phone": "+53 32 261929",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6043374,
+          21.1955425
+        ]
+      },
+      "properties": {
+        "osm_id": 1348808403,
+        "osm_type": "way",
+        "name": "Servicentro Puerto Padre",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Avenida Libertad",
+        "city": "Puerto Padre",
+        "postcode": "77210",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5578407,
+          21.175053
+        ]
+      },
+      "properties": {
+        "osm_id": 1349100300,
+        "osm_type": "way",
+        "name": "Servicentro Las Delicias",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Calle 7",
+        "city": "Delicias",
+        "postcode": null,
+        "phone": "+53 31 565801",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9444469,
+          20.9474021
+        ]
+      },
+      "properties": {
+        "osm_id": 1374532022,
+        "osm_type": "way",
+        "name": "Servicentro La Sierra",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": null,
+        "city": "Las Tunas",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7418283,
+          20.9673671
+        ]
+      },
+      "properties": {
+        "osm_id": 1377940637,
+        "osm_type": "way",
+        "name": "Diesel",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2779575,
+          21.5782869
+        ]
+      },
+      "properties": {
+        "osm_id": 1390599143,
+        "osm_type": "way",
+        "name": "Servicentro Céspedes",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Calle 17",
+        "city": null,
+        "postcode": null,
+        "phone": "32 569124",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.002482,
+          21.0259627
+        ]
+      },
+      "properties": {
+        "osm_id": 1393360591,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7763293,
+          21.8466607
+        ]
+      },
+      "properties": {
+        "osm_id": 1427242120,
+        "osm_type": "way",
+        "name": "Servicentro Oeste",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3540842,
+          21.0550703
+        ]
+      },
+      "properties": {
+        "osm_id": 1442205760,
+        "osm_type": "way",
+        "name": "Servicentro La Marquesina",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": "Guáimaro",
+        "postcode": null,
+        "phone": "32 81 2739",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3451775,
+          21.0533573
+        ]
+      },
+      "properties": {
+        "osm_id": 1442210519,
+        "osm_type": "way",
+        "name": "Servicentro El Alamo",
+        "brand": "Cupet",
+        "operator": "CUPET - CIMEX",
+        "address": "Carretera Central",
+        "city": "Guáimaro",
+        "postcode": null,
+        "phone": "32 81 2565",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BS"
+      }
+    }
+  ]
+}

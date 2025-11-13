@@ -1,0 +1,1041 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9586426,
+          14.0173793
+        ]
+      },
+      "properties": {
+        "osm_id": 3958997865,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0503531,
+          13.7746074
+        ]
+      },
+      "properties": {
+        "osm_id": 3971778611,
+        "osm_type": "node",
+        "name": "Choiseul Fishermen's Co-operative Society Limited",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "LC10 101",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0377789,
+          13.774723
+        ]
+      },
+      "properties": {
+        "osm_id": 3976500004,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0122084,
+          13.9956318
+        ]
+      },
+      "properties": {
+        "osm_id": 4015234533,
+        "osm_type": "node",
+        "name": "Sol Millennium Service Station",
+        "brand": "Sol",
+        "operator": null,
+        "address": "Millennium Highway",
+        "city": "Castries",
+        "postcode": null,
+        "phone": "1-758-453-7962",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9354304,
+          13.7984905
+        ]
+      },
+      "properties": {
+        "osm_id": 4017281806,
+        "osm_type": "node",
+        "name": "Mc Kennis Filling Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.982981,
+          14.010457
+        ]
+      },
+      "properties": {
+        "osm_id": 5221688877,
+        "osm_type": "node",
+        "name": "sol gas",
+        "brand": "Sol",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 09:00-16:00,13:30-18:30;Sa 09:00-17:00;PH closed",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9871538,
+          14.0091007
+        ]
+      },
+      "properties": {
+        "osm_id": 5299556602,
+        "osm_type": "node",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30;Sa-Su 09:00-17:00;PH closed",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0402748,
+          13.9458729
+        ]
+      },
+      "properties": {
+        "osm_id": 6881327272,
+        "osm_type": "node",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9655558,
+          14.0531357
+        ]
+      },
+      "properties": {
+        "osm_id": 7632439852,
+        "osm_type": "node",
+        "name": "Sol",
+        "brand": "Sol",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0543789,
+          13.8551758
+        ]
+      },
+      "properties": {
+        "osm_id": 11975652617,
+        "osm_type": "node",
+        "name": "Cool Breeze",
+        "brand": "Sol Gas",
+        "operator": "Cool Breeze",
+        "address": "Sir Arther Lewis Street",
+        "city": "Soufriere",
+        "postcode": null,
+        "phone": "459-7729",
+        "opening_hours": "Mo-Th 06:30-21:00; Fr-Sa 06:30-22:00; Su 07:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9520323,
+          13.7313976
+        ]
+      },
+      "properties": {
+        "osm_id": 257662883,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Laborie Vieux-Fort Highway",
+        "city": "Vieux Fort",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9571866,
+          14.0660549
+        ]
+      },
+      "properties": {
+        "osm_id": 352849646,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9073216,
+          13.8549067
+        ]
+      },
+      "properties": {
+        "osm_id": 352874762,
+        "osm_type": "way",
+        "name": "Mon Repos Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9900959,
+          13.7524299
+        ]
+      },
+      "properties": {
+        "osm_id": 392507262,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Laborie",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9896904,
+          14.0201255
+        ]
+      },
+      "properties": {
+        "osm_id": 392665386,
+        "osm_type": "way",
+        "name": "Jn Marie & Sons: Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "L'Anse Road",
+        "city": "Castries",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9615817,
+          14.0544339
+        ]
+      },
+      "properties": {
+        "osm_id": 396010393,
+        "osm_type": "way",
+        "name": "SuperServ Rubis Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Gros Islet Highway",
+        "city": "Bois D'Orange, Gros Islet",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9923085,
+          14.0098478
+        ]
+      },
+      "properties": {
+        "osm_id": 396108938,
+        "osm_type": "way",
+        "name": "Leo's",
+        "brand": null,
+        "operator": null,
+        "address": "Jeremie Street",
+        "city": "Castries",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9985492,
+          13.9801353
+        ]
+      },
+      "properties": {
+        "osm_id": 396109760,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0600709,
+          13.856823
+        ]
+      },
+      "properties": {
+        "osm_id": 396211855,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Cemetery Street",
+        "city": "Soufriere",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0594864,
+          13.8538634
+        ]
+      },
+      "properties": {
+        "osm_id": 396457611,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Maurice Mason Street",
+        "city": "Soufriere",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9952652,
+          13.7501283
+        ]
+      },
+      "properties": {
+        "osm_id": 396477311,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "High Street",
+        "city": "Laborie",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9459588,
+          13.738213
+        ]
+      },
+      "properties": {
+        "osm_id": 397266991,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Bean Field Road",
+        "city": "Vieux Fort",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9539381,
+          13.7313647
+        ]
+      },
+      "properties": {
+        "osm_id": 397306690,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Laborie Vieux-Fort Highway",
+        "city": "Vieux Fort",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9475836,
+          14.0801274
+        ]
+      },
+      "properties": {
+        "osm_id": 397497160,
+        "osm_type": "way",
+        "name": "Sol Gros Islet Gas Station",
+        "brand": "Sol",
+        "operator": null,
+        "address": "Gros Islet Highway",
+        "city": "Gros Islet",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9724146,
+          13.7390842
+        ]
+      },
+      "properties": {
+        "osm_id": 397531952,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Vieux Fort",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9703433,
+          13.75015
+        ]
+      },
+      "properties": {
+        "osm_id": 397534191,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "St. Jude's Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9000058,
+          13.8180853
+        ]
+      },
+      "properties": {
+        "osm_id": 397539017,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Micoud",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9766184,
+          13.9550136
+        ]
+      },
+      "properties": {
+        "osm_id": 397557343,
+        "osm_type": "way",
+        "name": "Sol",
+        "brand": "Sol",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9846579,
+          13.980762
+        ]
+      },
+      "properties": {
+        "osm_id": 397557347,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9917197,
+          14.0174145
+        ]
+      },
+      "properties": {
+        "osm_id": 398173799,
+        "osm_type": "way",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "John Compton Highway",
+        "city": "Castries",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0228834,
+          13.7578539
+        ]
+      },
+      "properties": {
+        "osm_id": 398350370,
+        "osm_type": "way",
+        "name": "R & Zee's Service Station",
+        "brand": null,
+        "operator": "Rubis",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0227298,
+          13.7578892
+        ]
+      },
+      "properties": {
+        "osm_id": 398350371,
+        "osm_type": "way",
+        "name": "R & Zee's Service Station",
+        "brand": null,
+        "operator": "Rubis",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9200764,
+          13.935986
+        ]
+      },
+      "properties": {
+        "osm_id": 398405938,
+        "osm_type": "way",
+        "name": "Richfond Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "06:00-23:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9041104,
+          13.8229405
+        ]
+      },
+      "properties": {
+        "osm_id": 400277642,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9019424,
+          13.8201621
+        ]
+      },
+      "properties": {
+        "osm_id": 400279179,
+        "osm_type": "way",
+        "name": "Sadoo Gas Station",
+        "brand": null,
+        "operator": "Sadoo",
+        "address": "Micoud Highway",
+        "city": "Micoud",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9922646,
+          14.0050316
+        ]
+      },
+      "properties": {
+        "osm_id": 539012388,
+        "osm_type": "way",
+        "name": "rubis retail",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Pavee Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 08:00-16:15,13:30-18:30;Sa 09:00-17:00;PH closed",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9586331,
+          14.0173821
+        ]
+      },
+      "properties": {
+        "osm_id": 1227799288,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "LC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9656908,
+          18.0022833
+        ]
+      },
+      "properties": {
+        "osm_id": 1116392480,
+        "osm_type": "node",
+        "name": "JamPet Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1362509,
+          18.2283156
+        ]
+      },
+      "properties": {
+        "osm_id": 1338117878,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Seaton Street",
+        "city": "Savanna-La-Mar",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8024527,
+          18.0466238
+        ]
+      },
+      "properties": {
+        "osm_id": 1924423704,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8161373,
+          18.043033
+        ]
+      },
+      "properties": {
+        "osm_id": 1924424689,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0066198,
+          18.1015539
+        ]
+      },
+      "properties": {
+        "osm_id": 2571039744,
+        "osm_type": "node",
+        "name": "Jampet Gas Station;R&D Farm Store",
+        "brand": null,
+        "operator": null,
+        "address": "Main Street",
+        "city": "Bog Walk",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6084248,
+          17.9057417
+        ]
+      },
+      "properties": {
+        "osm_id": 2680910082,
+        "osm_type": "node",
+        "name": "Yaadman Gas Station",
+        "brand": "Yaadman",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6063478,
+          17.9106359
+        ]
+      },
+      "properties": {
+        "osm_id": 2680910088,
+        "osm_type": "node",
+        "name": "Texaco Gas Station",
+        "brand": "Texaco",
+        "operator": "Tony Rowe",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6005519,
+          17.9638145
+        ]
+      },
+      "properties": {
+        "osm_id": 2681065794,
+        "osm_type": "node",
+        "name": "A.C. Roberts Gas Station",
+        "brand": null,
+        "operator": "Andrew Plummer",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8129334,
+          18.1138049
+        ]
+      },
+      "properties": {
+        "osm_id": 2698380010,
+        "osm_type": "node",
+        "name": "Total Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8971009,
+          17.9504932
+        ]
+      },
+      "properties": {
+        "osm_id": 3317838824,
+        "osm_type": "node",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3676984,
+          18.3942027
+        ]
+      },
+      "properties": {
+        "osm_id": 3597297905,
+        "osm_type": "node",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2651627,
+          18.391702
+        ]
+      },
+      "properties": {
+        "osm_id": 3634096750,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Epping",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.957866,
+          18.2578047
+        ]
+      },
+      "properties": {
+        "osm_id": 3725519206,
+        "osm_type": "node",
+        "name": "Hacker's Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9336375,
+          18.3726349
+        ]
+      },
+      "properties": {
+        "osm_id": 3725519207,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.934919,
+          18.4104645
+        ]
+      },
+      "properties": {
+        "osm_id": 3725519210,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8873888,
+          17.9571845
+        ]
+      },
+      "properties": {
+        "osm_id": 4947719146,
+        "osm_type": "node",
+        "name": "Blaize Gas",
+        "brand": null,
+        "operator": null,
+        "address": "Port Henderson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1735161,
+          18.4251683
+        ]
+      },
+      "properties": {
+        "osm_id": 5154193293,
+        "osm_type": "node",
+        "name": "Boot Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8913004,
+          18.243262
+        ]
+      },
+      "properties": {
+        "osm_id": 5200188428,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6513746,
+          18.491184
+        ]
+      },
+      "properties": {
+        "osm_id": 5771887855,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5046155,
+          17.9926429
+        ]
+      },
+      "properties": {
+        "osm_id": 6158608499,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2065338,
+          18.1347805
+        ]
+      },
+      "properties": {
+        "osm_id": 7365357685,
+        "osm_type": "node",
+        "name": "Cool Oasis Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Crofts Hill to Kellits Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9941695,
+          17.9860832
+        ]
+      },
+      "properties": {
+        "osm_id": 8109877890,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2281414,
+          18.4493225
+        ]
+      },
+      "properties": {
+        "osm_id": 11403188851,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Arg Byfield Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3367541,
+          18.3402652
+        ]
+      },
+      "properties": {
+        "osm_id": 11666029599,
+        "osm_type": "node",
+        "name": "Petcom",
+        "brand": "Petcom",
+        "operator": null,
+        "address": "Norman Manley Boulevard",
+        "city": "Negril",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2616768,
+          18.4047534
+        ]
+      },
+      "properties": {
+        "osm_id": 11666036818,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Northern Coastal Highway",
+        "city": "Green Island",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7398532,
+          18.5118801
+        ]
+      },
+      "properties": {
+        "osm_id": 11685036952,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Service Road",
+        "city": "Greenwood",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8599521,
+          18.5219588
+        ]
+      },
+      "properties": {
+        "osm_id": 11688146008,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Northern Coastal Highway",
+        "city": "Montego Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6553736,
+          18.4871349
+        ]
+      },
+      "properties": {
+        "osm_id": 11688365383,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Market Street",
+        "city": "Falmouth",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6550101,
+          18.487037
+        ]
+      },
+      "properties": {
+        "osm_id": 11688365391,
+        "osm_type": "node",
+        "name": "Thrifty",
+        "brand": "Thrifty",
+        "operator": null,
+        "address": "Market Street",
+        "city": "Falmouth",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6527611,
+          18.4927718
+        ]
+      },
+      "properties": {
+        "osm_id": 11688365392,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Cornwall Street",
+        "city": "Falmouth",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1327019,
+          18.2226403
+        ]
+      },
+      "properties": {
+        "osm_id": 11704920293,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Lewis Street",
+        "city": "Savanna-La-Mar",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1149231,
+          17.9386055
+        ]
+      },
+      "properties": {
+        "osm_id": 11986114031,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "West Street",
+        "city": "Old Harbour",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1086288,
+          17.9332175
+        ]
+      },
+      "properties": {
+        "osm_id": 11986114038,
+        "osm_type": "node",
+        "name": "TotalEnergies Old Harbour",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.169613,
+          17.9356622
+        ]
+      },
+      "properties": {
+        "osm_id": 11986129359,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1708361,
+          17.9363703
+        ]
+      },
+      "properties": {
+        "osm_id": 11986129364,
+        "osm_type": "node",
+        "name": "Blaize Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1449555,
+          17.9166485
+        ]
+      },
+      "properties": {
+        "osm_id": 11986149347,
+        "osm_type": "node",
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0759098,
+          18.4127115
+        ]
+      },
+      "properties": {
+        "osm_id": 12539865661,
+        "osm_type": "node",
+        "name": "White River North",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1149769,
+          18.257145
+        ]
+      },
+      "properties": {
+        "osm_id": 12552467014,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5380569,
+          18.025549
+        ]
+      },
+      "properties": {
+        "osm_id": 12657745029,
+        "osm_type": "node",
+        "name": "Yaadman Gas Station",
+        "brand": "Yaadman",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2791821,
+          18.0388453
+        ]
+      },
+      "properties": {
+        "osm_id": 13203399902,
+        "osm_type": "node",
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8697098,
+          17.9699898
+        ]
+      },
+      "properties": {
+        "osm_id": 74944435,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": "Dawkins Drive",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": "1-876-988-0313",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8012966,
+          17.9667347
+        ]
+      },
+      "properties": {
+        "osm_id": 74944490,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": "Rubis",
+        "address": "Port Kingston Causeway",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": "1-876-922-5159",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5027229,
+          18.0323862
+        ]
+      },
+      "properties": {
+        "osm_id": 179622374,
+        "osm_type": "way",
+        "name": "Wilson's Texaco Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7912603,
+          17.983936
+        ]
+      },
+      "properties": {
+        "osm_id": 180639050,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": "Orange Street",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1043373,
+          18.4054963
+        ]
+      },
+      "properties": {
+        "osm_id": 196031818,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7741434,
+          18.0309298
+        ]
+      },
+      "properties": {
+        "osm_id": 203052634,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1756553,
+          18.4240631
+        ]
+      },
+      "properties": {
+        "osm_id": 220914394,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9481684,
+          17.9929791
+        ]
+      },
+      "properties": {
+        "osm_id": 223926480,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Burke Road",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9234836,
+          18.4539155
+        ]
+      },
+      "properties": {
+        "osm_id": 246874596,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.742763,
+          18.0157643
+        ]
+      },
+      "properties": {
+        "osm_id": 247087805,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1056995,
+          18.4068059
+        ]
+      },
+      "properties": {
+        "osm_id": 247473469,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Ocho Rios",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.798158,
+          18.0129042
+        ]
+      },
+      "properties": {
+        "osm_id": 262244886,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Constant Spring Road",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6036484,
+          17.8884221
+        ]
+      },
+      "properties": {
+        "osm_id": 306630615,
+        "osm_type": "way",
+        "name": "Advanced Service Center",
+        "brand": "Independent",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9792623,
+          17.9910999
+        ]
+      },
+      "properties": {
+        "osm_id": 353897761,
+        "osm_type": "way",
+        "name": "Jampet",
+        "brand": null,
+        "operator": null,
+        "address": "Willowdene Parkway",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7930158,
+          18.0511828
+        ]
+      },
+      "properties": {
+        "osm_id": 353916825,
+        "osm_type": "way",
+        "name": "Total Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8824811,
+          18.5153831
+        ]
+      },
+      "properties": {
+        "osm_id": 361481251,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7679328,
+          18.0205196
+        ]
+      },
+      "properties": {
+        "osm_id": 361784836,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.073184,
+          18.4118592
+        ]
+      },
+      "properties": {
+        "osm_id": 369025391,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Ocho Rios",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0805881,
+          18.4114368
+        ]
+      },
+      "properties": {
+        "osm_id": 369025787,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0701447,
+          18.4068031
+        ]
+      },
+      "properties": {
+        "osm_id": 369155577,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1026399,
+          18.4098591
+        ]
+      },
+      "properties": {
+        "osm_id": 369538825,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6602932,
+          18.2339237
+        ]
+      },
+      "properties": {
+        "osm_id": 370587963,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6567436,
+          18.2359865
+        ]
+      },
+      "properties": {
+        "osm_id": 370612878,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7636322,
+          18.2743471
+        ]
+      },
+      "properties": {
+        "osm_id": 370652722,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7943655,
+          18.2655284
+        ]
+      },
+      "properties": {
+        "osm_id": 370656366,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8268615,
+          18.2829528
+        ]
+      },
+      "properties": {
+        "osm_id": 370736109,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8930773,
+          18.3715778
+        ]
+      },
+      "properties": {
+        "osm_id": 370758264,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8992665,
+          18.3555655
+        ]
+      },
+      "properties": {
+        "osm_id": 370798972,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9523784,
+          18.3989653
+        ]
+      },
+      "properties": {
+        "osm_id": 370813587,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0162174,
+          18.4064104
+        ]
+      },
+      "properties": {
+        "osm_id": 370988845,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1983201,
+          18.4347884
+        ]
+      },
+      "properties": {
+        "osm_id": 371236116,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2000924,
+          18.4356584
+        ]
+      },
+      "properties": {
+        "osm_id": 371236118,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3986298,
+          18.4602376
+        ]
+      },
+      "properties": {
+        "osm_id": 371282780,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4004178,
+          18.4600352
+        ]
+      },
+      "properties": {
+        "osm_id": 371282781,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2035313,
+          18.436408
+        ]
+      },
+      "properties": {
+        "osm_id": 371284815,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3216436,
+          18.4640143
+        ]
+      },
+      "properties": {
+        "osm_id": 371293554,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5364737,
+          18.4680911
+        ]
+      },
+      "properties": {
+        "osm_id": 371357340,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6321904,
+          18.4820779
+        ]
+      },
+      "properties": {
+        "osm_id": 371361596,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8621897,
+          18.521503
+        ]
+      },
+      "properties": {
+        "osm_id": 371377130,
+        "osm_type": "way",
+        "name": "Sun",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8098503,
+          18.0175819
+        ]
+      },
+      "properties": {
+        "osm_id": 371380357,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": "Molynes Road",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9229893,
+          18.4746509
+        ]
+      },
+      "properties": {
+        "osm_id": 371393490,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8980078,
+          17.9558049
+        ]
+      },
+      "properties": {
+        "osm_id": 371512222,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Braeton Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8807858,
+          18.5157307
+        ]
+      },
+      "properties": {
+        "osm_id": 371531478,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9223559,
+          18.4746337
+        ]
+      },
+      "properties": {
+        "osm_id": 371544324,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9144565,
+          18.4615813
+        ]
+      },
+      "properties": {
+        "osm_id": 371545634,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9241402,
+          18.4701908
+        ]
+      },
+      "properties": {
+        "osm_id": 371547362,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7995161,
+          18.0116783
+        ]
+      },
+      "properties": {
+        "osm_id": 371774424,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": "Rubis Jamaica",
+        "address": null,
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8211307,
+          18.0252603
+        ]
+      },
+      "properties": {
+        "osm_id": 371817911,
+        "osm_type": "way",
+        "name": "Total Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8213862,
+          18.0258225
+        ]
+      },
+      "properties": {
+        "osm_id": 371819074,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8313961,
+          18.0255533
+        ]
+      },
+      "properties": {
+        "osm_id": 371820063,
+        "osm_type": "way",
+        "name": "Total Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3421028,
+          17.9649758
+        ]
+      },
+      "properties": {
+        "osm_id": 371929681,
+        "osm_type": "way",
+        "name": "Petcom Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3673182,
+          17.9878054
+        ]
+      },
+      "properties": {
+        "osm_id": 371949739,
+        "osm_type": "way",
+        "name": "Cool Oasis Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3745301,
+          17.995717
+        ]
+      },
+      "properties": {
+        "osm_id": 371953106,
+        "osm_type": "way",
+        "name": "Total Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4061851,
+          18.0348938
+        ]
+      },
+      "properties": {
+        "osm_id": 371964270,
+        "osm_type": "way",
+        "name": "Texaco Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4131107,
+          18.0348024
+        ]
+      },
+      "properties": {
+        "osm_id": 371968994,
+        "osm_type": "way",
+        "name": "Unipet Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5328074,
+          18.0459794
+        ]
+      },
+      "properties": {
+        "osm_id": 372062852,
+        "osm_type": "way",
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5481771,
+          18.0093144
+        ]
+      },
+      "properties": {
+        "osm_id": 372066776,
+        "osm_type": "way",
+        "name": "Gas Mart Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5589311,
+          17.996915
+        ]
+      },
+      "properties": {
+        "osm_id": 372069318,
+        "osm_type": "way",
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6921739,
+          18.0530089
+        ]
+      },
+      "properties": {
+        "osm_id": 372094973,
+        "osm_type": "way",
+        "name": "GasMart",
+        "brand": null,
+        "operator": null,
+        "address": "Main Street",
+        "city": "Santa Cruz",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6985023,
+          18.054159
+        ]
+      },
+      "properties": {
+        "osm_id": 372102101,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": "Nembhard's",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.705292,
+          18.0552866
+        ]
+      },
+      "properties": {
+        "osm_id": 372125506,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9862777,
+          18.0040833
+        ]
+      },
+      "properties": {
+        "osm_id": 372255554,
+        "osm_type": "way",
+        "name": "Marco",
+        "brand": null,
+        "operator": null,
+        "address": "Featherbed Lane",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985514,
+          18.0047401
+        ]
+      },
+      "properties": {
+        "osm_id": 372255559,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": "Jobs Lane",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5103199,
+          18.0385311
+        ]
+      },
+      "properties": {
+        "osm_id": 372365313,
+        "osm_type": "way",
+        "name": "Heaven's Fesco Gas Station",
+        "brand": null,
+        "operator": "Trevor Heaven",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5101178,
+          18.0411088
+        ]
+      },
+      "properties": {
+        "osm_id": 372372306,
+        "osm_type": "way",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.510221,
+          18.0422711
+        ]
+      },
+      "properties": {
+        "osm_id": 372372313,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9055283,
+          18.4666708
+        ]
+      },
+      "properties": {
+        "osm_id": 372704994,
+        "osm_type": "way",
+        "name": "Cool Oasis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012231,
+          18.1113595
+        ]
+      },
+      "properties": {
+        "osm_id": 372736215,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Main Rd",
+        "city": "Bog Walk",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0071347,
+          18.1047062
+        ]
+      },
+      "properties": {
+        "osm_id": 372739462,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Main Rd",
+        "city": "Bog Walk",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9163377,
+          18.4658441
+        ]
+      },
+      "properties": {
+        "osm_id": 372769333,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9171123,
+          18.4662666
+        ]
+      },
+      "properties": {
+        "osm_id": 372769970,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9182066,
+          18.4673343
+        ]
+      },
+      "properties": {
+        "osm_id": 372835060,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5065569,
+          18.0410864
+        ]
+      },
+      "properties": {
+        "osm_id": 372841532,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5068586,
+          18.0406152
+        ]
+      },
+      "properties": {
+        "osm_id": 372843924,
+        "osm_type": "way",
+        "name": "Unipet Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.921774,
+          18.4701026
+        ]
+      },
+      "properties": {
+        "osm_id": 372847290,
+        "osm_type": "way",
+        "name": "Thrifty",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9394759,
+          17.9964931
+        ]
+      },
+      "properties": {
+        "osm_id": 372855665,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": "Twikenham Park Road",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5061336,
+          18.0465534
+        ]
+      },
+      "properties": {
+        "osm_id": 372878086,
+        "osm_type": "way",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": "Bird",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9804716,
+          18.038263
+        ]
+      },
+      "properties": {
+        "osm_id": 373063631,
+        "osm_type": "way",
+        "name": "FESCO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9797818,
+          18.0414708
+        ]
+      },
+      "properties": {
+        "osm_id": 373063636,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": "A1",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4618528,
+          18.0719358
+        ]
+      },
+      "properties": {
+        "osm_id": 373077824,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0274233,
+          18.4540268
+        ]
+      },
+      "properties": {
+        "osm_id": 373099332,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1715109,
+          18.4448398
+        ]
+      },
+      "properties": {
+        "osm_id": 373228181,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169971,
+          18.4409515
+        ]
+      },
+      "properties": {
+        "osm_id": 373277160,
+        "osm_type": "way",
+        "name": "GV Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1727513,
+          18.4463542
+        ]
+      },
+      "properties": {
+        "osm_id": 373281222,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3297147,
+          17.9661115
+        ]
+      },
+      "properties": {
+        "osm_id": 373293760,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2547533,
+          17.9748458
+        ]
+      },
+      "properties": {
+        "osm_id": 373431068,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2513665,
+          17.9735287
+        ]
+      },
+      "properties": {
+        "osm_id": 373439322,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2467659,
+          17.9707695
+        ]
+      },
+      "properties": {
+        "osm_id": 373449850,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2436923,
+          17.969626
+        ]
+      },
+      "properties": {
+        "osm_id": 373456717,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2435324,
+          17.9700246
+        ]
+      },
+      "properties": {
+        "osm_id": 373456718,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": "Main Street",
+        "city": "May Pen",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2196424,
+          17.955341
+        ]
+      },
+      "properties": {
+        "osm_id": 373599127,
+        "osm_type": "way",
+        "name": "Cooloasis Palmer's cross",
+        "brand": null,
+        "operator": null,
+        "address": "Paisley Avenue",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8139275,
+          17.9758059
+        ]
+      },
+      "properties": {
+        "osm_id": 373903735,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": "Marcus Garvey Drive",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7974789,
+          18.0098019
+        ]
+      },
+      "properties": {
+        "osm_id": 373996633,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": "Half Way Tree Road",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9612659,
+          18.0015061
+        ]
+      },
+      "properties": {
+        "osm_id": 374030447,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9720228,
+          18.0131388
+        ]
+      },
+      "properties": {
+        "osm_id": 374031412,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Brunswick Strret",
+        "city": "Spanish Town St. Catherine",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3441309,
+          18.2787348
+        ]
+      },
+      "properties": {
+        "osm_id": 374031472,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2156961,
+          18.244588
+        ]
+      },
+      "properties": {
+        "osm_id": 374315321,
+        "osm_type": "way",
+        "name": "Mic Mar Traders Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2425992,
+          18.2487718
+        ]
+      },
+      "properties": {
+        "osm_id": 374335560,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0298444,
+          18.1320835
+        ]
+      },
+      "properties": {
+        "osm_id": 374348044,
+        "osm_type": "way",
+        "name": "Robinson's Servicentre & LPG",
+        "brand": null,
+        "operator": null,
+        "address": "Kings Street",
+        "city": "Linstead",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9195518,
+          17.9966831
+        ]
+      },
+      "properties": {
+        "osm_id": 374366121,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": "Nelson Mandela Highway",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.885027,
+          17.9839198
+        ]
+      },
+      "properties": {
+        "osm_id": 374370401,
+        "osm_type": "way",
+        "name": "Phoenix Fuels",
+        "brand": null,
+        "operator": null,
+        "address": "Passage Fort Drive",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8805632,
+          17.9830041
+        ]
+      },
+      "properties": {
+        "osm_id": 374370405,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Passage Fort Drive",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1257964,
+          18.2250535
+        ]
+      },
+      "properties": {
+        "osm_id": 374443227,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8893773,
+          17.9585811
+        ]
+      },
+      "properties": {
+        "osm_id": 374443260,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Port Henderson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1242433,
+          18.2243211
+        ]
+      },
+      "properties": {
+        "osm_id": 374447772,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0714043,
+          18.2275815
+        ]
+      },
+      "properties": {
+        "osm_id": 374448734,
+        "osm_type": "way",
+        "name": "Ferris Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7686077,
+          18.0201365
+        ]
+      },
+      "properties": {
+        "osm_id": 374461857,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7658535,
+          18.0194995
+        ]
+      },
+      "properties": {
+        "osm_id": 374461863,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8821287,
+          17.9962134
+        ]
+      },
+      "properties": {
+        "osm_id": 374466968,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": "Gregory Park Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1329313,
+          18.2222692
+        ]
+      },
+      "properties": {
+        "osm_id": 374472971,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1335985,
+          18.2115776
+        ]
+      },
+      "properties": {
+        "osm_id": 374480017,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1336408,
+          18.2113551
+        ]
+      },
+      "properties": {
+        "osm_id": 374480018,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9001591,
+          17.9604298
+        ]
+      },
+      "properties": {
+        "osm_id": 374481570,
+        "osm_type": "way",
+        "name": "Total Portmore Pines",
+        "brand": null,
+        "operator": null,
+        "address": "Braeton Parkway",
+        "city": "Portmore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.892437,
+          17.9644508
+        ]
+      },
+      "properties": {
+        "osm_id": 374481573,
+        "osm_type": "way",
+        "name": "Multipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9681326,
+          18.0914581
+        ]
+      },
+      "properties": {
+        "osm_id": 374511583,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9645579,
+          18.0889261
+        ]
+      },
+      "properties": {
+        "osm_id": 374511585,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9002268,
+          18.0538357
+        ]
+      },
+      "properties": {
+        "osm_id": 374512149,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8503388,
+          18.0243375
+        ]
+      },
+      "properties": {
+        "osm_id": 374515242,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8555595,
+          18.0403446
+        ]
+      },
+      "properties": {
+        "osm_id": 374517902,
+        "osm_type": "way",
+        "name": "Cool Oasis Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8480779,
+          18.0258754
+        ]
+      },
+      "properties": {
+        "osm_id": 374519150,
+        "osm_type": "way",
+        "name": "Epping Mini Mart",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8512705,
+          18.0341869
+        ]
+      },
+      "properties": {
+        "osm_id": 374519827,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9941611,
+          17.9860814
+        ]
+      },
+      "properties": {
+        "osm_id": 374568703,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Old Harbour Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9939159,
+          17.9865886
+        ]
+      },
+      "properties": {
+        "osm_id": 374568704,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": "Featherbed Lane",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7714833,
+          18.0096986
+        ]
+      },
+      "properties": {
+        "osm_id": 374568766,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7758923,
+          18.0055709
+        ]
+      },
+      "properties": {
+        "osm_id": 374576277,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7782867,
+          18.0039295
+        ]
+      },
+      "properties": {
+        "osm_id": 374585115,
+        "osm_type": "way",
+        "name": "Epping",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7838829,
+          17.9992727
+        ]
+      },
+      "properties": {
+        "osm_id": 374621816,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7879003,
+          18.0057225
+        ]
+      },
+      "properties": {
+        "osm_id": 374960074,
+        "osm_type": "way",
+        "name": "Total Gas Station",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7843783,
+          18.0087697
+        ]
+      },
+      "properties": {
+        "osm_id": 374967803,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Trafalgar Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7529989,
+          18.0086438
+        ]
+      },
+      "properties": {
+        "osm_id": 374998209,
+        "osm_type": "way",
+        "name": "Total: Cafe Bonjour",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7894351,
+          17.9891414
+        ]
+      },
+      "properties": {
+        "osm_id": 375002537,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7898386,
+          17.9882333
+        ]
+      },
+      "properties": {
+        "osm_id": 375002559,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8143304,
+          18.0269866
+        ]
+      },
+      "properties": {
+        "osm_id": 375013694,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": "Washington Boulevard",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7903709,
+          17.9712749
+        ]
+      },
+      "properties": {
+        "osm_id": 375071142,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.782672,
+          17.9708266
+        ]
+      },
+      "properties": {
+        "osm_id": 375091919,
+        "osm_type": "way",
+        "name": "Michael's",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7551886,
+          17.9729382
+        ]
+      },
+      "properties": {
+        "osm_id": 375094876,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7919837,
+          17.9658171
+        ]
+      },
+      "properties": {
+        "osm_id": 375095955,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.779424,
+          17.9704831
+        ]
+      },
+      "properties": {
+        "osm_id": 375108987,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9546055,
+          17.9911732
+        ]
+      },
+      "properties": {
+        "osm_id": 375131112,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7724274,
+          17.9819625
+        ]
+      },
+      "properties": {
+        "osm_id": 375131362,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7678372,
+          17.9927659
+        ]
+      },
+      "properties": {
+        "osm_id": 375132740,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7891787,
+          17.9797231
+        ]
+      },
+      "properties": {
+        "osm_id": 375136471,
+        "osm_type": "way",
+        "name": "Michael's Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9653919,
+          18.0040979
+        ]
+      },
+      "properties": {
+        "osm_id": 375139159,
+        "osm_type": "way",
+        "name": "Jampet",
+        "brand": null,
+        "operator": null,
+        "address": "Brunswick Street",
+        "city": "Spanish Town St. Catherine",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8222271,
+          17.9948713
+        ]
+      },
+      "properties": {
+        "osm_id": 375141391,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8251417,
+          17.9976871
+        ]
+      },
+      "properties": {
+        "osm_id": 375141401,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8183729,
+          18.0025563
+        ]
+      },
+      "properties": {
+        "osm_id": 375149717,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8171664,
+          18.003869
+        ]
+      },
+      "properties": {
+        "osm_id": 375149730,
+        "osm_type": "way",
+        "name": "Cool Oasis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7917844,
+          18.0021914
+        ]
+      },
+      "properties": {
+        "osm_id": 375150799,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8066534,
+          18.0086044
+        ]
+      },
+      "properties": {
+        "osm_id": 375235087,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7909035,
+          17.9823523
+        ]
+      },
+      "properties": {
+        "osm_id": 375260771,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7893667,
+          17.9964369
+        ]
+      },
+      "properties": {
+        "osm_id": 375263872,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7897863,
+          17.9972592
+        ]
+      },
+      "properties": {
+        "osm_id": 375263877,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7962388,
+          18.0240385
+        ]
+      },
+      "properties": {
+        "osm_id": 375286330,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7773226,
+          17.9393413
+        ]
+      },
+      "properties": {
+        "osm_id": 375289554,
+        "osm_type": "way",
+        "name": "Petcom",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7966566,
+          18.0177532
+        ]
+      },
+      "properties": {
+        "osm_id": 375296845,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Constant Spring Road",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8264952,
+          17.9989798
+        ]
+      },
+      "properties": {
+        "osm_id": 375327011,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8408608,
+          18.01225
+        ]
+      },
+      "properties": {
+        "osm_id": 375327299,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8477375,
+          18.0268486
+        ]
+      },
+      "properties": {
+        "osm_id": 375327521,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8229111,
+          18.0451569
+        ]
+      },
+      "properties": {
+        "osm_id": 375334460,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8467974,
+          18.0535815
+        ]
+      },
+      "properties": {
+        "osm_id": 375335135,
+        "osm_type": "way",
+        "name": "Johnsons Petroleum",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7973162,
+          18.009389
+        ]
+      },
+      "properties": {
+        "osm_id": 375387308,
+        "osm_type": "way",
+        "name": "Rubis Half Way Tree",
+        "brand": "Rubis",
+        "operator": "Rubis",
+        "address": "Half Way Tree Road",
+        "city": "Kingston",
+        "postcode": null,
+        "phone": "876-968-2247",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8122429,
+          18.0351098
+        ]
+      },
+      "properties": {
+        "osm_id": 375402790,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8068284,
+          18.0327808
+        ]
+      },
+      "properties": {
+        "osm_id": 375406969,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7972914,
+          18.0829374
+        ]
+      },
+      "properties": {
+        "osm_id": 375423701,
+        "osm_type": "way",
+        "name": "Fesco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7906909,
+          18.033688
+        ]
+      },
+      "properties": {
+        "osm_id": 375454593,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7210309,
+          17.9508634
+        ]
+      },
+      "properties": {
+        "osm_id": 375465639,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Sir Florizel Glaspole Boulevard",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5644587,
+          17.8735655
+        ]
+      },
+      "properties": {
+        "osm_id": 375562937,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3293241,
+          17.8915978
+        ]
+      },
+      "properties": {
+        "osm_id": 375576291,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4181546,
+          17.8851309
+        ]
+      },
+      "properties": {
+        "osm_id": 375583424,
+        "osm_type": "way",
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.319524,
+          18.1122716
+        ]
+      },
+      "properties": {
+        "osm_id": 375994606,
+        "osm_type": "way",
+        "name": "Long Bay Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "913-7741",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8844277,
+          17.9557782
+        ]
+      },
+      "properties": {
+        "osm_id": 395321128,
+        "osm_type": "way",
+        "name": "Tesco",
+        "brand": "Tesco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7959905,
+          17.9997356
+        ]
+      },
+      "properties": {
+        "osm_id": 439149902,
+        "osm_type": "way",
+        "name": "Johnson's Petroleum",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7576953,
+          18.0804921
+        ]
+      },
+      "properties": {
+        "osm_id": 751080357,
+        "osm_type": "way",
+        "name": "Garfield Lyn Texaco Gas Station",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8238929,
+          18.1855445
+        ]
+      },
+      "properties": {
+        "osm_id": 755672035,
+        "osm_type": "way",
+        "name": "Johnson’s Petroleum",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8558321,
+          18.0710842
+        ]
+      },
+      "properties": {
+        "osm_id": 832907710,
+        "osm_type": "way",
+        "name": "TotalEnergies",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8480081,
+          18.0258029
+        ]
+      },
+      "properties": {
+        "osm_id": 834162552,
+        "osm_type": "way",
+        "name": "Epping Mini Mart",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5892946,
+          18.013988
+        ]
+      },
+      "properties": {
+        "osm_id": 840471167,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.33843,
+          18.2798054
+        ]
+      },
+      "properties": {
+        "osm_id": 849020472,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1343665,
+          18.2114322
+        ]
+      },
+      "properties": {
+        "osm_id": 866415881,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7732996,
+          18.0075035
+        ]
+      },
+      "properties": {
+        "osm_id": 878078988,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8826601,
+          17.9571022
+        ]
+      },
+      "properties": {
+        "osm_id": 881904784,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342598,
+          18.1446423
+        ]
+      },
+      "properties": {
+        "osm_id": 882357915,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0313228,
+          18.136702
+        ]
+      },
+      "properties": {
+        "osm_id": 886917139,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": "Kings Street",
+        "city": "Linstead",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7201414,
+          17.95036
+        ]
+      },
+      "properties": {
+        "osm_id": 892641437,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0020438,
+          17.9822111
+        ]
+      },
+      "properties": {
+        "osm_id": 1178005314,
+        "osm_type": "way",
+        "name": "Blaize Gas Station",
+        "brand": "Blaize",
+        "operator": null,
+        "address": "Two Mileswood, Innswood",
+        "city": "Spanish Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8746697,
+          18.0235952
+        ]
+      },
+      "properties": {
+        "osm_id": 1192977662,
+        "osm_type": "way",
+        "name": "Fesco Ferry",
+        "brand": "FESCO",
+        "operator": null,
+        "address": "Nelson Mandela Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4655396,
+          18.1841174
+        ]
+      },
+      "properties": {
+        "osm_id": 1285616660,
+        "osm_type": "way",
+        "name": "TotalEnergies Bryans Bay",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4517505,
+          18.179763
+        ]
+      },
+      "properties": {
+        "osm_id": 1286469572,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4541075,
+          18.1778509
+        ]
+      },
+      "properties": {
+        "osm_id": 1287257738,
+        "osm_type": "way",
+        "name": "Port Antonio TotalEnergies",
+        "brand": "TotalEnergies",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4508338,
+          18.1784236
+        ]
+      },
+      "properties": {
+        "osm_id": 1290311727,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8534407,
+          17.9669138
+        ]
+      },
+      "properties": {
+        "osm_id": 1423962522,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": "RUBIS Energy",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "JM"
+      }
+    }
+  ]
+}
