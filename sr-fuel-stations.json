@@ -1,0 +1,3645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1369192,
+          5.8963817
+        ]
+      },
+      "properties": {
+        "osm_id": 365201924,
+        "osm_type": "node",
+        "name": "Sukraj & Daughters Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 07:00-18:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1371409,
+          5.8922831
+        ]
+      },
+      "properties": {
+        "osm_id": 365201950,
+        "osm_type": "node",
+        "name": "HD Petroleum Gas Station",
+        "brand": null,
+        "operator": "Sasha Trotman",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0602637,
+          5.493762
+        ]
+      },
+      "properties": {
+        "osm_id": 507609692,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0542477,
+          5.4977419
+        ]
+      },
+      "properties": {
+        "osm_id": 507664935,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.175453,
+          5.0158481
+        ]
+      },
+      "properties": {
+        "osm_id": 507688579,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9864953,
+          5.94238
+        ]
+      },
+      "properties": {
+        "osm_id": 509276649,
+        "osm_type": "node",
+        "name": "Servicestation Gow2",
+        "brand": null,
+        "operator": null,
+        "address": "Waterloostraat",
+        "city": "Nieuw Nickerie",
+        "postcode": null,
+        "phone": "+597 212101",
+        "opening_hours": null,
+        "fuel_diesel": "no",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0256315,
+          5.4981237
+        ]
+      },
+      "properties": {
+        "osm_id": 610888687,
+        "osm_type": "node",
+        "name": "Vito",
+        "brand": "Vito",
+        "operator": "Vito",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2356518,
+          5.8465999
+        ]
+      },
+      "properties": {
+        "osm_id": 752182414,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": "Texaco",
+        "address": "Kwattaweg",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2986519,
+          5.8509644
+        ]
+      },
+      "properties": {
+        "osm_id": 752182427,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.27141,
+          5.8499322
+        ]
+      },
+      "properties": {
+        "osm_id": 752182439,
+        "osm_type": "node",
+        "name": "Enterprise Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2051013,
+          5.8130387
+        ]
+      },
+      "properties": {
+        "osm_id": 752183435,
+        "osm_type": "node",
+        "name": "Sol",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1501618,
+          5.9795619
+        ]
+      },
+      "properties": {
+        "osm_id": 968358634,
+        "osm_type": "node",
+        "name": null,
+        "brand": "SolGas",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1501704,
+          5.97661
+        ]
+      },
+      "properties": {
+        "osm_id": 969529766,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1363266,
+          5.8939963
+        ]
+      },
+      "properties": {
+        "osm_id": 969529797,
+        "osm_type": "node",
+        "name": "Sukhpaul's Service Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1530514,
+          5.9924744
+        ]
+      },
+      "properties": {
+        "osm_id": 969529848,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.150514,
+          5.9405465
+        ]
+      },
+      "properties": {
+        "osm_id": 1053298389,
+        "osm_type": "node",
+        "name": "Max & Son Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1466847,
+          5.8620247
+        ]
+      },
+      "properties": {
+        "osm_id": 1064722980,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Guyoil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1591292,
+          5.8304068
+        ]
+      },
+      "properties": {
+        "osm_id": 1242668216,
+        "osm_type": "node",
+        "name": "Chinatown International",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1604127,
+          5.8284835
+        ]
+      },
+      "properties": {
+        "osm_id": 1242668439,
+        "osm_type": "node",
+        "name": "Babas Filling Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2108035,
+          5.8228077
+        ]
+      },
+      "properties": {
+        "osm_id": 2249350704,
+        "osm_type": "node",
+        "name": "Visan",
+        "brand": null,
+        "operator": null,
+        "address": "Kasabaholoweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2067415,
+          5.7579126
+        ]
+      },
+      "properties": {
+        "osm_id": 4069826872,
+        "osm_type": "node",
+        "name": "Sol Service Station",
+        "brand": "Sol",
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "De Nieuwe Grond",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9644978,
+          5.8829759
+        ]
+      },
+      "properties": {
+        "osm_id": 4340352489,
+        "osm_type": "node",
+        "name": "F. Abdul",
+        "brand": null,
+        "operator": null,
+        "address": "Ir. M. N. Ataoellahweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1665507,
+          5.0161089
+        ]
+      },
+      "properties": {
+        "osm_id": 4372484689,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Brownsweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3301801,
+          5.8801319
+        ]
+      },
+      "properties": {
+        "osm_id": 4376085201,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4640543,
+          5.8308331
+        ]
+      },
+      "properties": {
+        "osm_id": 4376089603,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5926988,
+          5.8437843
+        ]
+      },
+      "properties": {
+        "osm_id": 4376122296,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2665898,
+          5.7491997
+        ]
+      },
+      "properties": {
+        "osm_id": 4405186889,
+        "osm_type": "node",
+        "name": "N. Khusial",
+        "brand": null,
+        "operator": null,
+        "address": "Welgedacht A weg",
+        "city": "Koewarasan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4051414,
+          5.6003539
+        ]
+      },
+      "properties": {
+        "osm_id": 4443009429,
+        "osm_type": "node",
+        "name": "RB Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7470744,
+          5.7552674
+        ]
+      },
+      "properties": {
+        "osm_id": 4443009430,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1466445,
+          5.8147504
+        ]
+      },
+      "properties": {
+        "osm_id": 4443009439,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0249115,
+          5.7855522
+        ]
+      },
+      "properties": {
+        "osm_id": 4443021591,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": "Tamanredjo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2531615,
+          5.8111884
+        ]
+      },
+      "properties": {
+        "osm_id": 4451070293,
+        "osm_type": "node",
+        "name": "Rasoelbaks",
+        "brand": null,
+        "operator": null,
+        "address": "Commissaris Weythingweg",
+        "city": "Saramaccapolder",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Th 06:30-21:00; Su 07:00-20:00; Fr-Sa 06:30-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.371539,
+          4.4884911
+        ]
+      },
+      "properties": {
+        "osm_id": 4454238586,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2170159,
+          5.6914863
+        ]
+      },
+      "properties": {
+        "osm_id": 4462597513,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.212538,
+          5.8428967
+        ]
+      },
+      "properties": {
+        "osm_id": 4462598783,
+        "osm_type": "node",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.361037,
+          5.7620344
+        ]
+      },
+      "properties": {
+        "osm_id": 4480956285,
+        "osm_type": "node",
+        "name": "Hamburg",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1585011,
+          5.8308535
+        ]
+      },
+      "properties": {
+        "osm_id": 4480957886,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1186807,
+          5.8407728
+        ]
+      },
+      "properties": {
+        "osm_id": 4480957898,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Anton Dragtenweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1910815,
+          5.7306045
+        ]
+      },
+      "properties": {
+        "osm_id": 4480957915,
+        "osm_type": "node",
+        "name": "RB Enterprises",
+        "brand": null,
+        "operator": null,
+        "address": "Tout Lui Faut Weg",
+        "city": "De Nieuwe Grond",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9872088,
+          5.9154986
+        ]
+      },
+      "properties": {
+        "osm_id": 4480957946,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9883987,
+          5.9203692
+        ]
+      },
+      "properties": {
+        "osm_id": 4480958130,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2097171,
+          5.8227891
+        ]
+      },
+      "properties": {
+        "osm_id": 4516278989,
+        "osm_type": "node",
+        "name": "GOw2",
+        "brand": null,
+        "operator": null,
+        "address": "Kasabaholoweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2167348,
+          5.6982339
+        ]
+      },
+      "properties": {
+        "osm_id": 4539814423,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.208414,
+          5.7560971
+        ]
+      },
+      "properties": {
+        "osm_id": 4539815558,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Hoek Welgedacht C weg - Indira Gandhiweg",
+        "city": "De Nieuwe Grond",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.3584129,
+          5.8568393
+        ]
+      },
+      "properties": {
+        "osm_id": 4550676450,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4948243,
+          5.8001207
+        ]
+      },
+      "properties": {
+        "osm_id": 4550676482,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9260313,
+          5.9042017
+        ]
+      },
+      "properties": {
+        "osm_id": 4563524146,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1920942,
+          5.7316615
+        ]
+      },
+      "properties": {
+        "osm_id": 4664512991,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "RB Enterprises",
+        "address": "Tout Lui Faut Kanaalweg Rechts",
+        "city": "De Nieuwe Grond",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1929445,
+          5.8321718
+        ]
+      },
+      "properties": {
+        "osm_id": 5106445521,
+        "osm_type": "node",
+        "name": "Rock Oil",
+        "brand": null,
+        "operator": null,
+        "address": "Johannes Mungrastraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0855808,
+          5.7026013
+        ]
+      },
+      "properties": {
+        "osm_id": 5137243725,
+        "osm_type": "node",
+        "name": "Sir W.Churchillweg",
+        "brand": null,
+        "operator": null,
+        "address": "Domburg Middenweg",
+        "city": null,
+        "postcode": null,
+        "phone": "+5978106004",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9883003,
+          5.9453818
+        ]
+      },
+      "properties": {
+        "osm_id": 5331561432,
+        "osm_type": "node",
+        "name": "Madistri",
+        "brand": null,
+        "operator": null,
+        "address": "G. G. Maynardstraat",
+        "city": "Nieuw Nickerie",
+        "postcode": null,
+        "phone": "+597 231502",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2316283,
+          5.786937
+        ]
+      },
+      "properties": {
+        "osm_id": 5592430190,
+        "osm_type": "node",
+        "name": "Rock Oil",
+        "brand": null,
+        "operator": null,
+        "address": "Magentakanaalweg",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2275873,
+          5.8094587
+        ]
+      },
+      "properties": {
+        "osm_id": 5607092682,
+        "osm_type": "node",
+        "name": "Dwarka",
+        "brand": null,
+        "operator": null,
+        "address": "Commissaris Weythingweg",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.241273,
+          5.7979485
+        ]
+      },
+      "properties": {
+        "osm_id": 5630582944,
+        "osm_type": "node",
+        "name": "Gow2",
+        "brand": null,
+        "operator": null,
+        "address": "Mohamed Rashid Pierkhanweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1987569,
+          5.7727809
+        ]
+      },
+      "properties": {
+        "osm_id": 5685622623,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2808222,
+          5.814947
+        ]
+      },
+      "properties": {
+        "osm_id": 5763878955,
+        "osm_type": "node",
+        "name": "go2",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1814752,
+          5.8270277
+        ]
+      },
+      "properties": {
+        "osm_id": 6627851136,
+        "osm_type": "node",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Zinniastraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1937457,
+          5.8276991
+        ]
+      },
+      "properties": {
+        "osm_id": 6645051858,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Verlengde Gemenelandsweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.202698,
+          5.8241382
+        ]
+      },
+      "properties": {
+        "osm_id": 6697689945,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Lalla Rookhweg hoek Kasabaholoweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1755088,
+          5.7041577
+        ]
+      },
+      "properties": {
+        "osm_id": 6871181569,
+        "osm_type": "node",
+        "name": "Roy Boedhoe Enterprises N.V.",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.21448,
+          5.8331976
+        ]
+      },
+      "properties": {
+        "osm_id": 6967309256,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Hendrikstraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2219429,
+          5.8447342
+        ]
+      },
+      "properties": {
+        "osm_id": 7161360069,
+        "osm_type": "node",
+        "name": "Service Center NV Salik",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1702236,
+          5.1860253
+        ]
+      },
+      "properties": {
+        "osm_id": 7246325085,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0751444,
+          5.1643678
+        ]
+      },
+      "properties": {
+        "osm_id": 7246325086,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1678016,
+          5.7593448
+        ]
+      },
+      "properties": {
+        "osm_id": 7468492190,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Martin Luther Kingweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.179156,
+          5.7870664
+        ]
+      },
+      "properties": {
+        "osm_id": 7503839569,
+        "osm_type": "node",
+        "name": "GOw2",
+        "brand": null,
+        "operator": null,
+        "address": "Martin Luther Kingweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1295423,
+          5.8109833
+        ]
+      },
+      "properties": {
+        "osm_id": 7632093010,
+        "osm_type": "node",
+        "name": "Lin Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "Oost-West Verbinding Commewijne",
+        "city": "Meerzorg",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1409142,
+          5.8142526
+        ]
+      },
+      "properties": {
+        "osm_id": 7633045014,
+        "osm_type": "node",
+        "name": "SOL",
+        "brand": null,
+        "operator": null,
+        "address": "Oost-West Verbinding Commewijne",
+        "city": "Meerzorg",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0693834,
+          5.8845308
+        ]
+      },
+      "properties": {
+        "osm_id": 7698827499,
+        "osm_type": "node",
+        "name": "Enterprise",
+        "brand": null,
+        "operator": null,
+        "address": "Commissaris Roblesweg",
+        "city": "Nieuw Amsterdam",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1722528,
+          5.8224768
+        ]
+      },
+      "properties": {
+        "osm_id": 8890807117,
+        "osm_type": "node",
+        "name": "GOw2",
+        "brand": null,
+        "operator": null,
+        "address": "Johan Adolf Pengelstraat",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3561637,
+          5.8888867
+        ]
+      },
+      "properties": {
+        "osm_id": 8934013771,
+        "osm_type": "node",
+        "name": "GOW2 Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.26269,
+          5.7755835
+        ]
+      },
+      "properties": {
+        "osm_id": 9461417021,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Mawakaboweg",
+        "city": "Koewarasan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2398108,
+          5.771828
+        ]
+      },
+      "properties": {
+        "osm_id": 9476323395,
+        "osm_type": "node",
+        "name": "Roy Boedhoe",
+        "brand": null,
+        "operator": null,
+        "address": "Magentakanaalweg",
+        "city": "Koewarasan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2135066,
+          5.725872
+        ]
+      },
+      "properties": {
+        "osm_id": 12050152363,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2186227,
+          5.6765393
+        ]
+      },
+      "properties": {
+        "osm_id": 12258410463,
+        "osm_type": "node",
+        "name": "Gow2",
+        "brand": null,
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1327435,
+          5.7313955
+        ]
+      },
+      "properties": {
+        "osm_id": 12917891220,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0397358,
+          5.4883078
+        ]
+      },
+      "properties": {
+        "osm_id": 13009344659,
+        "osm_type": "node",
+        "name": "Alldis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1657335,
+          5.7897899
+        ]
+      },
+      "properties": {
+        "osm_id": 13204782702,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1393892,
+          5.7408973
+        ]
+      },
+      "properties": {
+        "osm_id": 13253032066,
+        "osm_type": "node",
+        "name": "Dwarka",
+        "brand": null,
+        "operator": null,
+        "address": "Martin Luther Kingweg",
+        "city": "Houttuin",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1458021,
+          5.8297036
+        ]
+      },
+      "properties": {
+        "osm_id": 144550723,
+        "osm_type": "way",
+        "name": "On The Run",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0294899,
+          5.497088
+        ]
+      },
+      "properties": {
+        "osm_id": 287024074,
+        "osm_type": "way",
+        "name": "Station du Maroni",
+        "brand": "Total Access",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1580135,
+          5.8301375
+        ]
+      },
+      "properties": {
+        "osm_id": 360856239,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0850016,
+          5.1823985
+        ]
+      },
+      "properties": {
+        "osm_id": 369661596,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1416729,
+          5.8558843
+        ]
+      },
+      "properties": {
+        "osm_id": 370002149,
+        "osm_type": "way",
+        "name": "GOw2",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Verlengde Anamoestraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2058445,
+          5.4561452
+        ]
+      },
+      "properties": {
+        "osm_id": 414811489,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1459088,
+          5.8294936
+        ]
+      },
+      "properties": {
+        "osm_id": 442852867,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Cornelis Jongbawstraat",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1186787,
+          5.8407866
+        ]
+      },
+      "properties": {
+        "osm_id": 442857271,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Anton Dragtenweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1712531,
+          5.7649979
+        ]
+      },
+      "properties": {
+        "osm_id": 443228395,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": "Dageraadweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2649902,
+          5.8478248
+        ]
+      },
+      "properties": {
+        "osm_id": 443247675,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Vierde Rijweg",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2422895,
+          5.8481136
+        ]
+      },
+      "properties": {
+        "osm_id": 443264902,
+        "osm_type": "way",
+        "name": "Helix",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1907755,
+          5.7941687
+        ]
+      },
+      "properties": {
+        "osm_id": 443445261,
+        "osm_type": "way",
+        "name": "Gow2 Service Station",
+        "brand": "Gow2",
+        "operator": "Suritex",
+        "address": "Coesewijnestraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1880564,
+          5.8045012
+        ]
+      },
+      "properties": {
+        "osm_id": 443452704,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Coesewijnestraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2264291,
+          5.8458749
+        ]
+      },
+      "properties": {
+        "osm_id": 443471381,
+        "osm_type": "way",
+        "name": "Enterprises",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1895778,
+          5.7901685
+        ]
+      },
+      "properties": {
+        "osm_id": 443479700,
+        "osm_type": "way",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2299016,
+          5.8081526
+        ]
+      },
+      "properties": {
+        "osm_id": 443664764,
+        "osm_type": "way",
+        "name": "Helix",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Akkerstrook",
+        "city": "Wanica",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1365952,
+          5.8542264
+        ]
+      },
+      "properties": {
+        "osm_id": 443670880,
+        "osm_type": "way",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Jacques Gompertsstraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2013803,
+          5.7904854
+        ]
+      },
+      "properties": {
+        "osm_id": 443672145,
+        "osm_type": "way",
+        "name": "Kewalbansing",
+        "brand": null,
+        "operator": null,
+        "address": "Nieuw Weergevondenweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1847907,
+          5.8398051
+        ]
+      },
+      "properties": {
+        "osm_id": 443674532,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1700811,
+          5.8571317
+        ]
+      },
+      "properties": {
+        "osm_id": 443853134,
+        "osm_type": "way",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Ringweg Noord",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1690995,
+          5.8570117
+        ]
+      },
+      "properties": {
+        "osm_id": 443853136,
+        "osm_type": "way",
+        "name": "Roy Boedhoe Enterprises",
+        "brand": null,
+        "operator": null,
+        "address": "Ringweg Noord",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1704823,
+          5.8106824
+        ]
+      },
+      "properties": {
+        "osm_id": 443855202,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Van 't Hogerhuysstraat",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1715799,
+          5.8357947
+        ]
+      },
+      "properties": {
+        "osm_id": 443856600,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Van Idsingastraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.172338,
+          5.8074036
+        ]
+      },
+      "properties": {
+        "osm_id": 443859558,
+        "osm_type": "way",
+        "name": "GOw2",
+        "brand": null,
+        "operator": "Suritex",
+        "address": "Van 't Hogerhuysstraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1675087,
+          5.7792015
+        ]
+      },
+      "properties": {
+        "osm_id": 443867347,
+        "osm_type": "way",
+        "name": "Car Max",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1755576,
+          5.8181612
+        ]
+      },
+      "properties": {
+        "osm_id": 443869970,
+        "osm_type": "way",
+        "name": "RBE Fuel Station",
+        "brand": null,
+        "operator": "RBE",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1831983,
+          5.8394985
+        ]
+      },
+      "properties": {
+        "osm_id": 444004770,
+        "osm_type": "way",
+        "name": "GOw2",
+        "brand": null,
+        "operator": null,
+        "address": "Kwattaweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1724509,
+          5.8221235
+        ]
+      },
+      "properties": {
+        "osm_id": 444032397,
+        "osm_type": "way",
+        "name": "GOw2",
+        "brand": null,
+        "operator": null,
+        "address": "Gemenelandsweg",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0923283,
+          5.8824956
+        ]
+      },
+      "properties": {
+        "osm_id": 444040584,
+        "osm_type": "way",
+        "name": "Enterprise Fuel Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1291282,
+          5.8554525
+        ]
+      },
+      "properties": {
+        "osm_id": 444067744,
+        "osm_type": "way",
+        "name": "Roy Boedhoe Enterprises",
+        "brand": null,
+        "operator": null,
+        "address": "Bonistraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.163879,
+          5.8558611
+        ]
+      },
+      "properties": {
+        "osm_id": 444437610,
+        "osm_type": "way",
+        "name": "Roy Boedhoe Enterprises",
+        "brand": null,
+        "operator": null,
+        "address": "Ringweg Zuid",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1489711,
+          5.8432537
+        ]
+      },
+      "properties": {
+        "osm_id": 444462331,
+        "osm_type": "way",
+        "name": "Sol",
+        "brand": null,
+        "operator": null,
+        "address": "Tourtonnelaan",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0819617,
+          5.7017621
+        ]
+      },
+      "properties": {
+        "osm_id": 508266843,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.160234,
+          5.7479608
+        ]
+      },
+      "properties": {
+        "osm_id": 508266851,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0676554,
+          5.7808227
+        ]
+      },
+      "properties": {
+        "osm_id": 508266874,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0078082,
+          5.7861891
+        ]
+      },
+      "properties": {
+        "osm_id": 508266878,
+        "osm_type": "way",
+        "name": "Krama's Place",
+        "brand": null,
+        "operator": null,
+        "address": "Hadji Iding Soemitaweg",
+        "city": "Tamanredjo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1890844,
+          5.762894
+        ]
+      },
+      "properties": {
+        "osm_id": 551173869,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2124414,
+          5.7333238
+        ]
+      },
+      "properties": {
+        "osm_id": 590562485,
+        "osm_type": "way",
+        "name": "Sun Globe Petrol Station",
+        "brand": null,
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2126741,
+          5.7323626
+        ]
+      },
+      "properties": {
+        "osm_id": 590562492,
+        "osm_type": "way",
+        "name": "RBE",
+        "brand": null,
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Lelydorp",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2117388,
+          5.6392078
+        ]
+      },
+      "properties": {
+        "osm_id": 592361237,
+        "osm_type": "way",
+        "name": "Lin Fa Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Indira Gandhiweg",
+        "city": "Para",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1548085,
+          5.8537072
+        ]
+      },
+      "properties": {
+        "osm_id": 632221803,
+        "osm_type": "way",
+        "name": "Alu Oil",
+        "brand": null,
+        "operator": null,
+        "address": "Ringweg Zuid",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1511388,
+          5.6120005
+        ]
+      },
+      "properties": {
+        "osm_id": 645413309,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3967935,
+          5.618454
+        ]
+      },
+      "properties": {
+        "osm_id": 734460809,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4259281,
+          5.7609248
+        ]
+      },
+      "properties": {
+        "osm_id": 755768743,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9829282,
+          5.944876
+        ]
+      },
+      "properties": {
+        "osm_id": 848528055,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Sol",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8820725,
+          5.8533845
+        ]
+      },
+      "properties": {
+        "osm_id": 848600312,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.3260231,
+          5.8097205
+        ]
+      },
+      "properties": {
+        "osm_id": 854267985,
+        "osm_type": "way",
+        "name": "Brood Pompstation shop",
+        "brand": null,
+        "operator": null,
+        "address": "Mr. P. Chandie Shawweg",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3987293,
+          5.6185997
+        ]
+      },
+      "properties": {
+        "osm_id": 865002727,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": "Texaco",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1415727,
+          5.8370445
+        ]
+      },
+      "properties": {
+        "osm_id": 1359212898,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Wilhelminastraat",
+        "city": "Paramaribo",
+        "postcode": null,
+        "phone": "+597 456622",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1727441,
+          5.7674048
+        ]
+      },
+      "properties": {
+        "osm_id": 1418165875,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Martin Luther Kingweg",
+        "city": "Houttuin",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.144059,
+          5.8341122
+        ]
+      },
+      "properties": {
+        "osm_id": 6615923,
+        "osm_type": "relation",
+        "name": "Gow2",
+        "brand": null,
+        "operator": null,
+        "address": "Mahonylaan;Wilhelminastraat",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SR"
+      }
+    }
+  ]
+}
