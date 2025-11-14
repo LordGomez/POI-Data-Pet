@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9743526,
+          -18.6470094
+        ]
+      },
+      "properties": {
+        "osm_id": 1964345568,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1581827,
+          -21.2016331
+        ]
+      },
+      "properties": {
+        "osm_id": 1964724763,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2298555,
+          -21.1611691
+        ]
+      },
+      "properties": {
+        "osm_id": 3123457481,
+        "osm_type": "node",
+        "name": "Sonasistation",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.23462,
+          -21.1681167
+        ]
+      },
+      "properties": {
+        "osm_id": 3125376616,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1875923,
+          -21.1398552
+        ]
+      },
+      "properties": {
+        "osm_id": 3270248736,
+        "osm_type": "node",
+        "name": "Pacific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 00:00-24:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.200013,
+          -21.1381257
+        ]
+      },
+      "properties": {
+        "osm_id": 6184960798,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.979466,
+          -18.6470908
+        ]
+      },
+      "properties": {
+        "osm_id": 6184963293,
+        "osm_type": "node",
+        "name": "Pongi Gas Station - Pacific Energy",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9806027,
+          -18.6478128
+        ]
+      },
+      "properties": {
+        "osm_id": 11111018555,
+        "osm_type": "node",
+        "name": "Vaitohi Enterprises Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.954753,
+          -21.3425769
+        ]
+      },
+      "properties": {
+        "osm_id": 12466280101,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": "Independent",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1882146,
+          -21.1897731
+        ]
+      },
+      "properties": {
+        "osm_id": 300336378,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2009401,
+          -21.1341071
+        ]
+      },
+      "properties": {
+        "osm_id": 314371779,
+        "osm_type": "way",
+        "name": "Sonasistation",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.3061224,
+          -21.1308813
+        ]
+      },
+      "properties": {
+        "osm_id": 317043300,
+        "osm_type": "way",
+        "name": "Pacific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.3350447,
+          -21.0783152
+        ]
+      },
+      "properties": {
+        "osm_id": 317150324,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.3396518,
+          -21.0972131
+        ]
+      },
+      "properties": {
+        "osm_id": 317154028,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.33961,
+          -21.0970563
+        ]
+      },
+      "properties": {
+        "osm_id": 317154287,
+        "osm_type": "way",
+        "name": "Pacific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.122056,
+          -21.1834258
+        ]
+      },
+      "properties": {
+        "osm_id": 319073124,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1179365,
+          -21.1790071
+        ]
+      },
+      "properties": {
+        "osm_id": 319186858,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2103754,
+          -21.1853358
+        ]
+      },
+      "properties": {
+        "osm_id": 319356620,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2457821,
+          -21.1752524
+        ]
+      },
+      "properties": {
+        "osm_id": 319519610,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2238956,
+          -21.1377581
+        ]
+      },
+      "properties": {
+        "osm_id": 321784289,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2322372,
+          -21.1372257
+        ]
+      },
+      "properties": {
+        "osm_id": 321784389,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9806016,
+          -18.6478055
+        ]
+      },
+      "properties": {
+        "osm_id": 322999173,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2063091,
+          -21.142492
+        ]
+      },
+      "properties": {
+        "osm_id": 323764189,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Asco Motors",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2082161,
+          -21.1444203
+        ]
+      },
+      "properties": {
+        "osm_id": 323772450,
+        "osm_type": "way",
+        "name": "Konifelenisi Trading Limited",
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2041656,
+          -21.1438968
+        ]
+      },
+      "properties": {
+        "osm_id": 323775974,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.3005055,
+          -21.1714753
+        ]
+      },
+      "properties": {
+        "osm_id": 338584655,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Pacific",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2087633,
+          -21.1347261
+        ]
+      },
+      "properties": {
+        "osm_id": 339114651,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2553736,
+          -21.1364766
+        ]
+      },
+      "properties": {
+        "osm_id": 346679387,
+        "osm_type": "way",
+        "name": "Sia'atoutai Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9739163,
+          -18.6400186
+        ]
+      },
+      "properties": {
+        "osm_id": 391728971,
+        "osm_type": "way",
+        "name": "Gateway Petrol Station- Pacific Energy",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.9794506,
+          -18.6470787
+        ]
+      },
+      "properties": {
+        "osm_id": 538592831,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TO"
+      }
+    }
+  ]
+}

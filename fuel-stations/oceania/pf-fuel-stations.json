@@ -1,0 +1,2329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5689347,
+          -17.5358528
+        ]
+      },
+      "properties": {
+        "osm_id": 930802009,
+        "osm_type": "node",
+        "name": "Aremity",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.754553,
+          -16.498915
+        ]
+      },
+      "properties": {
+        "osm_id": 1323770037,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.75194,
+          -16.5046012
+        ]
+      },
+      "properties": {
+        "osm_id": 1323770046,
+        "osm_type": "node",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5697291,
+          -17.5366838
+        ]
+      },
+      "properties": {
+        "osm_id": 1503398963,
+        "osm_type": "node",
+        "name": "P1",
+        "brand": "STDO",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4489522,
+          -16.7248995
+        ]
+      },
+      "properties": {
+        "osm_id": 1721421538,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4434119,
+          -16.7293792
+        ]
+      },
+      "properties": {
+        "osm_id": 1721421542,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.775869,
+          -17.5270791
+        ]
+      },
+      "properties": {
+        "osm_id": 1802468642,
+        "osm_type": "node",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.0308065,
+          -9.805725
+        ]
+      },
+      "properties": {
+        "osm_id": 2062479244,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.45256,
+          -16.7234285
+        ]
+      },
+      "properties": {
+        "osm_id": 2091650462,
+        "osm_type": "node",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.251271,
+          -16.4563989
+        ]
+      },
+      "properties": {
+        "osm_id": 2324908647,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.345812,
+          -17.7466392
+        ]
+      },
+      "properties": {
+        "osm_id": 2546214707,
+        "osm_type": "node",
+        "name": "Station SHELL PAPEARI",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.571,
+          -17.5317
+        ]
+      },
+      "properties": {
+        "osm_id": 2551833860,
+        "osm_type": "node",
+        "name": "Mobil Moana",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4395809,
+          -16.7325684
+        ]
+      },
+      "properties": {
+        "osm_id": 4691250189,
+        "osm_type": "node",
+        "name": "Pacific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5458742,
+          -16.6194315
+        ]
+      },
+      "properties": {
+        "osm_id": 4698380697,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 07:00-12:00,13:30-17:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6971465,
+          -14.9443107
+        ]
+      },
+      "properties": {
+        "osm_id": 5046708124,
+        "osm_type": "node",
+        "name": "Station-service Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.578739,
+          -17.5458536
+        ]
+      },
+      "properties": {
+        "osm_id": 5197250923,
+        "osm_type": "node",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.094709,
+          -8.9211992
+        ]
+      },
+      "properties": {
+        "osm_id": 5906854985,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "98742",
+        "phone": null,
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-12:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.034174,
+          -16.7143021
+        ]
+      },
+      "properties": {
+        "osm_id": 6028806086,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.550453,
+          -17.534593
+        ]
+      },
+      "properties": {
+        "osm_id": 6385820787,
+        "osm_type": "node",
+        "name": "Station Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.534216,
+          -17.5246737
+        ]
+      },
+      "properties": {
+        "osm_id": 6831759862,
+        "osm_type": "node",
+        "name": "Coconut Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+68987773995",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0341606,
+          -16.7138122
+        ]
+      },
+      "properties": {
+        "osm_id": 7055280352,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6084947,
+          -17.6391987
+        ]
+      },
+      "properties": {
+        "osm_id": 168967842,
+        "osm_type": "way",
+        "name": "Mobil Punaauia",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5693609,
+          -17.5233955
+        ]
+      },
+      "properties": {
+        "osm_id": 204556964,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5700049,
+          -17.523916
+        ]
+      },
+      "properties": {
+        "osm_id": 204556978,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5722957,
+          -17.5255381
+        ]
+      },
+      "properties": {
+        "osm_id": 204556985,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4941507,
+          -17.5066267
+        ]
+      },
+      "properties": {
+        "osm_id": 204557059,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5774975,
+          -17.5453483
+        ]
+      },
+      "properties": {
+        "osm_id": 312146890,
+        "osm_type": "way",
+        "name": "Station service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5794202,
+          -17.5464131
+        ]
+      },
+      "properties": {
+        "osm_id": 312146968,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6067184,
+          -17.5588174
+        ]
+      },
+      "properties": {
+        "osm_id": 476867455,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7644146,
+          -17.4928756
+        ]
+      },
+      "properties": {
+        "osm_id": 568594274,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6033638,
+          -17.5559905
+        ]
+      },
+      "properties": {
+        "osm_id": 609100511,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6137773,
+          -17.5790842
+        ]
+      },
+      "properties": {
+        "osm_id": 693660510,
+        "osm_type": "way",
+        "name": "Shell Outumaoro",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5288418,
+          -17.5253632
+        ]
+      },
+      "properties": {
+        "osm_id": 728937797,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.545341,
+          -17.5266675
+        ]
+      },
+      "properties": {
+        "osm_id": 730929311,
+        "osm_type": "way",
+        "name": "Mobil Maeva",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5453,
+          -17.5270332
+        ]
+      },
+      "properties": {
+        "osm_id": 730929380,
+        "osm_type": "way",
+        "name": "Total Pirae",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8165103,
+          -17.5018129
+        ]
+      },
+      "properties": {
+        "osm_id": 732041195,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6036041,
+          -17.556472
+        ]
+      },
+      "properties": {
+        "osm_id": 733999888,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6035845,
+          -17.5560642
+        ]
+      },
+      "properties": {
+        "osm_id": 733999891,
+        "osm_type": "way",
+        "name": "Station Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5725796,
+          -17.5261427
+        ]
+      },
+      "properties": {
+        "osm_id": 734654787,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5654627,
+          -17.5358588
+        ]
+      },
+      "properties": {
+        "osm_id": 734655250,
+        "osm_type": "way",
+        "name": "Shell Hinoi Api",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5724266,
+          -17.5262258
+        ]
+      },
+      "properties": {
+        "osm_id": 734682762,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.572487,
+          -17.5257389
+        ]
+      },
+      "properties": {
+        "osm_id": 734682997,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5632236,
+          -17.5379271
+        ]
+      },
+      "properties": {
+        "osm_id": 734684061,
+        "osm_type": "way",
+        "name": "Station service Total",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5724651,
+          -17.5260777
+        ]
+      },
+      "properties": {
+        "osm_id": 734684631,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5696703,
+          -17.5237336
+        ]
+      },
+      "properties": {
+        "osm_id": 734685525,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5726008,
+          -17.5526297
+        ]
+      },
+      "properties": {
+        "osm_id": 734685897,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5565288,
+          -17.5319675
+        ]
+      },
+      "properties": {
+        "osm_id": 734686159,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": "TOTAL",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5668268,
+          -17.5356174
+        ]
+      },
+      "properties": {
+        "osm_id": 734686372,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": "Rue des Remparts",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5731436,
+          -17.5262381
+        ]
+      },
+      "properties": {
+        "osm_id": 734686384,
+        "osm_type": "way",
+        "name": "Total/Mobil/Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5725402,
+          -17.5258216
+        ]
+      },
+      "properties": {
+        "osm_id": 734686739,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5685361,
+          -17.5228214
+        ]
+      },
+      "properties": {
+        "osm_id": 734687248,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4740279,
+          -23.3440979
+        ]
+      },
+      "properties": {
+        "osm_id": 737450917,
+        "osm_type": "way",
+        "name": "station mila",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5691145,
+          -17.5232364
+        ]
+      },
+      "properties": {
+        "osm_id": 739731561,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5695986,
+          -17.5238128
+        ]
+      },
+      "properties": {
+        "osm_id": 739731572,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6033446,
+          -17.5559985
+        ]
+      },
+      "properties": {
+        "osm_id": 740091370,
+        "osm_type": "way",
+        "name": "Station Total Heitiare",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5904324,
+          -17.5465406
+        ]
+      },
+      "properties": {
+        "osm_id": 740092423,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.603941,
+          -17.5562413
+        ]
+      },
+      "properties": {
+        "osm_id": 740450621,
+        "osm_type": "way",
+        "name": "Station Mobil",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6080444,
+          -17.6344159
+        ]
+      },
+      "properties": {
+        "osm_id": 740555986,
+        "osm_type": "way",
+        "name": "Station service Total Punaruu",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6139454,
+          -17.5880582
+        ]
+      },
+      "properties": {
+        "osm_id": 740559359,
+        "osm_type": "way",
+        "name": "Station Mobile Taina",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6082209,
+          -17.6246873
+        ]
+      },
+      "properties": {
+        "osm_id": 740566301,
+        "osm_type": "way",
+        "name": "Pacific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4913871,
+          -17.5065026
+        ]
+      },
+      "properties": {
+        "osm_id": 740579523,
+        "osm_type": "way",
+        "name": "Station service Mobil",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5315687,
+          -17.5256679
+        ]
+      },
+      "properties": {
+        "osm_id": 740593564,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5863172,
+          -17.5476775
+        ]
+      },
+      "properties": {
+        "osm_id": 743816396,
+        "osm_type": "way",
+        "name": "Shell RDO",
+        "brand": "Shell",
+        "operator": null,
+        "address": "RT5",
+        "city": "Faaa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2952561,
+          -17.8027046
+        ]
+      },
+      "properties": {
+        "osm_id": 745922805,
+        "osm_type": "way",
+        "name": "Station MOBIL Vairao",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5575204,
+          -17.5328831
+        ]
+      },
+      "properties": {
+        "osm_id": 753402562,
+        "osm_type": "way",
+        "name": "Mobil Prince Hinoi",
+        "brand": "Mobil",
+        "operator": "MOBIL",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4863851,
+          -17.7675207
+        ]
+      },
+      "properties": {
+        "osm_id": 754460815,
+        "osm_type": "way",
+        "name": "Shell Papara",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5920325,
+          -17.6695151
+        ]
+      },
+      "properties": {
+        "osm_id": 754461655,
+        "osm_type": "way",
+        "name": "Station Mobile Paea",
+        "brand": "KAE WAY",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5060183,
+          -17.7614428
+        ]
+      },
+      "properties": {
+        "osm_id": 754462371,
+        "osm_type": "way",
+        "name": "Mobil Papara",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3459381,
+          -17.7468283
+        ]
+      },
+      "properties": {
+        "osm_id": 754462528,
+        "osm_type": "way",
+        "name": "Station service SHELL",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4647339,
+          -17.7766176
+        ]
+      },
+      "properties": {
+        "osm_id": 754466362,
+        "osm_type": "way",
+        "name": "Ancienne station service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.517182,
+          -17.7577461
+        ]
+      },
+      "properties": {
+        "osm_id": 754467904,
+        "osm_type": "way",
+        "name": "Total Vaipahu",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2625899,
+          -17.850402
+        ]
+      },
+      "properties": {
+        "osm_id": 754519242,
+        "osm_type": "way",
+        "name": "Station service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.316355,
+          -17.7279577
+        ]
+      },
+      "properties": {
+        "osm_id": 754792436,
+        "osm_type": "way",
+        "name": "Station MOBIL",
+        "brand": null,
+        "operator": null,
+        "address": "Taravao Centre",
+        "city": "Taiarapu-Est",
+        "postcode": "98719",
+        "phone": "+689 40 57 11 42",
+        "opening_hours": "Mo-Su 5:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1592564,
+          -17.7467925
+        ]
+      },
+      "properties": {
+        "osm_id": 754792806,
+        "osm_type": "way",
+        "name": "Station service MOBIL Tautira",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3166959,
+          -17.727532
+        ]
+      },
+      "properties": {
+        "osm_id": 754794734,
+        "osm_type": "way",
+        "name": "Station service SHELL",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.313642,
+          -17.7265082
+        ]
+      },
+      "properties": {
+        "osm_id": 754796128,
+        "osm_type": "way",
+        "name": "Station service TOTAL",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7759723,
+          -17.5271747
+        ]
+      },
+      "properties": {
+        "osm_id": 755126081,
+        "osm_type": "way",
+        "name": "Station service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7799088,
+          -17.5192362
+        ]
+      },
+      "properties": {
+        "osm_id": 755129144,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9120256,
+          -17.4962576
+        ]
+      },
+      "properties": {
+        "osm_id": 755129312,
+        "osm_type": "way",
+        "name": "Total énergies",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5696219,
+          -17.5240211
+        ]
+      },
+      "properties": {
+        "osm_id": 755341354,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6165726,
+          -17.5855155
+        ]
+      },
+      "properties": {
+        "osm_id": 755341378,
+        "osm_type": "way",
+        "name": "Total Marina",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6136681,
+          -17.5671798
+        ]
+      },
+      "properties": {
+        "osm_id": 10242328,
+        "osm_type": "relation",
+        "name": "Total",
+        "brand": "Total",
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.341902,
+          -22.4536598
+        ]
+      },
+      "properties": {
+        "osm_id": 19103495,
+        "osm_type": "relation",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "PF"
+      }
+    }
+  ]
+}

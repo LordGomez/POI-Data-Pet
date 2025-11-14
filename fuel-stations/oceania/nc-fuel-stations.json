@@ -1,0 +1,3085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4690182,
+          -22.2776394
+        ]
+      },
+      "properties": {
+        "osm_id": 441033430,
+        "osm_type": "node",
+        "name": "Station Total Rocade",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Su-Th 06:00-22:00; Fr,Sa 00:00-24:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4464896,
+          -22.2362816
+        ]
+      },
+      "properties": {
+        "osm_id": 442894937,
+        "osm_type": "node",
+        "name": "Total Ducos Centre",
+        "brand": null,
+        "operator": "Total",
+        "address": "Route de la Baie des Dames",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4394716,
+          -22.2743101
+        ]
+      },
+      "properties": {
+        "osm_id": 460397459,
+        "osm_type": "node",
+        "name": "Shell Victoire Moselle",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Avenue Henri Lafleur - Victoire",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4719389,
+          -22.2232174
+        ]
+      },
+      "properties": {
+        "osm_id": 465164594,
+        "osm_type": "node",
+        "name": "Station Shell de Kenu In",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "closed",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4694074,
+          -22.2441849
+        ]
+      },
+      "properties": {
+        "osm_id": 465166274,
+        "osm_type": "node",
+        "name": "Mobil Cap Vert Belle Vie",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": "Rue Jacques Iékawé",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4866179,
+          -22.2362588
+        ]
+      },
+      "properties": {
+        "osm_id": 466926889,
+        "osm_type": "node",
+        "name": "Shell Péage de Tina",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.443111,
+          -22.2765995
+        ]
+      },
+      "properties": {
+        "osm_id": 467134745,
+        "osm_type": "node",
+        "name": "Station Moselle",
+        "brand": null,
+        "operator": "Mobil",
+        "address": "Avenue du Maréchal Foch",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4449788,
+          -22.2988783
+        ]
+      },
+      "properties": {
+        "osm_id": 469711908,
+        "osm_type": "node",
+        "name": "Total Anse Vata",
+        "brand": null,
+        "operator": "Total",
+        "address": "Route de l'Anse Vata",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4492793,
+          -22.2764255
+        ]
+      },
+      "properties": {
+        "osm_id": 484172652,
+        "osm_type": "node",
+        "name": "Mobil Calvaire",
+        "brand": null,
+        "operator": "Mobil",
+        "address": "Boulevard Exterieur",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4392207,
+          -22.2917415
+        ]
+      },
+      "properties": {
+        "osm_id": 493909454,
+        "osm_type": "node",
+        "name": "Shell Port Plaisance",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Rue Jules Garnier",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4817329,
+          -22.2172823
+        ]
+      },
+      "properties": {
+        "osm_id": 494961043,
+        "osm_type": "node",
+        "name": "Shell Auteuil",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5852109,
+          -22.2381591
+        ]
+      },
+      "properties": {
+        "osm_id": 519610410,
+        "osm_type": "node",
+        "name": "Station du Casino du Mont-Dore",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.1416615,
+          -21.3200648
+        ]
+      },
+      "properties": {
+        "osm_id": 534613446,
+        "osm_type": "node",
+        "name": "Mobil Basse-Poya",
+        "brand": null,
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.8941724,
+          -21.0991018
+        ]
+      },
+      "properties": {
+        "osm_id": 534962281,
+        "osm_type": "node",
+        "name": "Station Mobil",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.3973475,
+          -20.6687859
+        ]
+      },
+      "properties": {
+        "osm_id": 534962294,
+        "osm_type": "node",
+        "name": "Station Total Kaala-Gomen",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.8608501,
+          -21.0602543
+        ]
+      },
+      "properties": {
+        "osm_id": 534962360,
+        "osm_type": "node",
+        "name": "Station Shell de Koné",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.7079574,
+          -20.965873
+        ]
+      },
+      "properties": {
+        "osm_id": 534962362,
+        "osm_type": "node",
+        "name": "Station Service de Voh Shell",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4655739,
+          -22.2338817
+        ]
+      },
+      "properties": {
+        "osm_id": 539409368,
+        "osm_type": "node",
+        "name": "Station Shell Rivière Salée",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Avenue Bonaparte",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5763227,
+          -22.2429477
+        ]
+      },
+      "properties": {
+        "osm_id": 574265216,
+        "osm_type": "node",
+        "name": "Station Shell de le Coulée",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4477699,
+          -22.2385096
+        ]
+      },
+      "properties": {
+        "osm_id": 708299296,
+        "osm_type": "node",
+        "name": "Shell Ducos",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Route de la Baie des Dames",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4585799,
+          -22.2762819
+        ]
+      },
+      "properties": {
+        "osm_id": 708319987,
+        "osm_type": "node",
+        "name": "Total Sainte-Marie Géant",
+        "brand": "Total",
+        "operator": "Total",
+        "address": "Rue Henri Schmidt",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4468081,
+          -22.2423915
+        ]
+      },
+      "properties": {
+        "osm_id": 708319996,
+        "osm_type": "node",
+        "name": "Mobil Ducos Delco",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": "Route de la Baie des Dames",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.553553,
+          -20.6216614
+        ]
+      },
+      "properties": {
+        "osm_id": 820788176,
+        "osm_type": "node",
+        "name": "Station Service Pacific",
+        "brand": "E.Leclerc",
+        "operator": "Pacific",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Su closed",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8292453,
+          -21.711788
+        ]
+      },
+      "properties": {
+        "osm_id": 824189270,
+        "osm_type": "node",
+        "name": "Total La Foa",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8237468,
+          -21.7084289
+        ]
+      },
+      "properties": {
+        "osm_id": 824190625,
+        "osm_type": "node",
+        "name": "Mobil La Foa",
+        "brand": null,
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "44 31 73",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8090912,
+          -21.6995771
+        ]
+      },
+      "properties": {
+        "osm_id": 824191381,
+        "osm_type": "node",
+        "name": "Shell La Foa",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.6207891,
+          -22.2724992
+        ]
+      },
+      "properties": {
+        "osm_id": 828668831,
+        "osm_type": "node",
+        "name": "Station Mobil de Plum",
+        "brand": null,
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.3668185,
+          -22.1297077
+        ]
+      },
+      "properties": {
+        "osm_id": 853581453,
+        "osm_type": "node",
+        "name": "Station Shell Paita",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.3661379,
+          -22.1299916
+        ]
+      },
+      "properties": {
+        "osm_id": 853581464,
+        "osm_type": "node",
+        "name": "Station Mobil Paita",
+        "brand": null,
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4987899,
+          -21.5687253
+        ]
+      },
+      "properties": {
+        "osm_id": 856587221,
+        "osm_type": "node",
+        "name": "Mobil Bourail",
+        "brand": null,
+        "operator": null,
+        "address": "Route Territoriale 1",
+        "city": null,
+        "postcode": "98870",
+        "phone": "442844",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4989562,
+          -21.5690745
+        ]
+      },
+      "properties": {
+        "osm_id": 856587223,
+        "osm_type": "node",
+        "name": "Station MOBIL",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "98870",
+        "phone": "441310",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2272673,
+          -22.0177798
+        ]
+      },
+      "properties": {
+        "osm_id": 860157706,
+        "osm_type": "node",
+        "name": "Station Shell Tontouta",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2265275,
+          -22.0169228
+        ]
+      },
+      "properties": {
+        "osm_id": 860157708,
+        "osm_type": "node",
+        "name": "Station Total Tontouta - CAP51",
+        "brand": "Total",
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2251167,
+          -22.0152072
+        ]
+      },
+      "properties": {
+        "osm_id": 860157709,
+        "osm_type": "node",
+        "name": "Station Mobil Tontouta",
+        "brand": "Mobil",
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6758272,
+          -21.69294
+        ]
+      },
+      "properties": {
+        "osm_id": 869889700,
+        "osm_type": "node",
+        "name": "Mobil Moindou",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.0012803,
+          -21.3202983
+        ]
+      },
+      "properties": {
+        "osm_id": 871719176,
+        "osm_type": "node",
+        "name": "Station Total Népoui",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.2818582,
+          -20.5621343
+        ]
+      },
+      "properties": {
+        "osm_id": 880481108,
+        "osm_type": "node",
+        "name": "Station Mobil Koumac",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.0352156,
+          -20.2277497
+        ]
+      },
+      "properties": {
+        "osm_id": 882325687,
+        "osm_type": "node",
+        "name": "Station Service de Poum",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.0567966,
+          -20.7335181
+        ]
+      },
+      "properties": {
+        "osm_id": 891136279,
+        "osm_type": "node",
+        "name": "Station Service Shell GAPAT",
+        "brand": null,
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.3224078,
+          -20.9316795
+        ]
+      },
+      "properties": {
+        "osm_id": 892870935,
+        "osm_type": "node",
+        "name": "Station Total Tiéti",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.0418414,
+          -21.8607418
+        ]
+      },
+      "properties": {
+        "osm_id": 895286813,
+        "osm_type": "node",
+        "name": "Station Mobil Brunet",
+        "brand": null,
+        "operator": "Mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.0483269,
+          -21.8661336
+        ]
+      },
+      "properties": {
+        "osm_id": 895286900,
+        "osm_type": "node",
+        "name": "Total Boulouparis",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4532442,
+          -22.2822428
+        ]
+      },
+      "properties": {
+        "osm_id": 898958406,
+        "osm_type": "node",
+        "name": "Total Faubourg",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.8298929,
+          -21.4177706
+        ]
+      },
+      "properties": {
+        "osm_id": 906651437,
+        "osm_type": "node",
+        "name": "Station Mobil Kouaoua",
+        "brand": null,
+        "operator": "mobil",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4435264,
+          -22.2817765
+        ]
+      },
+      "properties": {
+        "osm_id": 1000812525,
+        "osm_type": "node",
+        "name": "Total des Lycées",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4876811,
+          -22.2207502
+        ]
+      },
+      "properties": {
+        "osm_id": 1112563678,
+        "osm_type": "node",
+        "name": "Station Mobil du Pont des Français",
+        "brand": null,
+        "operator": "Mobil",
+        "address": "Avenue des Deux Baies",
+        "city": "Mont-Dore",
+        "postcode": "98809",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.0489074,
+          -21.8677868
+        ]
+      },
+      "properties": {
+        "osm_id": 1348955535,
+        "osm_type": "node",
+        "name": "Shell Boulouparis",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4975858,
+          -21.5674525
+        ]
+      },
+      "properties": {
+        "osm_id": 1422717342,
+        "osm_type": "node",
+        "name": "Total Bourail",
+        "brand": null,
+        "operator": null,
+        "address": "Route Territoriale 1",
+        "city": null,
+        "postcode": "98870",
+        "phone": "441112",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.462154,
+          -22.1706344
+        ]
+      },
+      "properties": {
+        "osm_id": 1431596749,
+        "osm_type": "node",
+        "name": "Station Service du Parc",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.4046044,
+          -21.0764972
+        ]
+      },
+      "properties": {
+        "osm_id": 1601703268,
+        "osm_type": "node",
+        "name": "Total Ponérihouen",
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.233105,
+          -20.7809133
+        ]
+      },
+      "properties": {
+        "osm_id": 1862417800,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2170916,
+          -21.6066405
+        ]
+      },
+      "properties": {
+        "osm_id": 1913547430,
+        "osm_type": "node",
+        "name": "Shell Thio",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.9275205,
+          -21.5143775
+        ]
+      },
+      "properties": {
+        "osm_id": 1913949669,
+        "osm_type": "node",
+        "name": "Mobil Canala",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.435967,
+          -22.2905358
+        ]
+      },
+      "properties": {
+        "osm_id": 1982357190,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.436263,
+          -22.2772131
+        ]
+      },
+      "properties": {
+        "osm_id": 2270349808,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.4463224,
+          -20.3543635
+        ]
+      },
+      "properties": {
+        "osm_id": 2896439884,
+        "osm_type": "node",
+        "name": "Pasific",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.939291,
+          -20.6984453
+        ]
+      },
+      "properties": {
+        "osm_id": 2896446940,
+        "osm_type": "node",
+        "name": "Station Pacific Hienghène",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.6888777,
+          -20.9502213
+        ]
+      },
+      "properties": {
+        "osm_id": 3191105461,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "Total",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4688441,
+          -22.2774888
+        ]
+      },
+      "properties": {
+        "osm_id": 3658736611,
+        "osm_type": "node",
+        "name": "Station Service Total Rocade",
+        "brand": null,
+        "operator": null,
+        "address": "Voie de Dégagement Est",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Su-Th 06:00-22:00; Fr,Sa 00:00-24:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.403172,
+          -21.072237
+        ]
+      },
+      "properties": {
+        "osm_id": 3928451957,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9101968,
+          -22.1538667
+        ]
+      },
+      "properties": {
+        "osm_id": 4188788989,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.9341042,
+          -20.6673453
+        ]
+      },
+      "properties": {
+        "osm_id": 4437081526,
+        "osm_type": "node",
+        "name": "Station Mobil",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.9342606,
+          -20.6671942
+        ]
+      },
+      "properties": {
+        "osm_id": 4454386089,
+        "osm_type": "node",
+        "name": "Station Mobil Tenem",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-19:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4365143,
+          -22.1846779
+        ]
+      },
+      "properties": {
+        "osm_id": 4699861359,
+        "osm_type": "node",
+        "name": "Total Panda",
+        "brand": "Total",
+        "operator": null,
+        "address": "Rue Georges Dubois",
+        "city": "Dumbéa",
+        "postcode": "98835",
+        "phone": "45 19 43",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2081643,
+          -21.6321665
+        ]
+      },
+      "properties": {
+        "osm_id": 4721441689,
+        "osm_type": "node",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9781167,
+          -22.1960183
+        ]
+      },
+      "properties": {
+        "osm_id": 4845200521,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5470283,
+          -20.6341017
+        ]
+      },
+      "properties": {
+        "osm_id": 4881043521,
+        "osm_type": "node",
+        "name": "Lomel 4",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+687419498",
+        "opening_hours": "Mo-Sa 06:00-12:00, 14:30-19:00; Su 07:00-12:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.4245076,
+          -20.3417507
+        ]
+      },
+      "properties": {
+        "osm_id": 5033365471,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.8699515,
+          -21.0706333
+        ]
+      },
+      "properties": {
+        "osm_id": 6838659151,
+        "osm_type": "node",
+        "name": "Station TOTAL TEARI",
+        "brand": null,
+        "operator": "TOTAL",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.0542672,
+          -20.930839
+        ]
+      },
+      "properties": {
+        "osm_id": 7571294015,
+        "osm_type": "node",
+        "name": "Cemu market",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 08:00-19:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9505005,
+          -22.2948277
+        ]
+      },
+      "properties": {
+        "osm_id": 7947608223,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9506301,
+          -22.2948551
+        ]
+      },
+      "properties": {
+        "osm_id": 7947635006,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4399425,
+          -22.285598
+        ]
+      },
+      "properties": {
+        "osm_id": 8018278915,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4454933,
+          -22.1963506
+        ]
+      },
+      "properties": {
+        "osm_id": 9033402518,
+        "osm_type": "node",
+        "name": "Station Apogoti",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4737454,
+          -22.2594488
+        ]
+      },
+      "properties": {
+        "osm_id": 9916573683,
+        "osm_type": "node",
+        "name": "Depot d' AVGAS",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.970231,
+          -21.5250963
+        ]
+      },
+      "properties": {
+        "osm_id": 12120061782,
+        "osm_type": "node",
+        "name": "Station service  Pacific Canala",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4689684,
+          -22.277505
+        ]
+      },
+      "properties": {
+        "osm_id": 37624918,
+        "osm_type": "way",
+        "name": "Station Service Total Rocade",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Su-Th 06:00-22:00; Fr,Sa 00:00-24:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4584569,
+          -22.2762403
+        ]
+      },
+      "properties": {
+        "osm_id": 37624926,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.448422,
+          -22.2479235
+        ]
+      },
+      "properties": {
+        "osm_id": 105577894,
+        "osm_type": "way",
+        "name": "Shell Pacific Petroleum",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Route de la Baie des Dames",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4533187,
+          -22.270279
+        ]
+      },
+      "properties": {
+        "osm_id": 110491805,
+        "osm_type": "way",
+        "name": "Mobil Vallée des Colons",
+        "brand": null,
+        "operator": "Mobil",
+        "address": "Rue Auguste Bénébig",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": "PH,Mo-Su 00:00-24:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4680097,
+          -22.2329943
+        ]
+      },
+      "properties": {
+        "osm_id": 116883285,
+        "osm_type": "way",
+        "name": "Station mobile rivière salée",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5034181,
+          -22.2273227
+        ]
+      },
+      "properties": {
+        "osm_id": 129817931,
+        "osm_type": "way",
+        "name": "Station Mobil Conception",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5078908,
+          -22.2253994
+        ]
+      },
+      "properties": {
+        "osm_id": 129817933,
+        "osm_type": "way",
+        "name": "Station Total Robinson",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4625187,
+          -22.24582
+        ]
+      },
+      "properties": {
+        "osm_id": 130805243,
+        "osm_type": "way",
+        "name": "Total Riviéra",
+        "brand": null,
+        "operator": null,
+        "address": "Rue André De Béchade",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4532087,
+          -22.2822279
+        ]
+      },
+      "properties": {
+        "osm_id": 175155304,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4439854,
+          -22.2495117
+        ]
+      },
+      "properties": {
+        "osm_id": 175946304,
+        "osm_type": "way",
+        "name": "SLN : Station service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4449499,
+          -22.2987686
+        ]
+      },
+      "properties": {
+        "osm_id": 180915368,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.291141,
+          -20.5651186
+        ]
+      },
+      "properties": {
+        "osm_id": 183119805,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Shell",
+        "operator": null,
+        "address": "Avenue Émile Frouin",
+        "city": null,
+        "postcode": null,
+        "phone": "+687 428282",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.2818405,
+          -20.5621356
+        ]
+      },
+      "properties": {
+        "osm_id": 192034380,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4701318,
+          -22.2601618
+        ]
+      },
+      "properties": {
+        "osm_id": 193626386,
+        "osm_type": "way",
+        "name": "Dépot d'hydrocarbure JETA1",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4634067,
+          -22.2610937
+        ]
+      },
+      "properties": {
+        "osm_id": 226854610,
+        "osm_type": "way",
+        "name": "Shell Portes des Fer",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Rue Armand Ohlen",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4655079,
+          -22.2338514
+        ]
+      },
+      "properties": {
+        "osm_id": 263471045,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4679687,
+          -22.2327414
+        ]
+      },
+      "properties": {
+        "osm_id": 263480845,
+        "osm_type": "way",
+        "name": "Station mobile rivière salée",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4674041,
+          -22.2667329
+        ]
+      },
+      "properties": {
+        "osm_id": 361375301,
+        "osm_type": "way",
+        "name": "Total Magenta Stade",
+        "brand": null,
+        "operator": null,
+        "address": "Rue Roger Gervolino",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4674554,
+          -22.2668764
+        ]
+      },
+      "properties": {
+        "osm_id": 361375302,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Rue Roger Gervolino",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.8987394,
+          -21.1240004
+        ]
+      },
+      "properties": {
+        "osm_id": 397901484,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.469154,
+          -22.2428421
+        ]
+      },
+      "properties": {
+        "osm_id": 423203681,
+        "osm_type": "way",
+        "name": "Total du Marais 6ème km",
+        "brand": null,
+        "operator": null,
+        "address": "Rue Jacques Iékawé",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4409799,
+          -22.2662043
+        ]
+      },
+      "properties": {
+        "osm_id": 426505103,
+        "osm_type": "way",
+        "name": "Total Général Patch",
+        "brand": "Total",
+        "operator": "Total",
+        "address": "Rue Georges Clemenceau",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4669265,
+          -22.2478164
+        ]
+      },
+      "properties": {
+        "osm_id": 426695294,
+        "osm_type": "way",
+        "name": "Station Capy",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Rue Jacques Iékawé",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4449513,
+          -22.2956732
+        ]
+      },
+      "properties": {
+        "osm_id": 543821153,
+        "osm_type": "way",
+        "name": "Shell Anse Vata",
+        "brand": null,
+        "operator": null,
+        "address": "Route de l'Anse Vata",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4359248,
+          -22.2906019
+        ]
+      },
+      "properties": {
+        "osm_id": 552263897,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4431621,
+          -22.2765353
+        ]
+      },
+      "properties": {
+        "osm_id": 578307327,
+        "osm_type": "way",
+        "name": "Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6184443,
+          -21.2887321
+        ]
+      },
+      "properties": {
+        "osm_id": 700763016,
+        "osm_type": "way",
+        "name": "Station SHELL Houailou",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4679869,
+          -22.2330974
+        ]
+      },
+      "properties": {
+        "osm_id": 724179945,
+        "osm_type": "way",
+        "name": "Station mobile rivière salée",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4475964,
+          -22.292143
+        ]
+      },
+      "properties": {
+        "osm_id": 998582675,
+        "osm_type": "way",
+        "name": "Mobil Michel Ange",
+        "brand": "Mobil",
+        "operator": null,
+        "address": "Route de l'Anse Vata",
+        "city": "Nouméa",
+        "postcode": "98800",
+        "phone": "+687262013",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2273804,
+          -22.0177015
+        ]
+      },
+      "properties": {
+        "osm_id": 1043622928,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.2252262,
+          -22.0151108
+        ]
+      },
+      "properties": {
+        "osm_id": 1043622952,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.3433817,
+          -20.9360574
+        ]
+      },
+      "properties": {
+        "osm_id": 1092238453,
+        "osm_type": "way",
+        "name": "Station Mobil",
+        "brand": "Mobil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.3034386,
+          -20.5805506
+        ]
+      },
+      "properties": {
+        "osm_id": 1184887534,
+        "osm_type": "way",
+        "name": "Total",
+        "brand": "Total",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4533288,
+          -22.2514718
+        ]
+      },
+      "properties": {
+        "osm_id": 6329129,
+        "osm_type": "relation",
+        "name": "Pétrocal",
+        "brand": null,
+        "operator": null,
+        "address": "Rue du Docteur Collard",
+        "city": "Nouméa",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "NC"
+      }
+    }
+  ]
+}
