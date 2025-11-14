@@ -1,0 +1,4569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4113434,
+          10.6378004
+        ]
+      },
+      "properties": {
+        "osm_id": 1347926395,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4116304,
+          10.6374023
+        ]
+      },
+      "properties": {
+        "osm_id": 1347926400,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4379523,
+          10.650814
+        ]
+      },
+      "properties": {
+        "osm_id": 1375524326,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": null,
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4578825,
+          10.6505601
+        ]
+      },
+      "properties": {
+        "osm_id": 1377451860,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": null,
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4362551,
+          10.3108669
+        ]
+      },
+      "properties": {
+        "osm_id": 1382887318,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6485502,
+          10.1743939
+        ]
+      },
+      "properties": {
+        "osm_id": 1394839775,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4252438,
+          10.3177439
+        ]
+      },
+      "properties": {
+        "osm_id": 1397905618,
+        "osm_type": "node",
+        "name": "NP Quikshop",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3656075,
+          10.2704151
+        ]
+      },
+      "properties": {
+        "osm_id": 1402187311,
+        "osm_type": "node",
+        "name": "NP Service Station",
+        "brand": "National Petroleum",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3718096,
+          10.2706318
+        ]
+      },
+      "properties": {
+        "osm_id": 1402187314,
+        "osm_type": "node",
+        "name": "Unipet Service Station",
+        "brand": "National Petroleum",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2885379,
+          10.6244729
+        ]
+      },
+      "properties": {
+        "osm_id": 1423695881,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": "National Petroleum",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3947525,
+          10.2057189
+        ]
+      },
+      "properties": {
+        "osm_id": 1426782818,
+        "osm_type": "node",
+        "name": "NP Service Station",
+        "brand": "National Petroleum",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3939107,
+          10.20282
+        ]
+      },
+      "properties": {
+        "osm_id": 1426782823,
+        "osm_type": "node",
+        "name": "Unipet Service Station",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1766021,
+          10.3064852
+        ]
+      },
+      "properties": {
+        "osm_id": 1428769315,
+        "osm_type": "node",
+        "name": "NP Service Station",
+        "brand": "National Petroleum",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1757892,
+          10.3061106
+        ]
+      },
+      "properties": {
+        "osm_id": 1428769353,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": "Unipet",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5032583,
+          10.6703031
+        ]
+      },
+      "properties": {
+        "osm_id": 1434211978,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "National Petroleum",
+        "operator": "National Petroleum",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6557885,
+          10.076002
+        ]
+      },
+      "properties": {
+        "osm_id": 1452374973,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2032948,
+          10.6515704
+        ]
+      },
+      "properties": {
+        "osm_id": 1494846413,
+        "osm_type": "node",
+        "name": "NP, Valencia",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Eastern Main Road",
+        "city": "Valencia",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4521384,
+          10.2112661
+        ]
+      },
+      "properties": {
+        "osm_id": 1510846366,
+        "osm_type": "node",
+        "name": "NP QuickShoppe",
+        "brand": "National Petroleum",
+        "operator": "National Petroleum",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4583193,
+          10.1689049
+        ]
+      },
+      "properties": {
+        "osm_id": 1510846371,
+        "osm_type": "node",
+        "name": "Basdeo Jaggernauth",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "647-8809",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4574219,
+          10.1697261
+        ]
+      },
+      "properties": {
+        "osm_id": 1510846381,
+        "osm_type": "node",
+        "name": "Ramdeo Rambalack",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "S. S. Erin Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4500248,
+          10.1868197
+        ]
+      },
+      "properties": {
+        "osm_id": 1510846385,
+        "osm_type": "node",
+        "name": "Basdeo Lakhan",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1291474,
+          10.5860484
+        ]
+      },
+      "properties": {
+        "osm_id": 1514855356,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3841836,
+          10.6457379
+        ]
+      },
+      "properties": {
+        "osm_id": 1514975778,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "National Petroleum",
+        "operator": "National Petroleum",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3395965,
+          10.6338633
+        ]
+      },
+      "properties": {
+        "osm_id": 1535084096,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "National Petroleum",
+        "operator": "National Petroleum",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4540089,
+          10.2725217
+        ]
+      },
+      "properties": {
+        "osm_id": 1540787399,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4624722,
+          10.2810537
+        ]
+      },
+      "properties": {
+        "osm_id": 1542335051,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4592535,
+          10.2781364
+        ]
+      },
+      "properties": {
+        "osm_id": 1596361118,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4134455,
+          10.528847
+        ]
+      },
+      "properties": {
+        "osm_id": 1598903752,
+        "osm_type": "node",
+        "name": "Medford on the Flyover",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": "Chaguanas",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3722128,
+          10.3280571
+        ]
+      },
+      "properties": {
+        "osm_id": 1604363088,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3027718,
+          10.3909393
+        ]
+      },
+      "properties": {
+        "osm_id": 1611919647,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5773681,
+          11.2492941
+        ]
+      },
+      "properties": {
+        "osm_id": 1751381190,
+        "osm_type": "node",
+        "name": "NP, Roxborough",
+        "brand": "NP",
+        "operator": "Romeo Brothers",
+        "address": "Windward Road",
+        "city": "Roxborough",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4852817,
+          10.2456686
+        ]
+      },
+      "properties": {
+        "osm_id": 1761244004,
+        "osm_type": "node",
+        "name": "S Suprasad Service Station",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": "La Romain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5458401,
+          10.1818986
+        ]
+      },
+      "properties": {
+        "osm_id": 1765260523,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "Maharaj",
+        "address": null,
+        "city": "Fyzabad",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5483306,
+          10.1804581
+        ]
+      },
+      "properties": {
+        "osm_id": 1765260524,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Guapo Road",
+        "city": "Fyzabad",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5008212,
+          10.145686
+        ]
+      },
+      "properties": {
+        "osm_id": 1768027588,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": "Unipet",
+        "operator": "Nagib Hosein",
+        "address": null,
+        "city": "Siparia",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5571601,
+          10.1135737
+        ]
+      },
+      "properties": {
+        "osm_id": 1768152910,
+        "osm_type": "node",
+        "name": "Santa Flora Quick Shop",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.464681,
+          10.6485432
+        ]
+      },
+      "properties": {
+        "osm_id": 1783941772,
+        "osm_type": "node",
+        "name": "Stuart McIntyre Service Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4528636,
+          10.2123034
+        ]
+      },
+      "properties": {
+        "osm_id": 1787543059,
+        "osm_type": "node",
+        "name": "Bhagwandaye Singh",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9143776,
+          10.0458828
+        ]
+      },
+      "properties": {
+        "osm_id": 1805508713,
+        "osm_type": "node",
+        "name": "Icacos Gas Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8596987,
+          10.0937423
+        ]
+      },
+      "properties": {
+        "osm_id": 1805522954,
+        "osm_type": "node",
+        "name": "Cedros Gas Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6811606,
+          10.173491
+        ]
+      },
+      "properties": {
+        "osm_id": 1811313795,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0072472,
+          10.2953095
+        ]
+      },
+      "properties": {
+        "osm_id": 1820695244,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4511814,
+          10.6473781
+        ]
+      },
+      "properties": {
+        "osm_id": 2118459040,
+        "osm_type": "node",
+        "name": "Unipet Service Station",
+        "brand": "El Socorro",
+        "operator": "Fuel",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4507903,
+          10.6348406
+        ]
+      },
+      "properties": {
+        "osm_id": 2118589039,
+        "osm_type": "node",
+        "name": "NP Service Station",
+        "brand": "El Socorro",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5377153,
+          10.224285
+        ]
+      },
+      "properties": {
+        "osm_id": 2121508902,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6094565,
+          10.2349039
+        ]
+      },
+      "properties": {
+        "osm_id": 2157563181,
+        "osm_type": "node",
+        "name": "quick shoppe",
+        "brand": null,
+        "operator": "np",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8577657,
+          10.0939204
+        ]
+      },
+      "properties": {
+        "osm_id": 2176206000,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9460472,
+          10.7936257
+        ]
+      },
+      "properties": {
+        "osm_id": 2184292253,
+        "osm_type": "node",
+        "name": "NP Cumana",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2011029,
+          10.578944
+        ]
+      },
+      "properties": {
+        "osm_id": 2329690949,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": null,
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3042008,
+          10.6293115
+        ]
+      },
+      "properties": {
+        "osm_id": 3875306667,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": "D'ABADIE",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2752882,
+          10.3354117
+        ]
+      },
+      "properties": {
+        "osm_id": 4283195899,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "brothers road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0619133,
+          10.5260412
+        ]
+      },
+      "properties": {
+        "osm_id": 4291207689,
+        "osm_type": "node",
+        "name": "Np manzanilla",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3214564,
+          10.2833046
+        ]
+      },
+      "properties": {
+        "osm_id": 4477482889,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4150957,
+          10.5493102
+        ]
+      },
+      "properties": {
+        "osm_id": 4691421892,
+        "osm_type": "node",
+        "name": "Pierre Road Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4955622,
+          10.6432358
+        ]
+      },
+      "properties": {
+        "osm_id": 5311723021,
+        "osm_type": "node",
+        "name": "NP gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.315967,
+          10.4314439
+        ]
+      },
+      "properties": {
+        "osm_id": 5981213290,
+        "osm_type": "node",
+        "name": "Joyce Boodoosingh & Son Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4508722,
+          10.4425711
+        ]
+      },
+      "properties": {
+        "osm_id": 6758528585,
+        "osm_type": "node",
+        "name": "Unipet Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4019937,
+          10.6468191
+        ]
+      },
+      "properties": {
+        "osm_id": 6913919921,
+        "osm_type": "node",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5936252,
+          10.6854591
+        ]
+      },
+      "properties": {
+        "osm_id": 7816404048,
+        "osm_type": "node",
+        "name": "NP Carenage",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4562454,
+          10.2874424
+        ]
+      },
+      "properties": {
+        "osm_id": 7832787022,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2729443,
+          10.5620149
+        ]
+      },
+      "properties": {
+        "osm_id": 7832935066,
+        "osm_type": "node",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 06:00-18:00; PH,Su 06:00-13:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4680818,
+          10.6481184
+        ]
+      },
+      "properties": {
+        "osm_id": 7837953615,
+        "osm_type": "node",
+        "name": "ateco Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1458687,
+          10.5903701
+        ]
+      },
+      "properties": {
+        "osm_id": 8288015324,
+        "osm_type": "node",
+        "name": "Grande  Old Gas station",
+        "brand": null,
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5239741,
+          10.6583698
+        ]
+      },
+      "properties": {
+        "osm_id": 11228471340,
+        "osm_type": "node",
+        "name": "St. Christopher's service station",
+        "brand": null,
+        "operator": null,
+        "address": "Wrightson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4109567,
+          10.5158547
+        ]
+      },
+      "properties": {
+        "osm_id": 11228471359,
+        "osm_type": "node",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Trial Street",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2806031,
+          10.6417284
+        ]
+      },
+      "properties": {
+        "osm_id": 11245428640,
+        "osm_type": "node",
+        "name": "Chattergoon",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3394984,
+          10.6337762
+        ]
+      },
+      "properties": {
+        "osm_id": 11674145270,
+        "osm_type": "node",
+        "name": "S&V services limited",
+        "brand": null,
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5195595,
+          10.6628367
+        ]
+      },
+      "properties": {
+        "osm_id": 138154122,
+        "osm_type": "way",
+        "name": "NP Ultra",
+        "brand": "NP",
+        "operator": null,
+        "address": "Tragarete Road",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5107872,
+          10.1435543
+        ]
+      },
+      "properties": {
+        "osm_id": 165246926,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5008242,
+          10.145631
+        ]
+      },
+      "properties": {
+        "osm_id": 165253425,
+        "osm_type": "way",
+        "name": "Iere Gas Station",
+        "brand": null,
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5571718,
+          10.1136354
+        ]
+      },
+      "properties": {
+        "osm_id": 165257748,
+        "osm_type": "way",
+        "name": "Santa Flora Quick Shoppe",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": "Santa Flora",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5581667,
+          10.1127049
+        ]
+      },
+      "properties": {
+        "osm_id": 165257750,
+        "osm_type": "way",
+        "name": "Santa Flora Service Station",
+        "brand": "Unipet",
+        "operator": "Unipet",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "no",
+        "fuel_e10": "no",
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5438272,
+          10.6750317
+        ]
+      },
+      "properties": {
+        "osm_id": 165664547,
+        "osm_type": "way",
+        "name": "Peake's Service Station",
+        "brand": "Unipet",
+        "operator": "Peake",
+        "address": "Western Main Road",
+        "city": "COCORITE",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5480376,
+          10.1788186
+        ]
+      },
+      "properties": {
+        "osm_id": 166355130,
+        "osm_type": "way",
+        "name": "Unipet Gas Station, Fyzabad",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4685786,
+          10.6448536
+        ]
+      },
+      "properties": {
+        "osm_id": 175574465,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "10th Avenue",
+        "city": "Barataria",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7481994,
+          11.1804278
+        ]
+      },
+      "properties": {
+        "osm_id": 230913983,
+        "osm_type": "way",
+        "name": "NP Gas Station, Spring Garden",
+        "brand": "NP",
+        "operator": null,
+        "address": "Milford Road",
+        "city": "Scarborough",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3443772,
+          10.611297
+        ]
+      },
+      "properties": {
+        "osm_id": 381160413,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "B.W.I.A. Boulevard",
+        "city": "Piarco",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.8308452,
+          11.1580488
+        ]
+      },
+      "properties": {
+        "osm_id": 381931789,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3385524,
+          10.6334714
+        ]
+      },
+      "properties": {
+        "osm_id": 383928202,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": "National Petroleum",
+        "operator": "NP",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2839447,
+          10.6384582
+        ]
+      },
+      "properties": {
+        "osm_id": 384248416,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2805879,
+          10.64174
+        ]
+      },
+      "properties": {
+        "osm_id": 385366422,
+        "osm_type": "way",
+        "name": "Broadway Express Services Ltd",
+        "brand": "Unipet",
+        "operator": "Broadway Express Services Ltd",
+        "address": "Broadway",
+        "city": "Arima",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4093894,
+          10.6491594
+        ]
+      },
+      "properties": {
+        "osm_id": 386533383,
+        "osm_type": "way",
+        "name": "Unipet Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": "Curepe",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4506708,
+          10.6758559
+        ]
+      },
+      "properties": {
+        "osm_id": 386652890,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": "Unipet",
+        "address": "Saddle Road",
+        "city": "Santa Cruz",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4708064,
+          10.716795
+        ]
+      },
+      "properties": {
+        "osm_id": 386662796,
+        "osm_type": "way",
+        "name": "Unipet Cantaro Service Station",
+        "brand": null,
+        "operator": "Unipet",
+        "address": "Saddle Road",
+        "city": "Santa Cruz",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.511479,
+          10.7072868
+        ]
+      },
+      "properties": {
+        "osm_id": 386697899,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Saddle Road",
+        "city": "Maraval",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5211779,
+          10.6774706
+        ]
+      },
+      "properties": {
+        "osm_id": 386948834,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Boissiere Village",
+        "city": "Maraval",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5209126,
+          10.6758866
+        ]
+      },
+      "properties": {
+        "osm_id": 386949237,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Boissiere Village",
+        "city": "Maraval",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5088229,
+          10.6607104
+        ]
+      },
+      "properties": {
+        "osm_id": 386987607,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Charlotte Street",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": "868-625-5162",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5080866,
+          10.6574962
+        ]
+      },
+      "properties": {
+        "osm_id": 387013214,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Charlotte Street",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5238144,
+          10.6588455
+        ]
+      },
+      "properties": {
+        "osm_id": 387835785,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Wrightson Road",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5204091,
+          10.6575684
+        ]
+      },
+      "properties": {
+        "osm_id": 387836781,
+        "osm_type": "way",
+        "name": "Petromart Ltd.",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Wrightson Road",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4775293,
+          10.6493489
+        ]
+      },
+      "properties": {
+        "osm_id": 388782240,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4840375,
+          10.647967
+        ]
+      },
+      "properties": {
+        "osm_id": 388785147,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5132513,
+          10.6563326
+        ]
+      },
+      "properties": {
+        "osm_id": 388919593,
+        "osm_type": "way",
+        "name": "Petromart",
+        "brand": "NP",
+        "operator": "NP",
+        "address": null,
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5617147,
+          10.714723
+        ]
+      },
+      "properties": {
+        "osm_id": 389589298,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Diego Martin Main Road",
+        "city": "DIEGO MARTIN",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5538358,
+          10.6879306
+        ]
+      },
+      "properties": {
+        "osm_id": 389621264,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Diego Martin Main Road",
+        "city": "DIEGO MARTIN",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4368398,
+          10.7571037
+        ]
+      },
+      "properties": {
+        "osm_id": 389704275,
+        "osm_type": "way",
+        "name": "NP Fuel Pumps",
+        "brand": "National Petroleum",
+        "operator": "National Petroleum",
+        "address": "North Coast Road",
+        "city": "MARACAS BAY",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5936295,
+          10.6854819
+        ]
+      },
+      "properties": {
+        "osm_id": 389805155,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": "National Petroleum",
+        "address": "Western Main Road",
+        "city": "Carenage",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5140099,
+          10.6569492
+        ]
+      },
+      "properties": {
+        "osm_id": 389933566,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Richmond Street",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": "627-3811",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4897565,
+          10.6591786
+        ]
+      },
+      "properties": {
+        "osm_id": 390085874,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": "National Petroleum",
+        "address": "Laventille Road",
+        "city": "PORT OF SPAIN",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4694899,
+          10.6493966
+        ]
+      },
+      "properties": {
+        "osm_id": 390090846,
+        "osm_type": "way",
+        "name": "NP Quik Shop",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Eastern Main Road",
+        "city": "Barataria",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4695886,
+          10.6496183
+        ]
+      },
+      "properties": {
+        "osm_id": 390090847,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Eastern Main Road",
+        "city": "Barataria",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7410613,
+          11.18172
+        ]
+      },
+      "properties": {
+        "osm_id": 390100904,
+        "osm_type": "way",
+        "name": "NP: Tobago Taxi Cooperative Society Ltd",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Milford Road",
+        "city": "Scarborough",
+        "postcode": null,
+        "phone": "639 2707",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4874678,
+          10.6452243
+        ]
+      },
+      "properties": {
+        "osm_id": 390106739,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Beetham Highway",
+        "city": "Port of Spain",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7740287,
+          11.1688395
+        ]
+      },
+      "properties": {
+        "osm_id": 390131608,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3403414,
+          10.5823843
+        ]
+      },
+      "properties": {
+        "osm_id": 390140453,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": "National Petroleum",
+        "address": "Caroni South Bank Road",
+        "city": "Saint Helena",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7755059,
+          11.2220664
+        ]
+      },
+      "properties": {
+        "osm_id": 390140811,
+        "osm_type": "way",
+        "name": "Plymouth Gas Station",
+        "brand": "NP",
+        "operator": "Hochoy Charles / George Bafour",
+        "address": "Halifax Street",
+        "city": "PLYMOUTH",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5492559,
+          11.3222322
+        ]
+      },
+      "properties": {
+        "osm_id": 390175505,
+        "osm_type": "way",
+        "name": "Charlotteville Fishing Cooperative Gas Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Old Housing Scheme Road",
+        "city": "Charlotteville",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3731848,
+          10.5635989
+        ]
+      },
+      "properties": {
+        "osm_id": 390249505,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": "CUNUPIA",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582392,
+          11.2497794
+        ]
+      },
+      "properties": {
+        "osm_id": 390276898,
+        "osm_type": "way",
+        "name": "Roxborough Quick Shop",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3732307,
+          10.5533412
+        ]
+      },
+      "properties": {
+        "osm_id": 390282310,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": "CUNUPIA",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3051028,
+          10.6287983
+        ]
+      },
+      "properties": {
+        "osm_id": 390316435,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2888983,
+          10.6360221
+        ]
+      },
+      "properties": {
+        "osm_id": 390488865,
+        "osm_type": "way",
+        "name": "Lee heung NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3613048,
+          10.6438136
+        ]
+      },
+      "properties": {
+        "osm_id": 390867418,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3643141,
+          10.6440786
+        ]
+      },
+      "properties": {
+        "osm_id": 390889878,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": "Eastern Main Road",
+        "city": "Tacarigua",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3780962,
+          10.6460741
+        ]
+      },
+      "properties": {
+        "osm_id": 390890644,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3827656,
+          10.645785
+        ]
+      },
+      "properties": {
+        "osm_id": 390905305,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3970918,
+          10.6450748
+        ]
+      },
+      "properties": {
+        "osm_id": 390910611,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3962903,
+          10.5140415
+        ]
+      },
+      "properties": {
+        "osm_id": 391067161,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Old Southern Main Road",
+        "city": "Chaguanas",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4593119,
+          10.264558
+        ]
+      },
+      "properties": {
+        "osm_id": 391071014,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4630501,
+          10.2659209
+        ]
+      },
+      "properties": {
+        "osm_id": 391071946,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4525113,
+          10.2808736
+        ]
+      },
+      "properties": {
+        "osm_id": 391091213,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Royal Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4584787,
+          10.2631364
+        ]
+      },
+      "properties": {
+        "osm_id": 391093194,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4046741,
+          10.5055383
+        ]
+      },
+      "properties": {
+        "osm_id": 391101922,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": "Unipet",
+        "operator": null,
+        "address": "South Brentwood Drive",
+        "city": "CHAGUANAS",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.406937,
+          10.5143496
+        ]
+      },
+      "properties": {
+        "osm_id": 391112432,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Chaguanas Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4107704,
+          10.5158247
+        ]
+      },
+      "properties": {
+        "osm_id": 391114604,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Chaguanas Main Road",
+        "city": "Chaguanas",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.409127,
+          10.4801547
+        ]
+      },
+      "properties": {
+        "osm_id": 391222069,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4212601,
+          10.4641446
+        ]
+      },
+      "properties": {
+        "osm_id": 391251116,
+        "osm_type": "way",
+        "name": "NP & Ronsan Lotto",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4537283,
+          10.3156269
+        ]
+      },
+      "properties": {
+        "osm_id": 391265609,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4509794,
+          10.3044328
+        ]
+      },
+      "properties": {
+        "osm_id": 391283164,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4544052,
+          10.2944344
+        ]
+      },
+      "properties": {
+        "osm_id": 391289277,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4590999,
+          10.4219242
+        ]
+      },
+      "properties": {
+        "osm_id": 391292326,
+        "osm_type": "way",
+        "name": "Unipet",
+        "brand": null,
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": "Couva",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4621092,
+          10.421815
+        ]
+      },
+      "properties": {
+        "osm_id": 391295842,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": "Couva",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4621367,
+          10.4217169
+        ]
+      },
+      "properties": {
+        "osm_id": 391295843,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": "Couva",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4580752,
+          10.331767
+        ]
+      },
+      "properties": {
+        "osm_id": 391295854,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4517925,
+          10.3077201
+        ]
+      },
+      "properties": {
+        "osm_id": 391298757,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4552864,
+          10.2931557
+        ]
+      },
+      "properties": {
+        "osm_id": 391305286,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4720504,
+          10.4054196
+        ]
+      },
+      "properties": {
+        "osm_id": 391319655,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": null,
+        "operator": "National Petroleum",
+        "address": "Southern Main Road",
+        "city": "CALIFORNIA",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4490654,
+          10.6490935
+        ]
+      },
+      "properties": {
+        "osm_id": 449451923,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4638542,
+          10.6503067
+        ]
+      },
+      "properties": {
+        "osm_id": 449751043,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.372562,
+          10.6366254
+        ]
+      },
+      "properties": {
+        "osm_id": 449751064,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "The Shops at Trincity",
+        "city": "TACARIGUA",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0619402,
+          10.5261245
+        ]
+      },
+      "properties": {
+        "osm_id": 489642905,
+        "osm_type": "way",
+        "name": "National Petroleum Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4368639,
+          10.7571641
+        ]
+      },
+      "properties": {
+        "osm_id": 489647632,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2694135,
+          10.6089008
+        ]
+      },
+      "properties": {
+        "osm_id": 529686214,
+        "osm_type": "way",
+        "name": "Tumpuna NP Gas Station",
+        "brand": null,
+        "operator": "National Petroleum (NP)",
+        "address": "Tumpuna Road North",
+        "city": "Arima",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2694976,
+          10.6089122
+        ]
+      },
+      "properties": {
+        "osm_id": 529687845,
+        "osm_type": "way",
+        "name": "PSO Petrol Pumps",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Tumpuna Road North",
+        "city": "Arima",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4190589,
+          10.6337857
+        ]
+      },
+      "properties": {
+        "osm_id": 544537998,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": null,
+        "operator": "NP",
+        "address": "Morequito Avenue",
+        "city": "Valsayn",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0072271,
+          10.2953093
+        ]
+      },
+      "properties": {
+        "osm_id": 547912688,
+        "osm_type": "way",
+        "name": "Cambell NP Mayaro Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Naparima Mayaro Road",
+        "city": "Mayaro",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5533853,
+          10.6855816
+        ]
+      },
+      "properties": {
+        "osm_id": 549757374,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Diego Martin Main Road",
+        "city": "DIEGO MARTIN",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4612221,
+          10.2595103
+        ]
+      },
+      "properties": {
+        "osm_id": 628169921,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1311893,
+          10.4329921
+        ]
+      },
+      "properties": {
+        "osm_id": 661599413,
+        "osm_type": "way",
+        "name": "Ramjitsingh's Mini Mart & Gas Station",
+        "brand": "Np",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.44672,
+          10.2798335
+        ]
+      },
+      "properties": {
+        "osm_id": 833970451,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Naparima Mayaro Road",
+        "city": "San Fernando",
+        "postcode": null,
+        "phone": "+868 653-4909",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5032518,
+          10.6702944
+        ]
+      },
+      "properties": {
+        "osm_id": 834835787,
+        "osm_type": "way",
+        "name": "Nunes Gas Station",
+        "brand": "NP Gas",
+        "operator": "NP Gas",
+        "address": "Belmont Circular Road",
+        "city": "PORT OF SPAIN",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2729387,
+          10.5620198
+        ]
+      },
+      "properties": {
+        "osm_id": 839394863,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4499328,
+          10.6309248
+        ]
+      },
+      "properties": {
+        "osm_id": 873230730,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "EXT 2 El Socorro Road",
+        "city": "San Juan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5533559,
+          10.7136133
+        ]
+      },
+      "properties": {
+        "osm_id": 881037527,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5137116,
+          10.6575826
+        ]
+      },
+      "properties": {
+        "osm_id": 882541368,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4155432,
+          10.5681657
+        ]
+      },
+      "properties": {
+        "osm_id": 884093117,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Bejucal Road",
+        "city": "Chaguanas",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4176844,
+          10.4156952
+        ]
+      },
+      "properties": {
+        "osm_id": 985378179,
+        "osm_type": "way",
+        "name": "NP Service Station",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Rivulet Road",
+        "city": "Couva",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4539717,
+          10.2725225
+        ]
+      },
+      "properties": {
+        "osm_id": 1041352176,
+        "osm_type": "way",
+        "name": null,
+        "brand": "NP Quik Shoppe",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2911539,
+          10.6106798
+        ]
+      },
+      "properties": {
+        "osm_id": 1051349932,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4112948,
+          10.637811
+        ]
+      },
+      "properties": {
+        "osm_id": 1124688656,
+        "osm_type": "way",
+        "name": "NP Gas Station",
+        "brand": "NP",
+        "operator": null,
+        "address": "Southern Main Road",
+        "city": "Curepe",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5401729,
+          10.6726419
+        ]
+      },
+      "properties": {
+        "osm_id": 1204350870,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": null,
+        "address": "Mucurapo Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0030189,
+          10.3027945
+        ]
+      },
+      "properties": {
+        "osm_id": 1307516492,
+        "osm_type": "way",
+        "name": "NP",
+        "brand": "NP",
+        "operator": "NP",
+        "address": "Manzanilla Mayaro Road",
+        "city": "Mayaro",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "TT"
+      }
+    }
+  ]
+}

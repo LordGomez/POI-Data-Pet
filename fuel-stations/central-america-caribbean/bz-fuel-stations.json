@@ -1,0 +1,3701 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9607674,
+          17.8958495
+        ]
+      },
+      "properties": {
+        "osm_id": 1636815453,
+        "osm_type": "node",
+        "name": "Blumenthal Store Gas Pumps",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6641224,
+          18.0378753
+        ]
+      },
+      "properties": {
+        "osm_id": 1641124689,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7298845,
+          17.9686964
+        ]
+      },
+      "properties": {
+        "osm_id": 1641124690,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3812157,
+          17.5811068
+        ]
+      },
+      "properties": {
+        "osm_id": 1873616212,
+        "osm_type": "node",
+        "name": "CDS Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3064862,
+          18.4982523
+        ]
+      },
+      "properties": {
+        "osm_id": 1873781074,
+        "osm_type": "node",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0802628,
+          17.1479155
+        ]
+      },
+      "properties": {
+        "osm_id": 2638592117,
+        "osm_type": "node",
+        "name": "Chuks Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "San Ignacio",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0267857,
+          17.7435757
+        ]
+      },
+      "properties": {
+        "osm_id": 2691940340,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3694348,
+          16.5167425
+        ]
+      },
+      "properties": {
+        "osm_id": 2715646703,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2973129,
+          16.9852381
+        ]
+      },
+      "properties": {
+        "osm_id": 2778508903,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Xai Bel",
+        "address": "Hummingbird Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1157516,
+          17.1703196
+        ]
+      },
+      "properties": {
+        "osm_id": 2804576082,
+        "osm_type": "node",
+        "name": "Pinelo's & Sons Butane Service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1435942,
+          17.0613465
+        ]
+      },
+      "properties": {
+        "osm_id": 2970454304,
+        "osm_type": "node",
+        "name": "Mundo Maya Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1691024,
+          17.0575973
+        ]
+      },
+      "properties": {
+        "osm_id": 4696434865,
+        "osm_type": "node",
+        "name": "Quick Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3965691,
+          17.4499565
+        ]
+      },
+      "properties": {
+        "osm_id": 4797190922,
+        "osm_type": "node",
+        "name": "Everyday Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": null,
+        "postcode": null,
+        "phone": "2256011",
+        "opening_hours": "Mo-Su 07:30-21:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5133968,
+          18.3074005
+        ]
+      },
+      "properties": {
+        "osm_id": 4848193855,
+        "osm_type": "node",
+        "name": "J & B Butane Serviices",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "San Roman",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4575523,
+          17.0041837
+        ]
+      },
+      "properties": {
+        "osm_id": 4876799933,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0237856,
+          17.077451
+        ]
+      },
+      "properties": {
+        "osm_id": 4937529141,
+        "osm_type": "node",
+        "name": "A and T Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0200755,
+          17.0784058
+        ]
+      },
+      "properties": {
+        "osm_id": 4937529142,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3649463,
+          16.5589316
+        ]
+      },
+      "properties": {
+        "osm_id": 5109457524,
+        "osm_type": "node",
+        "name": "Robert's Grove Gas Pump",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7524414,
+          17.2422375
+        ]
+      },
+      "properties": {
+        "osm_id": 5404199060,
+        "osm_type": "node",
+        "name": "TOMZA Gas",
+        "brand": null,
+        "operator": "Tomza Gas",
+        "address": "Caxian Street",
+        "city": "Maya Mopan, Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9407956,
+          17.2102695
+        ]
+      },
+      "properties": {
+        "osm_id": 5499953636,
+        "osm_type": "node",
+        "name": "Mile 59 Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9191817,
+          18.4594552
+        ]
+      },
+      "properties": {
+        "osm_id": 5572213521,
+        "osm_type": "node",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2904589,
+          18.4987226
+        ]
+      },
+      "properties": {
+        "osm_id": 5576265638,
+        "osm_type": "node",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.814085,
+          16.1348976
+        ]
+      },
+      "properties": {
+        "osm_id": 6229896932,
+        "osm_type": "node",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8406209,
+          17.3149376
+        ]
+      },
+      "properties": {
+        "osm_id": 6726820485,
+        "osm_type": "node",
+        "name": "Valley Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1956592,
+          17.4977167
+        ]
+      },
+      "properties": {
+        "osm_id": 6871872781,
+        "osm_type": "node",
+        "name": "100 Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Vernon Street",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7196303,
+          17.2772037
+        ]
+      },
+      "properties": {
+        "osm_id": 6872167586,
+        "osm_type": "node",
+        "name": "The Mall Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0011602,
+          17.2569285
+        ]
+      },
+      "properties": {
+        "osm_id": 6974675647,
+        "osm_type": "node",
+        "name": "Cornelius Butane Service",
+        "brand": null,
+        "operator": null,
+        "address": "Everwood Avenue",
+        "city": "Spanish Lookout",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.426167,
+          17.6854073
+        ]
+      },
+      "properties": {
+        "osm_id": 6988267756,
+        "osm_type": "node",
+        "name": "Z Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5154841,
+          18.1446139
+        ]
+      },
+      "properties": {
+        "osm_id": 6993698788,
+        "osm_type": "node",
+        "name": "H&H Multi-Service Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1991688,
+          17.5048633
+        ]
+      },
+      "properties": {
+        "osm_id": 7287018567,
+        "osm_type": "node",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Philip Goldson Highway",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.943416,
+          17.239628
+        ]
+      },
+      "properties": {
+        "osm_id": 7530349070,
+        "osm_type": "node",
+        "name": "IBS Fuel",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4460988,
+          16.6762691
+        ]
+      },
+      "properties": {
+        "osm_id": 7621132325,
+        "osm_type": "node",
+        "name": "Fabrigas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7926467,
+          17.259719
+        ]
+      },
+      "properties": {
+        "osm_id": 7926152718,
+        "osm_type": "node",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": "Garbutt's Service Centre",
+        "address": "George Price Highway",
+        "city": "Roaring Creek",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3282913,
+          16.8552872
+        ]
+      },
+      "properties": {
+        "osm_id": 7942547933,
+        "osm_type": "node",
+        "name": "Friends Gas Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Hopkins Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7839884,
+          17.2462079
+        ]
+      },
+      "properties": {
+        "osm_id": 7967751152,
+        "osm_type": "node",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Hummingbird Highway",
+        "city": "Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3376608,
+          16.8911144
+        ]
+      },
+      "properties": {
+        "osm_id": 8986923435,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Thomas Vincent Ramos Highway",
+        "city": "Silk Grass",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3260364,
+          16.9965916
+        ]
+      },
+      "properties": {
+        "osm_id": 8986923455,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1498217,
+          18.3495646
+        ]
+      },
+      "properties": {
+        "osm_id": 9772916311,
+        "osm_type": "node",
+        "name": "Jade Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1222181,
+          17.0937764
+        ]
+      },
+      "properties": {
+        "osm_id": 9795050063,
+        "osm_type": "node",
+        "name": "Mopan Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3651737,
+          16.5660411
+        ]
+      },
+      "properties": {
+        "osm_id": 9891526294,
+        "osm_type": "node",
+        "name": "UNO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9218255,
+          17.2254311
+        ]
+      },
+      "properties": {
+        "osm_id": 10854005561,
+        "osm_type": "node",
+        "name": "Puma Gas Station Blackman Eddy",
+        "brand": "Puma",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Blackman Eddy",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3251199,
+          18.2701081
+        ]
+      },
+      "properties": {
+        "osm_id": 11397175715,
+        "osm_type": "node",
+        "name": "LP Gas & Supplies",
+        "brand": null,
+        "operator": "LP Gas & Supplies - Spanish Lookout",
+        "address": "Viva Esperanza Road",
+        "city": "Viva Esperanza",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0024412,
+          17.2420081
+        ]
+      },
+      "properties": {
+        "osm_id": 11577351106,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Reimer's Service Center",
+        "address": "Center Avenue",
+        "city": "Spanish Lookout",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0605585,
+          17.1718419
+        ]
+      },
+      "properties": {
+        "osm_id": 12021410625,
+        "osm_type": "node",
+        "name": "Tyre Center",
+        "brand": null,
+        "operator": null,
+        "address": "Loma Luz Boulevard",
+        "city": "Santa Elena",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4023324,
+          18.4139353
+        ]
+      },
+      "properties": {
+        "osm_id": 12288745701,
+        "osm_type": "node",
+        "name": "Kylen Gas Service",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5545911,
+          17.3427321
+        ]
+      },
+      "properties": {
+        "osm_id": 12716642272,
+        "osm_type": "node",
+        "name": "Shell Coastal",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8037226,
+          17.2588658
+        ]
+      },
+      "properties": {
+        "osm_id": 203311002,
+        "osm_type": "way",
+        "name": "UNO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7843194,
+          17.250082
+        ]
+      },
+      "properties": {
+        "osm_id": 240723538,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Hummingbird Highway",
+        "city": "Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0692121,
+          17.1569304
+        ]
+      },
+      "properties": {
+        "osm_id": 257085665,
+        "osm_type": "way",
+        "name": "Shell Gas Station",
+        "brand": "Shell",
+        "operator": "Habet",
+        "address": null,
+        "city": "San Ignacio",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9388735,
+          16.2283876
+        ]
+      },
+      "properties": {
+        "osm_id": 279480200,
+        "osm_type": "way",
+        "name": "Southwest Energy",
+        "brand": null,
+        "operator": null,
+        "address": "Southern Highway",
+        "city": "Dump",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.650719,
+          18.2476634
+        ]
+      },
+      "properties": {
+        "osm_id": 288000549,
+        "osm_type": "way",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3922449,
+          16.988871
+        ]
+      },
+      "properties": {
+        "osm_id": 294900841,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0030311,
+          17.2586707
+        ]
+      },
+      "properties": {
+        "osm_id": 331078871,
+        "osm_type": "way",
+        "name": "LP Gas & Supplies",
+        "brand": null,
+        "operator": null,
+        "address": "Center Avenue",
+        "city": "Spanish Lookout",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4322581,
+          16.6960531
+        ]
+      },
+      "properties": {
+        "osm_id": 372360076,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Southern Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9716602,
+          17.9108472
+        ]
+      },
+      "properties": {
+        "osm_id": 372541937,
+        "osm_type": "way",
+        "name": "Caribeña Fuels",
+        "brand": null,
+        "operator": null,
+        "address": "Sea Grape Drive",
+        "city": "San Pedro",
+        "postcode": null,
+        "phone": "226-4496",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1932618,
+          17.4974258
+        ]
+      },
+      "properties": {
+        "osm_id": 375240018,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Youth for the Future Drive",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2088507,
+          17.5092143
+        ]
+      },
+      "properties": {
+        "osm_id": 375313576,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Philip Goldson Highway",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2058192,
+          17.5085623
+        ]
+      },
+      "properties": {
+        "osm_id": 375314114,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Philip Goldson Highway",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": "+5016140611",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1988039,
+          17.4952905
+        ]
+      },
+      "properties": {
+        "osm_id": 375409476,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1930387,
+          17.4953643
+        ]
+      },
+      "properties": {
+        "osm_id": 375410297,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Cemetery Road",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1893195,
+          17.5003082
+        ]
+      },
+      "properties": {
+        "osm_id": 375593229,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "New Road",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1940869,
+          17.504349
+        ]
+      },
+      "properties": {
+        "osm_id": 375971445,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Freetown Road",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2899333,
+          17.5464422
+        ]
+      },
+      "properties": {
+        "osm_id": 376016737,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Northern Highway",
+        "city": "Ladyville",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3018405,
+          17.5496447
+        ]
+      },
+      "properties": {
+        "osm_id": 376087127,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Northern Highway",
+        "city": "Ladyville",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2876156,
+          17.5465547
+        ]
+      },
+      "properties": {
+        "osm_id": 376090538,
+        "osm_type": "way",
+        "name": "North",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.308824,
+          17.5549002
+        ]
+      },
+      "properties": {
+        "osm_id": 376118138,
+        "osm_type": "way",
+        "name": "24/7",
+        "brand": null,
+        "operator": null,
+        "address": "Northern Highway",
+        "city": "Ladyville",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7926489,
+          17.2597343
+        ]
+      },
+      "properties": {
+        "osm_id": 376162272,
+        "osm_type": "way",
+        "name": "Garbutt's Service Center",
+        "brand": "Puma",
+        "operator": "Puma",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8007956,
+          16.1028023
+        ]
+      },
+      "properties": {
+        "osm_id": 376169528,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Front Street",
+        "city": "Punta Gorda",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3440483,
+          17.5800147
+        ]
+      },
+      "properties": {
+        "osm_id": 376271944,
+        "osm_type": "way",
+        "name": "Z Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0802517,
+          17.1563357
+        ]
+      },
+      "properties": {
+        "osm_id": 376301948,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Bullet Tree Road",
+        "city": "San Ignacio",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9308598,
+          16.2330477
+        ]
+      },
+      "properties": {
+        "osm_id": 376307492,
+        "osm_type": "way",
+        "name": "King Energy;Uno",
+        "brand": "Uno",
+        "operator": "Alistair King",
+        "address": "Southern Highway",
+        "city": "Big Falls",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.419662,
+          16.5353893
+        ]
+      },
+      "properties": {
+        "osm_id": 376312146,
+        "osm_type": "way",
+        "name": "Big Creek Group",
+        "brand": null,
+        "operator": null,
+        "address": "Independence Road",
+        "city": "Independence",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0825849,
+          17.144096
+        ]
+      },
+      "properties": {
+        "osm_id": 376394563,
+        "osm_type": "way",
+        "name": "Kontiki Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5724713,
+          18.0616791
+        ]
+      },
+      "properties": {
+        "osm_id": 376412579,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Belize-Corozal Road",
+        "city": "San Jose Nuevo Palmar",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5706379,
+          18.0609023
+        ]
+      },
+      "properties": {
+        "osm_id": 376412580,
+        "osm_type": "way",
+        "name": "Z Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5715802,
+          18.0637128
+        ]
+      },
+      "properties": {
+        "osm_id": 376412581,
+        "osm_type": "way",
+        "name": "Belize Gas Company",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7766798,
+          17.2451186
+        ]
+      },
+      "properties": {
+        "osm_id": 376458796,
+        "osm_type": "way",
+        "name": "Buca",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Constitution Drive",
+        "city": "Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5625395,
+          18.0771621
+        ]
+      },
+      "properties": {
+        "osm_id": 376467135,
+        "osm_type": "way",
+        "name": "Shell Orange Walk Gas Station",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Belize Corozal Road",
+        "city": "Orange Walk Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7753425,
+          17.2470742
+        ]
+      },
+      "properties": {
+        "osm_id": 376538416,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Constitution Drive",
+        "city": "Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5617313,
+          18.1023217
+        ]
+      },
+      "properties": {
+        "osm_id": 376606454,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5711394,
+          18.1967813
+        ]
+      },
+      "properties": {
+        "osm_id": 376608691,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.391714,
+          18.3877904
+        ]
+      },
+      "properties": {
+        "osm_id": 377008657,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0568205,
+          17.1653131
+        ]
+      },
+      "properties": {
+        "osm_id": 377156321,
+        "osm_type": "way",
+        "name": "Western Gas Co. Ltd.",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Santa Elena",
+        "postcode": null,
+        "phone": "824-3209; 824-3206",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0615305,
+          17.1612416
+        ]
+      },
+      "properties": {
+        "osm_id": 377170635,
+        "osm_type": "way",
+        "name": "Puma Gas Station",
+        "brand": "Puma",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Santa Elena",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0661374,
+          17.1579045
+        ]
+      },
+      "properties": {
+        "osm_id": 377174654,
+        "osm_type": "way",
+        "name": "CP Gas",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Santa Elena",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9622617,
+          17.9221496
+        ]
+      },
+      "properties": {
+        "osm_id": 377186098,
+        "osm_type": "way",
+        "name": "Caribeña Enterprises Fuel Station (for cars & boats)",
+        "brand": null,
+        "operator": null,
+        "address": "Caribeña Street",
+        "city": "San Pedro",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2206171,
+          16.9605772
+        ]
+      },
+      "properties": {
+        "osm_id": 377212752,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4295274,
+          16.534484
+        ]
+      },
+      "properties": {
+        "osm_id": 377312464,
+        "osm_type": "way",
+        "name": "Escalante's Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4173276,
+          16.5378842
+        ]
+      },
+      "properties": {
+        "osm_id": 377323401,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Independence",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0263025,
+          17.743523
+        ]
+      },
+      "properties": {
+        "osm_id": 377335334,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Cruzita Lane",
+        "city": "Caye Caulker",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0278101,
+          17.7401604
+        ]
+      },
+      "properties": {
+        "osm_id": 377377461,
+        "osm_type": "way",
+        "name": "Butane",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Caye Caulker",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1386294,
+          17.0770119
+        ]
+      },
+      "properties": {
+        "osm_id": 377496016,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Victoria Street",
+        "city": "Benque Viejo del Carmen",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1377951,
+          17.0772101
+        ]
+      },
+      "properties": {
+        "osm_id": 377496018,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": "Churchill Street",
+        "city": "Benque Viejo del Carmen",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.075384,
+          17.1500152
+        ]
+      },
+      "properties": {
+        "osm_id": 377666331,
+        "osm_type": "way",
+        "name": "Uno Service Station",
+        "brand": "Uno",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "San Ignacio",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1536474,
+          17.0583549
+        ]
+      },
+      "properties": {
+        "osm_id": 407507430,
+        "osm_type": "way",
+        "name": "Combustibles Jaguar",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1564827,
+          17.0574563
+        ]
+      },
+      "properties": {
+        "osm_id": 407507432,
+        "osm_type": "way",
+        "name": "Texaco",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5633193,
+          18.0669501
+        ]
+      },
+      "properties": {
+        "osm_id": 423899888,
+        "osm_type": "way",
+        "name": "BWEL Butane Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2986346,
+          18.4949568
+        ]
+      },
+      "properties": {
+        "osm_id": 434810271,
+        "osm_type": "way",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3056702,
+          18.4974085
+        ]
+      },
+      "properties": {
+        "osm_id": 438020245,
+        "osm_type": "way",
+        "name": "La Gas",
+        "brand": "Oxxo",
+        "operator": "Oxxo",
+        "address": "Avenida Álvaro Obregón",
+        "city": "Chetumal",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1245189,
+          17.0895633
+        ]
+      },
+      "properties": {
+        "osm_id": 444471968,
+        "osm_type": "way",
+        "name": "Tomza Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0030171,
+          17.2437022
+        ]
+      },
+      "properties": {
+        "osm_id": 455609686,
+        "osm_type": "way",
+        "name": "Farmer's Choice Gas",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-16:30",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0028925,
+          17.2610781
+        ]
+      },
+      "properties": {
+        "osm_id": 456463249,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7316045,
+          17.9459721
+        ]
+      },
+      "properties": {
+        "osm_id": 544255535,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Chell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 06:30-17:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6308114,
+          17.9161531
+        ]
+      },
+      "properties": {
+        "osm_id": 544257464,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6675199,
+          17.9263593
+        ]
+      },
+      "properties": {
+        "osm_id": 608168716,
+        "osm_type": "way",
+        "name": "Autogás Tamsa",
+        "brand": "Tamsa",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0195449,
+          17.2186027
+        ]
+      },
+      "properties": {
+        "osm_id": 676928698,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7830564,
+          17.2450588
+        ]
+      },
+      "properties": {
+        "osm_id": 679481260,
+        "osm_type": "way",
+        "name": "The Mall Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "Hummingbird Highway",
+        "city": "Belmopan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.254599,
+          17.4699466
+        ]
+      },
+      "properties": {
+        "osm_id": 687829868,
+        "osm_type": "way",
+        "name": "Jannell's Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2544262,
+          17.4698305
+        ]
+      },
+      "properties": {
+        "osm_id": 687829869,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0798588,
+          17.1480843
+        ]
+      },
+      "properties": {
+        "osm_id": 740031879,
+        "osm_type": "way",
+        "name": "Chuc's Service Station",
+        "brand": null,
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "San Ignacio Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0572178,
+          17.1641445
+        ]
+      },
+      "properties": {
+        "osm_id": 768696829,
+        "osm_type": "way",
+        "name": "Uno Gas Station",
+        "brand": "Uno",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Santa Elena Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0530811,
+          17.1676506
+        ]
+      },
+      "properties": {
+        "osm_id": 771516090,
+        "osm_type": "way",
+        "name": "Shell Santa Elena",
+        "brand": "Shell",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": "Santa Elena",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2218275,
+          17.4997645
+        ]
+      },
+      "properties": {
+        "osm_id": 779744036,
+        "osm_type": "way",
+        "name": "Puma Gas Station",
+        "brand": "Puma",
+        "operator": null,
+        "address": "George Price Highway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.402234,
+          18.3814525
+        ]
+      },
+      "properties": {
+        "osm_id": 814020688,
+        "osm_type": "way",
+        "name": "One Mall Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4021827,
+          18.3814269
+        ]
+      },
+      "properties": {
+        "osm_id": 814020690,
+        "osm_type": "way",
+        "name": "One Mall / Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6221219,
+          18.2945323
+        ]
+      },
+      "properties": {
+        "osm_id": 868310291,
+        "osm_type": "way",
+        "name": "Pemex",
+        "brand": "Pemex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.991843,
+          17.9018755
+        ]
+      },
+      "properties": {
+        "osm_id": 881772058,
+        "osm_type": "way",
+        "name": "Eco Fuels Limited",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+5012264427",
+        "opening_hours": "Mo-Sa 07:00-17:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3923342,
+          16.9888939
+        ]
+      },
+      "properties": {
+        "osm_id": 883989378,
+        "osm_type": "way",
+        "name": "Valley Road Service Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5712536,
+          18.196588
+        ]
+      },
+      "properties": {
+        "osm_id": 924411459,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2363835,
+          16.9625833
+        ]
+      },
+      "properties": {
+        "osm_id": 980200334,
+        "osm_type": "way",
+        "name": "Uno",
+        "brand": "Uno",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1570209,
+          17.0568963
+        ]
+      },
+      "properties": {
+        "osm_id": 1004591641,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0031516,
+          17.2585038
+        ]
+      },
+      "properties": {
+        "osm_id": 1028214077,
+        "osm_type": "way",
+        "name": "LP Gas & Supplies",
+        "brand": "LP",
+        "operator": null,
+        "address": "Center Road",
+        "city": "Spanish Lookout",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1723593,
+          17.0575376
+        ]
+      },
+      "properties": {
+        "osm_id": 1037851234,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0823989,
+          17.1442556
+        ]
+      },
+      "properties": {
+        "osm_id": 1057422237,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0692064,
+          17.1569634
+        ]
+      },
+      "properties": {
+        "osm_id": 1057423597,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8405164,
+          17.3149356
+        ]
+      },
+      "properties": {
+        "osm_id": 1151087704,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5667208,
+          18.0809148
+        ]
+      },
+      "properties": {
+        "osm_id": 1151380820,
+        "osm_type": "way",
+        "name": "Gas Plus",
+        "brand": null,
+        "operator": null,
+        "address": "San Antonio Road",
+        "city": "Orange Walk Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3454717,
+          16.8541635
+        ]
+      },
+      "properties": {
+        "osm_id": 1204460703,
+        "osm_type": "way",
+        "name": "Puma",
+        "brand": "Puma",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9052298,
+          17.8915438
+        ]
+      },
+      "properties": {
+        "osm_id": 1209264973,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9576964,
+          17.9309227
+        ]
+      },
+      "properties": {
+        "osm_id": 1268545798,
+        "osm_type": "way",
+        "name": "Gas & Go",
+        "brand": null,
+        "operator": null,
+        "address": "Honourable Heredia Jr. North Road",
+        "city": "San Pedro Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1956972,
+          17.4976058
+        ]
+      },
+      "properties": {
+        "osm_id": 1296756260,
+        "osm_type": "way",
+        "name": "100 Gas Station",
+        "brand": "100 Gas Station",
+        "operator": null,
+        "address": "Vernon Street",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1986188,
+          17.4958664
+        ]
+      },
+      "properties": {
+        "osm_id": 15640185,
+        "osm_type": "relation",
+        "name": "UNO",
+        "brand": "Uno",
+        "operator": null,
+        "address": "Cemetery Road",
+        "city": "Belize City",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BZ"
+      }
+    }
+  ]
+}

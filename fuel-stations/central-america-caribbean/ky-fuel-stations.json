@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3813271,
+          19.3764129
+        ]
+      },
+      "properties": {
+        "osm_id": 775752506,
+        "osm_type": "node",
+        "name": "Morgan's Harbour Private Dock",
+        "brand": null,
+        "operator": null,
+        "address": "Batabano Road",
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3972787,
+          19.3844997
+        ]
+      },
+      "properties": {
+        "osm_id": 775752541,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3978538,
+          19.388552
+        ]
+      },
+      "properties": {
+        "osm_id": 776301557,
+        "osm_type": "node",
+        "name": "Texaco",
+        "brand": null,
+        "operator": "Texaco",
+        "address": "Birch Tree Hill Road",
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2526316,
+          19.274682
+        ]
+      },
+      "properties": {
+        "osm_id": 1461804659,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7803225,
+          19.7370152
+        ]
+      },
+      "properties": {
+        "osm_id": 5105752271,
+        "osm_type": "node",
+        "name": "Rubis Gas Station",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3439932,
+          19.2808409
+        ]
+      },
+      "properties": {
+        "osm_id": 6354579234,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2515278,
+          19.2760162
+        ]
+      },
+      "properties": {
+        "osm_id": 6444483801,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8683818,
+          19.6986892
+        ]
+      },
+      "properties": {
+        "osm_id": 6446095497,
+        "osm_type": "node",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0830127,
+          19.6600509
+        ]
+      },
+      "properties": {
+        "osm_id": 12499250530,
+        "osm_type": "node",
+        "name": "Village Square Self Serve",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3903568,
+          19.3775402
+        ]
+      },
+      "properties": {
+        "osm_id": 12920552501,
+        "osm_type": "node",
+        "name": "Oasis Rubis Batabano",
+        "brand": null,
+        "operator": null,
+        "address": "Batabano Road",
+        "city": null,
+        "postcode": null,
+        "phone": "+1 345-322-0198",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3830359,
+          19.3062692
+        ]
+      },
+      "properties": {
+        "osm_id": 62085172,
+        "osm_type": "way",
+        "name": "Delworth's Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "North Church Street",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3410271,
+          19.2802378
+        ]
+      },
+      "properties": {
+        "osm_id": 68794366,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3815579,
+          19.3236138
+        ]
+      },
+      "properties": {
+        "osm_id": 80290150,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "West Bay Road",
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1754953,
+          19.3441659
+        ]
+      },
+      "properties": {
+        "osm_id": 171462754,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Frank Sound Road",
+        "city": "Old Man Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.107934,
+          19.2970304
+        ]
+      },
+      "properties": {
+        "osm_id": 171507097,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Austin Conolly Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4060099,
+          19.379108
+        ]
+      },
+      "properties": {
+        "osm_id": 369192333,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Hell Road",
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4009231,
+          19.3690754
+        ]
+      },
+      "properties": {
+        "osm_id": 369216320,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "West Bay Road",
+        "city": "West Bay",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3679963,
+          19.2886834
+        ]
+      },
+      "properties": {
+        "osm_id": 370672071,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Smith Road",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3878194,
+          19.2805152
+        ]
+      },
+      "properties": {
+        "osm_id": 371282789,
+        "osm_type": "way",
+        "name": "Home Gas",
+        "brand": null,
+        "operator": null,
+        "address": "Walkers Road",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3840845,
+          19.2909022
+        ]
+      },
+      "properties": {
+        "osm_id": 371284160,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Brown's Esso",
+        "address": "Walkers Road",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3870058,
+          19.2821659
+        ]
+      },
+      "properties": {
+        "osm_id": 371840202,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": "Rubis",
+        "address": "Walkers Road",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3665382,
+          19.2976298
+        ]
+      },
+      "properties": {
+        "osm_id": 371946847,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Dorcy Drive",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3724223,
+          19.2929723
+        ]
+      },
+      "properties": {
+        "osm_id": 372220612,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Shedden Road",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3822495,
+          19.3191269
+        ]
+      },
+      "properties": {
+        "osm_id": 372518388,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3757047,
+          19.2998836
+        ]
+      },
+      "properties": {
+        "osm_id": 373850653,
+        "osm_type": "way",
+        "name": "RUBiS",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Eastern Avenue",
+        "city": "George Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2976186,
+          19.2720248
+        ]
+      },
+      "properties": {
+        "osm_id": 374041387,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Shamrock Road",
+        "city": "Savannah",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3363664,
+          19.275749
+        ]
+      },
+      "properties": {
+        "osm_id": 374475180,
+        "osm_type": "way",
+        "name": "Esso - Carcam",
+        "brand": "Esso",
+        "operator": null,
+        "address": "HURLEY MERREN BLVD",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3492662,
+          19.2840964
+        ]
+      },
+      "properties": {
+        "osm_id": 374479547,
+        "osm_type": "way",
+        "name": "Rubis",
+        "brand": "Rubis",
+        "operator": null,
+        "address": "Crewe Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3658917,
+          19.2944378
+        ]
+      },
+      "properties": {
+        "osm_id": 741281737,
+        "osm_type": "way",
+        "name": "Refuel Gas Station",
+        "brand": null,
+        "operator": "Refuel",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "yes",
+        "country": "KY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3786761,
+          19.3343225
+        ]
+      },
+      "properties": {
+        "osm_id": 1310780190,
+        "osm_type": "way",
+        "name": "Refuel",
+        "brand": "Refuel",
+        "operator": "Refuel",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "KY"
+      }
+    }
+  ]
+}
