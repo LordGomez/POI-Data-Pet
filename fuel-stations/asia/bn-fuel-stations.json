@@ -1,0 +1,1293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.711196,
+          4.8180007
+        ]
+      },
+      "properties": {
+        "osm_id": 2888711850,
+        "osm_type": "node",
+        "name": "Stesen Minyak Keriam Tutong",
+        "brand": "Shell",
+        "operator": "Stesen Minyak Kg Keriam",
+        "address": "Jalan Tutong",
+        "city": "Kampong Keriam",
+        "postcode": "TB1141",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6561635,
+          4.8040284
+        ]
+      },
+      "properties": {
+        "osm_id": 3181219683,
+        "osm_type": "node",
+        "name": "Pakatan Petrol Station",
+        "brand": "Shell",
+        "operator": "Syarikat Stesen Minyak Perusahaan Cahaya Pakatan Berhad",
+        "address": "Jalan Enche Awang",
+        "city": "Tutong",
+        "postcode": "TA1341",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-20:30",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6613802,
+          4.8053724
+        ]
+      },
+      "properties": {
+        "osm_id": 4370769954,
+        "osm_type": "node",
+        "name": "Stesen Minyak Penyurat H A Bakar Bin Jambol",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Enche Awang",
+        "city": "Tutong",
+        "postcode": "TA1741",
+        "phone": null,
+        "opening_hours": "Mo-Su 07:00-20:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4555347,
+          4.6576679
+        ]
+      },
+      "properties": {
+        "osm_id": 5061958016,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Syarikat Stesen Perkhidmatan Minyak Lumut",
+        "address": "Jalan Kampong Lumut",
+        "city": "Kampong Sungai Bakong",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7216929,
+          4.6903974
+        ]
+      },
+      "properties": {
+        "osm_id": 5503323979,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Syarikat Minyak Kodrat",
+        "address": "Jalan Lamunin",
+        "city": "Kampong Lamunin",
+        "postcode": "TG2343",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3409563,
+          4.6172501
+        ]
+      },
+      "properties": {
+        "osm_id": 9814740211,
+        "osm_type": "node",
+        "name": "Roxana Fuel Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0080824,
+          4.7557684
+        ]
+      },
+      "properties": {
+        "osm_id": 9822422671,
+        "osm_type": "node",
+        "name": "Petronas",
+        "brand": "Petronas",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su,PH 06:00-23:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3218904,
+          4.1857605
+        ]
+      },
+      "properties": {
+        "osm_id": 11986539683,
+        "osm_type": "node",
+        "name": "Petronas marudi",
+        "brand": "Petronas",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9516462,
+          4.9656727
+        ]
+      },
+      "properties": {
+        "osm_id": 157489505,
+        "osm_type": "way",
+        "name": "IBA Petrol Station & Trading",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Utama Berakas",
+        "city": "Lambak Kanan",
+        "postcode": null,
+        "phone": "+673 2340380",
+        "opening_hours": "06:00-00:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0030248,
+          4.7416376
+        ]
+      },
+      "properties": {
+        "osm_id": 262080830,
+        "osm_type": "way",
+        "name": "Shell Limbang",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1572032,
+          4.5826091
+        ]
+      },
+      "properties": {
+        "osm_id": 271671434,
+        "osm_type": "way",
+        "name": "Stesen Minyak Koperasi Peladang Kampung Sungai Teraban",
+        "brand": "Shell",
+        "operator": "Koperasi Kampong Sungai Teraban Dengan Tangungann Berhad",
+        "address": "Jalan Rasau–Sungai Tujoh",
+        "city": "Sungai Teraban",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-20:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5525363,
+          4.7271822
+        ]
+      },
+      "properties": {
+        "osm_id": 297481362,
+        "osm_type": "way",
+        "name": "Stesen Minyak Telisai",
+        "brand": "Shell",
+        "operator": "Syarikat Stesen Minyak Telisai Sdn Bhd",
+        "address": "Simpang 1653",
+        "city": "Kampong Telisai",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "no",
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9854809,
+          4.6687999
+        ]
+      },
+      "properties": {
+        "osm_id": 310198625,
+        "osm_type": "way",
+        "name": "Petronas",
+        "brand": "Petronas",
+        "operator": "Petronas Ulu Pandaruan",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8608105,
+          4.8759087
+        ]
+      },
+      "properties": {
+        "osm_id": 319407146,
+        "osm_type": "way",
+        "name": "Syarikat Amanah Haji Abdullah",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Tutong",
+        "city": "Kampong Kilanas",
+        "postcode": "BF2520",
+        "phone": "+673 2661241",
+        "opening_hours": "Mo-Su 05:30-00:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9411797,
+          4.9400341
+        ]
+      },
+      "properties": {
+        "osm_id": 427325507,
+        "osm_type": "way",
+        "name": "Stesen Minyak TAIB Delima",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "no",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9228873,
+          4.9088176
+        ]
+      },
+      "properties": {
+        "osm_id": 449049508,
+        "osm_type": "way",
+        "name": "Gadong Filling Station",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Gadong",
+        "city": "Gadong",
+        "postcode": "BE4119",
+        "phone": "+673 2448985",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0748264,
+          4.7020049
+        ]
+      },
+      "properties": {
+        "osm_id": 469014599,
+        "osm_type": "way",
+        "name": "Stesen Minyak KMMB Temburong",
+        "brand": "Shell",
+        "operator": "Koperasi Menjual Minyak Bersama Temburong Dengan Tanggungan Berhad",
+        "address": "Jalan Batang Duri",
+        "city": "Bangar",
+        "postcode": "PD1951",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-19:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3292108,
+          4.6132847
+        ]
+      },
+      "properties": {
+        "osm_id": 497798752,
+        "osm_type": "way",
+        "name": "Stesen Minyak Koperasi PPM Seria",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Bunga Kenanga",
+        "city": "Seria",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-21:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9482832,
+          4.9920048
+        ]
+      },
+      "properties": {
+        "osm_id": 501569813,
+        "osm_type": "way",
+        "name": "Stesen Minyak Berakas",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Pasir Berakas",
+        "city": "Kampong Lambak",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0693499,
+          5.0262217
+        ]
+      },
+      "properties": {
+        "osm_id": 509785396,
+        "osm_type": "way",
+        "name": "Stesen Minyak Dayang Masni POK Seri Diraja Haji Abdulah Dan Anak-Anak",
+        "brand": "Shell",
+        "operator": "Stesen Minyak Pekan Muara Sdn Bhd",
+        "address": "Jalan Perusahaan Muara",
+        "city": "Muara",
+        "postcode": "BT1928",
+        "phone": "+673 2772579",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6532128,
+          4.7783098
+        ]
+      },
+      "properties": {
+        "osm_id": 511906623,
+        "osm_type": "way",
+        "name": "Stesen Minyak KOPEKLAP",
+        "brand": "Shell",
+        "operator": "Kopeklap Dengan Tangunggan Berhard",
+        "address": "Lebuhraya Tutong–Telisai",
+        "city": "Kampong Lubok Pulau",
+        "postcode": "TD2541",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-21:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9393797,
+          4.9021718
+        ]
+      },
+      "properties": {
+        "osm_id": 524144230,
+        "osm_type": "way",
+        "name": "Stesen Minyak Mabohai",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Kebangsaan",
+        "city": "Bandar Seri Begawan",
+        "postcode": null,
+        "phone": "+673 2222424",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2026859,
+          4.585704
+        ]
+      },
+      "properties": {
+        "osm_id": 524255539,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Syarikat Perniagaan Melayu Sendirian Berhad",
+        "address": "Jalan Panglima",
+        "city": "Kuala Belait",
+        "postcode": "KA3131",
+        "phone": null,
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9874197,
+          4.9793727
+        ]
+      },
+      "properties": {
+        "osm_id": 524469996,
+        "osm_type": "way",
+        "name": "Stesen Minyak Koperasi Persatuan Tiba",
+        "brand": "Shell",
+        "operator": "KOTIBA",
+        "address": "Simpang 693",
+        "city": "Salambigar",
+        "postcode": "BC1515",
+        "phone": "+673 2335905",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2037501,
+          4.5779422
+        ]
+      },
+      "properties": {
+        "osm_id": 524986335,
+        "osm_type": "way",
+        "name": "Sapakat",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Setia Di-Raja",
+        "city": "Kuala Belait",
+        "postcode": "KA3131",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:30-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0206187,
+          4.9566145
+        ]
+      },
+      "properties": {
+        "osm_id": 525654941,
+        "osm_type": "way",
+        "name": "Stesen Minyak Koperasi Ikatan Telok Mewah Berhad",
+        "brand": "Shell",
+        "operator": "Stesen Minyak Koperasi ITM Berhad",
+        "address": "Jalan Kota Batu",
+        "city": "Mentiri",
+        "postcode": null,
+        "phone": "+673 2790532",
+        "opening_hours": "Mo-Su 06:30-21:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.036377,
+          5.0169024
+        ]
+      },
+      "properties": {
+        "osm_id": 525682913,
+        "osm_type": "way",
+        "name": "Stesen Minyak Dan Perkhidmatan Pengalayan",
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Muara",
+        "city": "Kampong Pengalayan",
+        "postcode": "BT3128",
+        "phone": "+673 2790614",
+        "opening_hours": "Mo-Su 06:30-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8230861,
+          4.7679922
+        ]
+      },
+      "properties": {
+        "osm_id": 531244261,
+        "osm_type": "way",
+        "name": "Badan Tanmiah Petrol Station & Trading",
+        "brand": "Shell",
+        "operator": "Badan Tanmiah Petrol Station & Trading",
+        "address": "Jalan Mulaut-Limau Manis",
+        "city": "Kampong Limau Manis",
+        "postcode": "BH2323",
+        "phone": "+673 2683695",
+        "opening_hours": "06:15-21:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9226684,
+          4.9100045
+        ]
+      },
+      "properties": {
+        "osm_id": 531244286,
+        "osm_type": "way",
+        "name": "Stesen Minyak SPPMB Gadong",
+        "brand": "Shell",
+        "operator": "KO-PPMB",
+        "address": "Jalan Menglait Dua",
+        "city": "Gadong",
+        "postcode": "BE3919",
+        "phone": "+673 2441658",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "no",
+        "fuel_octane_95": "no",
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9103453,
+          4.8943296
+        ]
+      },
+      "properties": {
+        "osm_id": 531244295,
+        "osm_type": "way",
+        "name": "Stesen Minyak TAIB Beribi",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Simpang 46-19-57",
+        "city": "Kampong Gadong",
+        "postcode": null,
+        "phone": "+673 2455893",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9243443,
+          4.8826946
+        ]
+      },
+      "properties": {
+        "osm_id": 531244305,
+        "osm_type": "way",
+        "name": "Stesen Minyak Tumasek",
+        "brand": "Shell",
+        "operator": "Tumasek Petrol & Service Station Sdn Bhd",
+        "address": "Jalan Raja Isteri Pengiran Anak Saleha",
+        "city": "Bandar Seri Begawan",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": "no",
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.890405,
+          4.8550259
+        ]
+      },
+      "properties": {
+        "osm_id": 531244311,
+        "osm_type": "way",
+        "name": "Shahryza Station Minyak Bunut",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Haji Halus",
+        "city": "Kampong Perpindahan Bunut",
+        "postcode": null,
+        "phone": "+673 2655185",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.867754,
+          4.8793345
+        ]
+      },
+      "properties": {
+        "osm_id": 531244328,
+        "osm_type": "way",
+        "name": "Stesen Minyak Koperasi Usahajaya Pekira Berhad",
+        "brand": "Shell",
+        "operator": "Koperasi Usahajaya Pekira Berhad",
+        "address": "Jalan Gadong",
+        "city": "Kilanas",
+        "postcode": "BF2720",
+        "phone": "+673 2651338",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8412321,
+          4.8874498
+        ]
+      },
+      "properties": {
+        "osm_id": 531244330,
+        "osm_type": "way",
+        "name": "Perniagaan Stesen Minyak Masjory",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Simpang 1530",
+        "city": "Sengkurong",
+        "postcode": "BG1321",
+        "phone": "+673 2660175",
+        "opening_hours": "Mo-Su 07:00-21:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8410833,
+          4.9491793
+        ]
+      },
+      "properties": {
+        "osm_id": 531244332,
+        "osm_type": "way",
+        "name": "Stesen Minyak Mar'azmala",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Jalan Jerudong",
+        "city": "Jerudong",
+        "postcode": "BG3122",
+        "phone": "+673 2610772",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8318187,
+          4.8813753
+        ]
+      },
+      "properties": {
+        "osm_id": 531244397,
+        "osm_type": "way",
+        "name": "Stesen Minyak Tanjong Nangka",
+        "brand": "Shell",
+        "operator": "SATENAGA",
+        "address": "Jalan Tutong",
+        "city": "Tanjong Nangka",
+        "postcode": null,
+        "phone": "+673 2660126",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8435141,
+          4.8499463
+        ]
+      },
+      "properties": {
+        "osm_id": 531244407,
+        "osm_type": "way",
+        "name": "Stesen Minyak Bebatik",
+        "brand": "Shell",
+        "operator": "Bebatik Steshen Minyak Bebati Sendirian Berhad",
+        "address": "Simpang 446A",
+        "city": "Limau Manis",
+        "postcode": "BH3223",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9064581,
+          4.822331
+        ]
+      },
+      "properties": {
+        "osm_id": 531431359,
+        "osm_type": "way",
+        "name": "Stesen Minyak Tasamul",
+        "brand": "Shell",
+        "operator": "Koperasi Tasamul Mukim Lumapas Berhad",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": "+673 2640273;+673 2640272",
+        "opening_hours": "06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1313027,
+          4.7295916
+        ]
+      },
+      "properties": {
+        "osm_id": 587695848,
+        "osm_type": "way",
+        "name": "Stesen Minyak Negalang Maju",
+        "brand": "Shell",
+        "operator": "Stesen Minyak Negalang Maju Sdn Bhd",
+        "address": "Jalan Labu",
+        "city": "Batu Apoi",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su 07:30-19:30",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8723573,
+          4.9062081
+        ]
+      },
+      "properties": {
+        "osm_id": 966765802,
+        "osm_type": "way",
+        "name": "Stesen Minyak Hjh Dyg Badariah",
+        "brand": "Shell",
+        "operator": "Syarikat Hajah Dayang Badariah dan Anak-Anak",
+        "address": "Simpang 393",
+        "city": "Gadong B",
+        "postcode": "BE1718",
+        "phone": "+673 2445509",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.334384,
+          4.6168032
+        ]
+      },
+      "properties": {
+        "osm_id": 991832765,
+        "osm_type": "way",
+        "name": "Roxana Shell Service Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Tengah",
+        "city": "Seria",
+        "postcode": "KB1133",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0080492,
+          4.7557544
+        ]
+      },
+      "properties": {
+        "osm_id": 1070274679,
+        "osm_type": "way",
+        "name": "Petronas Limbang",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "Mo-Su,PH 06:00-23:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3394503,
+          4.1907519
+        ]
+      },
+      "properties": {
+        "osm_id": 1205346796,
+        "osm_type": "way",
+        "name": "Shell fuel station marudi",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9092426,
+          4.4871904
+        ]
+      },
+      "properties": {
+        "osm_id": 1291986412,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Petronas",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.909263,
+          4.4871996
+        ]
+      },
+      "properties": {
+        "osm_id": 1293390445,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Medamit",
+        "city": "Limbang",
+        "postcode": "98700",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9524758,
+          4.8598317
+        ]
+      },
+      "properties": {
+        "osm_id": 1346908610,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Shell",
+        "operator": "Kg Buang Sakar Riverine Station",
+        "address": "Simpang 201",
+        "city": "Kampong Buang Sakar",
+        "postcode": "BJ1924",
+        "phone": null,
+        "opening_hours": "Mo-Su 06:00-17:30",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BN"
+      }
+    }
+  ]
+}

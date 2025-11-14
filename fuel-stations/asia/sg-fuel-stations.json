@@ -1,0 +1,5885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8193298,
+          1.3232062
+        ]
+      },
+      "properties": {
+        "osm_id": 462263981,
+        "osm_type": "node",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7986807,
+          1.3310346
+        ]
+      },
+      "properties": {
+        "osm_id": 462264016,
+        "osm_type": "node",
+        "name": "Esso Dunearn",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Dunearn Road",
+        "city": "Singapore",
+        "postcode": "289630",
+        "phone": "+65 6468 4608",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9396206,
+          1.3282744
+        ]
+      },
+      "properties": {
+        "osm_id": 1315694193,
+        "osm_type": "node",
+        "name": "ESSO",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Bedok North Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9397106,
+          1.3279084
+        ]
+      },
+      "properties": {
+        "osm_id": 1315694304,
+        "osm_type": "node",
+        "name": "SPC Bedok",
+        "brand": "SPC",
+        "operator": null,
+        "address": "Bedok North Road",
+        "city": "Singapore",
+        "postcode": "469678",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7585416,
+          1.3432114
+        ]
+      },
+      "properties": {
+        "osm_id": 1742904249,
+        "osm_type": "node",
+        "name": "Caltex Bukit Batok Service Station",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7991009,
+          1.3309239
+        ]
+      },
+      "properties": {
+        "osm_id": 1780170433,
+        "osm_type": "node",
+        "name": "Shell Dunearn",
+        "brand": null,
+        "operator": "Shell",
+        "address": "Dunearn Road",
+        "city": "Singapore",
+        "postcode": "289629",
+        "phone": "+65 6469 1130",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8033958,
+          1.2974825
+        ]
+      },
+      "properties": {
+        "osm_id": 1792763706,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.714902,
+          1.3495711
+        ]
+      },
+      "properties": {
+        "osm_id": 2296694340,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7906988,
+          1.2770734
+        ]
+      },
+      "properties": {
+        "osm_id": 2889130801,
+        "osm_type": "node",
+        "name": "SPC Pasir Panjang",
+        "brand": "SPC (Singapore Petroleum Company)",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8213385,
+          1.2825719
+        ]
+      },
+      "properties": {
+        "osm_id": 4293091591,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8360236,
+          1.3788131
+        ]
+      },
+      "properties": {
+        "osm_id": 4620931195,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": "SPC",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8489352,
+          1.3410684
+        ]
+      },
+      "properties": {
+        "osm_id": 4769474326,
+        "osm_type": "node",
+        "name": "Shell Gas Station",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9176994,
+          1.4541457
+        ]
+      },
+      "properties": {
+        "osm_id": 4789929321,
+        "osm_type": "node",
+        "name": "Petronas",
+        "brand": "Petronas",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "81700",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7520849,
+          1.4670108
+        ]
+      },
+      "properties": {
+        "osm_id": 5575351521,
+        "osm_type": "node",
+        "name": "Petron",
+        "brand": "Petron",
+        "operator": null,
+        "address": "Jalan Yahya Awal",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8879955,
+          1.3631658
+        ]
+      },
+      "properties": {
+        "osm_id": 6259820662,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7012219,
+          1.3501574
+        ]
+      },
+      "properties": {
+        "osm_id": 6326830481,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jurong West Avenue 5",
+        "city": "Singapore",
+        "postcode": "649481",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.723678,
+          1.3510309
+        ]
+      },
+      "properties": {
+        "osm_id": 6458287174,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Jurong West Avenue 1",
+        "city": "Singapore",
+        "postcode": "649517",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7327667,
+          1.3452443
+        ]
+      },
+      "properties": {
+        "osm_id": 6458621181,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Jurong East Avenue 1",
+        "city": "Singapore",
+        "postcode": "609787",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8908172,
+          1.3254067
+        ]
+      },
+      "properties": {
+        "osm_id": 7196501594,
+        "osm_type": "node",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9343159,
+          1.3145064
+        ]
+      },
+      "properties": {
+        "osm_id": 7501471747,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Upper East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9129521,
+          1.3187365
+        ]
+      },
+      "properties": {
+        "osm_id": 7637549570,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9086411,
+          1.3185447
+        ]
+      },
+      "properties": {
+        "osm_id": 7637580395,
+        "osm_type": "node",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Changi Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7464634,
+          1.3856228
+        ]
+      },
+      "properties": {
+        "osm_id": 8088327127,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Choa Chu Kang Drive",
+        "city": "Singapore",
+        "postcode": "689717",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9284747,
+          1.3493657
+        ]
+      },
+      "properties": {
+        "osm_id": 8208614736,
+        "osm_type": "node",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": "Tampines Avenue 8",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834537,
+          1.2867386
+        ]
+      },
+      "properties": {
+        "osm_id": 8223862810,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Outram Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8381916,
+          1.288499
+        ]
+      },
+      "properties": {
+        "osm_id": 8223864774,
+        "osm_type": "node",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Havelock Road",
+        "city": "Singapore",
+        "postcode": "169630",
+        "phone": "+65 67341478",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8024625,
+          1.3069553
+        ]
+      },
+      "properties": {
+        "osm_id": 9107774054,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Queensway",
+        "city": "Singapore",
+        "postcode": "149067",
+        "phone": "+65 6474 7824",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8464734,
+          1.3362441
+        ]
+      },
+      "properties": {
+        "osm_id": 9457441839,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Lorong 2 Toa Payoh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8525333,
+          1.362539
+        ]
+      },
+      "properties": {
+        "osm_id": 9457446717,
+        "osm_type": "node",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8446476,
+          1.3678865
+        ]
+      },
+      "properties": {
+        "osm_id": 9710976711,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Ang Mo Kio Avenue 6",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7844709,
+          1.4309338
+        ]
+      },
+      "properties": {
+        "osm_id": 10859794063,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Esso",
+        "operator": null,
+        "address": "Woodlands Avenue 1",
+        "city": "Singapore",
+        "postcode": "739066",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.754571,
+          1.4639265
+        ]
+      },
+      "properties": {
+        "osm_id": 10913695501,
+        "osm_type": "node",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Yahya Awal",
+        "city": "Johor Bahru",
+        "postcode": "80100",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7532903,
+          1.4651499
+        ]
+      },
+      "properties": {
+        "osm_id": 10913695503,
+        "osm_type": "node",
+        "name": "Petron",
+        "brand": "Petron",
+        "operator": null,
+        "address": "Jalan Yahya Awal",
+        "city": "Johor Bahru",
+        "postcode": "80100",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9091232,
+          1.4003579
+        ]
+      },
+      "properties": {
+        "osm_id": 12059241834,
+        "osm_type": "node",
+        "name": "SPC",
+        "brand": null,
+        "operator": "SPC",
+        "address": "Punggol Central",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.926542,
+          1.3125644
+        ]
+      },
+      "properties": {
+        "osm_id": 45306423,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7685828,
+          1.3146577
+        ]
+      },
+      "properties": {
+        "osm_id": 77182393,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Clementi Avenue 2",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9590449,
+          1.3575284
+        ]
+      },
+      "properties": {
+        "osm_id": 83697449,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9476711,
+          1.3605801
+        ]
+      },
+      "properties": {
+        "osm_id": 85552307,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9477306,
+          1.3491978
+        ]
+      },
+      "properties": {
+        "osm_id": 85584520,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Tampines Avenue 2",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6927079,
+          1.3386709
+        ]
+      },
+      "properties": {
+        "osm_id": 95940461,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": "Jurong West Street 93",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7078736,
+          1.3440946
+        ]
+      },
+      "properties": {
+        "osm_id": 96151942,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9385416,
+          1.3486649
+        ]
+      },
+      "properties": {
+        "osm_id": 100761852,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Tampines Street 91",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6875395,
+          1.3131828
+        ]
+      },
+      "properties": {
+        "osm_id": 101135043,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Pioneer Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7236795,
+          1.3510307
+        ]
+      },
+      "properties": {
+        "osm_id": 107830792,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Jurong West Avenue 1",
+        "city": "Singapore",
+        "postcode": "649517",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7148054,
+          1.3495897
+        ]
+      },
+      "properties": {
+        "osm_id": 108730204,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8645824,
+          1.3445889
+        ]
+      },
+      "properties": {
+        "osm_id": 116337437,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Braddell Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8460205,
+          1.3643769
+        ]
+      },
+      "properties": {
+        "osm_id": 117227147,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Ang Mo Kio Avenue 1",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8691319,
+          1.3757525
+        ]
+      },
+      "properties": {
+        "osm_id": 117325134,
+        "osm_type": "way",
+        "name": "Smart Energy",
+        "brand": null,
+        "operator": null,
+        "address": "Serangoon North Avenue 5",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7721052,
+          1.3458848
+        ]
+      },
+      "properties": {
+        "osm_id": 117994223,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7734358,
+          1.34514
+        ]
+      },
+      "properties": {
+        "osm_id": 117994234,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6919337,
+          1.3232239
+        ]
+      },
+      "properties": {
+        "osm_id": 118459343,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Jalan Ahmad Ibrahim",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7768265,
+          1.3386135
+        ]
+      },
+      "properties": {
+        "osm_id": 119996989,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper Bukit Timah Road",
+        "city": null,
+        "postcode": "588186",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7245364,
+          1.325168
+        ]
+      },
+      "properties": {
+        "osm_id": 120509635,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Jalan Ahmad Ibrahim",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8836596,
+          1.3326607
+        ]
+      },
+      "properties": {
+        "osm_id": 123063591,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "MacPherson Road",
+        "city": "Singapore",
+        "postcode": "368183",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900753,
+          1.4443155
+        ]
+      },
+      "properties": {
+        "osm_id": 125481993,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Woodlands Avenue 9",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7747822,
+          1.3398931
+        ]
+      },
+      "properties": {
+        "osm_id": 136666637,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Jalan Jurong Kechil",
+        "city": null,
+        "postcode": "598577",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8765182,
+          1.3817193
+        ]
+      },
+      "properties": {
+        "osm_id": 159027420,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Yio Chu Kang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8770723,
+          1.3835749
+        ]
+      },
+      "properties": {
+        "osm_id": 159027423,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Yio Chu Kang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8030147,
+          1.289313
+        ]
+      },
+      "properties": {
+        "osm_id": 159669443,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Queensway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649843,
+          1.3475677
+        ]
+      },
+      "properties": {
+        "osm_id": 162384059,
+        "osm_type": "way",
+        "name": "Shell Bukit Batok Nature Park",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7384464,
+          1.3502451
+        ]
+      },
+      "properties": {
+        "osm_id": 162651218,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8009349,
+          1.2914172
+        ]
+      },
+      "properties": {
+        "osm_id": 167951461,
+        "osm_type": "way",
+        "name": "Petrol Station (SPC)",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": "Queensway",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": "yes",
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848861,
+          1.3411229
+        ]
+      },
+      "properties": {
+        "osm_id": 169517612,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Lorong 1 Toa Payoh",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8554424,
+          1.3357466
+        ]
+      },
+      "properties": {
+        "osm_id": 169518585,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": "SPC",
+        "address": "Lorong 6 Toa Payoh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8195561,
+          1.288355
+        ]
+      },
+      "properties": {
+        "osm_id": 172111963,
+        "osm_type": "way",
+        "name": "Shell Tiong Bahru",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Tiong Bahru Road",
+        "city": "Singapore",
+        "postcode": "158788",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8330456,
+          1.4307918
+        ]
+      },
+      "properties": {
+        "osm_id": 172125700,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Yishun Avenue 5",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8300469,
+          1.4296346
+        ]
+      },
+      "properties": {
+        "osm_id": 172127253,
+        "osm_type": "way",
+        "name": "Caltex Chong Pang",
+        "brand": null,
+        "operator": null,
+        "address": "Yishun Ring Road",
+        "city": null,
+        "postcode": "768790",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8256913,
+          1.2926298
+        ]
+      },
+      "properties": {
+        "osm_id": 172214846,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Mobil1",
+        "address": "Delta Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8324186,
+          1.289931
+        ]
+      },
+      "properties": {
+        "osm_id": 172363384,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8143481,
+          1.2693609
+        ]
+      },
+      "properties": {
+        "osm_id": 172481795,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Telok Blangah Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8128453,
+          1.2705364
+        ]
+      },
+      "properties": {
+        "osm_id": 172481802,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Telok Blangah Road",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8381796,
+          1.2976438
+        ]
+      },
+      "properties": {
+        "osm_id": 172524613,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7611446,
+          1.3081078
+        ]
+      },
+      "properties": {
+        "osm_id": 173552222,
+        "osm_type": "way",
+        "name": "Esso West Coast",
+        "brand": null,
+        "operator": "Esso",
+        "address": "West Coast Road",
+        "city": "Singapore",
+        "postcode": "127373",
+        "phone": "+65 6773 0565",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7505756,
+          1.366703
+        ]
+      },
+      "properties": {
+        "osm_id": 173642851,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Bukit Batok West Avenue 5",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8398418,
+          1.4316284
+        ]
+      },
+      "properties": {
+        "osm_id": 173729609,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Yishun Avenue 9",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8378219,
+          1.4174125
+        ]
+      },
+      "properties": {
+        "osm_id": 173896988,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Yishun Ring Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7148962,
+          1.314832
+        ]
+      },
+      "properties": {
+        "osm_id": 174886227,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Buroh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8163956,
+          1.2948036
+        ]
+      },
+      "properties": {
+        "osm_id": 180475178,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9079033,
+          1.3082565
+        ]
+      },
+      "properties": {
+        "osm_id": 188855309,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9098121,
+          1.308217
+        ]
+      },
+      "properties": {
+        "osm_id": 188855310,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7379782,
+          1.3781931
+        ]
+      },
+      "properties": {
+        "osm_id": 193421793,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8421201,
+          1.3241041
+        ]
+      },
+      "properties": {
+        "osm_id": 201275597,
+        "osm_type": "way",
+        "name": "Shell Thomson Novena",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Thomson Road",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8497957,
+          1.3188127
+        ]
+      },
+      "properties": {
+        "osm_id": 202541110,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Moulmein Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9603828,
+          1.3709212
+        ]
+      },
+      "properties": {
+        "osm_id": 213593433,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": null,
+        "address": "Pasir Ris Drive 4",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9066717,
+          1.4046094
+        ]
+      },
+      "properties": {
+        "osm_id": 218215337,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Punggol Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8383272,
+          1.3480365
+        ]
+      },
+      "properties": {
+        "osm_id": 231917902,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8916152,
+          1.3216901
+        ]
+      },
+      "properties": {
+        "osm_id": 231917923,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Paya Lebar Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7473348,
+          1.3953069
+        ]
+      },
+      "properties": {
+        "osm_id": 238927832,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": "Choa Chu Kang Drive",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8807054,
+          1.3556833
+        ]
+      },
+      "properties": {
+        "osm_id": 241247295,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Upper Serangoon Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8753273,
+          1.3577931
+        ]
+      },
+      "properties": {
+        "osm_id": 241254871,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Yio Chu Kang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817414,
+          1.3233818
+        ]
+      },
+      "properties": {
+        "osm_id": 241281944,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7372994,
+          1.3423199
+        ]
+      },
+      "properties": {
+        "osm_id": 248048425,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7588643,
+          1.3342695
+        ]
+      },
+      "properties": {
+        "osm_id": 252391710,
+        "osm_type": "way",
+        "name": "Cnergy",
+        "brand": null,
+        "operator": null,
+        "address": "Toh Tuck Avenue",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7577641,
+          1.4111901
+        ]
+      },
+      "properties": {
+        "osm_id": 252392056,
+        "osm_type": "way",
+        "name": "SMART Energy",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "no",
+        "fuel_octane_98": "no",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8422294,
+          1.3110925
+        ]
+      },
+      "properties": {
+        "osm_id": 256974372,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": "Bukit Timah Road",
+        "city": "Singapore",
+        "postcode": "229843",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8427682,
+          1.3109414
+        ]
+      },
+      "properties": {
+        "osm_id": 256974403,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Cheers",
+        "address": "Bukit Timah Rd",
+        "city": "Singapore",
+        "postcode": "229841",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8416222,
+          1.3247081
+        ]
+      },
+      "properties": {
+        "osm_id": 260696423,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8716505,
+          1.3473379
+        ]
+      },
+      "properties": {
+        "osm_id": 262966176,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8479993,
+          1.3267128
+        ]
+      },
+      "properties": {
+        "osm_id": 271791530,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": "Balestier Road",
+        "city": null,
+        "postcode": null,
+        "phone": "+65 6251 2206",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8988917,
+          1.3911748
+        ]
+      },
+      "properties": {
+        "osm_id": 276519230,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9005269,
+          1.385111
+        ]
+      },
+      "properties": {
+        "osm_id": 276746327,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Punggol Road",
+        "city": "Singapore",
+        "postcode": "546673",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8827964,
+          1.3585361
+        ]
+      },
+      "properties": {
+        "osm_id": 283722874,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Upper Serangoon Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8840292,
+          1.3588206
+        ]
+      },
+      "properties": {
+        "osm_id": 283722875,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Upper Serangoon Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8926968,
+          1.39149
+        ]
+      },
+      "properties": {
+        "osm_id": 302094475,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Sengkang East Road",
+        "city": "Singapore",
+        "postcode": "545015",
+        "phone": "+65 63124243",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8178506,
+          1.3999191
+        ]
+      },
+      "properties": {
+        "osm_id": 304360331,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": "Singapore",
+        "postcode": "787124",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8673349,
+          1.3632963
+        ]
+      },
+      "properties": {
+        "osm_id": 305882744,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Serangoon Garden Way",
+        "city": "Singapore",
+        "postcode": "555944",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8681622,
+          1.3624798
+        ]
+      },
+      "properties": {
+        "osm_id": 305882745,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Chaun Garden",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8679326,
+          1.3578373
+        ]
+      },
+      "properties": {
+        "osm_id": 305884646,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Lorong Chuan",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8843165,
+          1.3686719
+        ]
+      },
+      "properties": {
+        "osm_id": 305948172,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9190618,
+          1.3154929
+        ]
+      },
+      "properties": {
+        "osm_id": 306119362,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9203056,
+          1.3110535
+        ]
+      },
+      "properties": {
+        "osm_id": 306119943,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9001194,
+          1.3163251
+        ]
+      },
+      "properties": {
+        "osm_id": 308900480,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Changi Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8252138,
+          1.4400875
+        ]
+      },
+      "properties": {
+        "osm_id": 309981788,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": "SPC",
+        "address": "Sembawang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825101,
+          1.4404093
+        ]
+      },
+      "properties": {
+        "osm_id": 309981789,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Sembawang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9476388,
+          1.3308618
+        ]
+      },
+      "properties": {
+        "osm_id": 312722344,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Bedok Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7419648,
+          1.3046936
+        ]
+      },
+      "properties": {
+        "osm_id": 313363352,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Jalan Buroh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9697454,
+          1.3597796
+        ]
+      },
+      "properties": {
+        "osm_id": 315750736,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Upper Changi Road North",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7625708,
+          1.3769961
+        ]
+      },
+      "properties": {
+        "osm_id": 315901621,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Upper Bukit Timah Road",
+        "city": "Singapore",
+        "postcode": "678205",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8378101,
+          1.3488706
+        ]
+      },
+      "properties": {
+        "osm_id": 318742754,
+        "osm_type": "way",
+        "name": null,
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7778495,
+          1.2892259
+        ]
+      },
+      "properties": {
+        "osm_id": 325897240,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Pasir Panjang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8887994,
+          1.331818
+        ]
+      },
+      "properties": {
+        "osm_id": 333036642,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8944357,
+          1.3109206
+        ]
+      },
+      "properties": {
+        "osm_id": 334113522,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Tanjong Katong Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9672156,
+          1.3657268
+        ]
+      },
+      "properties": {
+        "osm_id": 345832997,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Loyang Avenue",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8070893,
+          1.2717544
+        ]
+      },
+      "properties": {
+        "osm_id": 351313198,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8072122,
+          1.271772
+        ]
+      },
+      "properties": {
+        "osm_id": 351313201,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8739061,
+          1.3610053
+        ]
+      },
+      "properties": {
+        "osm_id": 352013785,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Yio Chu Kang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8739305,
+          1.3606796
+        ]
+      },
+      "properties": {
+        "osm_id": 352013786,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Yio Chu Kang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8065884,
+          1.2904074
+        ]
+      },
+      "properties": {
+        "osm_id": 361573965,
+        "osm_type": "way",
+        "name": "Caltex Alexandra",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": "Alexandra Road",
+        "city": "Singapore",
+        "postcode": "159951",
+        "phone": "+65 6475 3380",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8068243,
+          1.2906893
+        ]
+      },
+      "properties": {
+        "osm_id": 361573968,
+        "osm_type": "way",
+        "name": "Shell Alexandra",
+        "brand": "Shell",
+        "operator": "Shell",
+        "address": "Alexandra Road",
+        "city": "Singapore",
+        "postcode": "159950",
+        "phone": "+65 6472 1953",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7855138,
+          1.3177802
+        ]
+      },
+      "properties": {
+        "osm_id": 364452475,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": "Holland Road",
+        "city": "Singapore",
+        "postcode": "278629",
+        "phone": "+65 6465 2091",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8369054,
+          1.316215
+        ]
+      },
+      "properties": {
+        "osm_id": 380509062,
+        "osm_type": "way",
+        "name": "ESSO",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8320603,
+          1.3180472
+        ]
+      },
+      "properties": {
+        "osm_id": 380515064,
+        "osm_type": "way",
+        "name": "SPC Bukit Timah",
+        "brand": null,
+        "operator": null,
+        "address": "Bukit Timah Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8334512,
+          1.318816
+        ]
+      },
+      "properties": {
+        "osm_id": 380515292,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9161018,
+          1.3205227
+        ]
+      },
+      "properties": {
+        "osm_id": 384326665,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9311375,
+          1.3142612
+        ]
+      },
+      "properties": {
+        "osm_id": 384326986,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": "SPC",
+        "operator": "Singapore Petroleum Company",
+        "address": "Upper East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7489142,
+          1.4673274
+        ]
+      },
+      "properties": {
+        "osm_id": 390612835,
+        "osm_type": "way",
+        "name": "Petronas",
+        "brand": "Petronas",
+        "operator": null,
+        "address": "Johor Bahru Inner Ring Road",
+        "city": "Johor Bahru",
+        "postcode": "80100",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7492264,
+          1.4679063
+        ]
+      },
+      "properties": {
+        "osm_id": 390612860,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Petronas",
+        "operator": null,
+        "address": "Jalan Yahya Awal Interchange",
+        "city": "Johor Bahru",
+        "postcode": "80100",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8837865,
+          1.3105915
+        ]
+      },
+      "properties": {
+        "osm_id": 390829070,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8836199,
+          1.3110504
+        ]
+      },
+      "properties": {
+        "osm_id": 390829071,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7634215,
+          1.3722492
+        ]
+      },
+      "properties": {
+        "osm_id": 391194371,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper Bukit Timah Road",
+        "city": "Singapore",
+        "postcode": "678122",
+        "phone": "+65 6769 5645",
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7855818,
+          1.2801207
+        ]
+      },
+      "properties": {
+        "osm_id": 408482662,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Pasir Panjang Road",
+        "city": "Singapore",
+        "postcode": "118598",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8354224,
+          1.3512386
+        ]
+      },
+      "properties": {
+        "osm_id": 428124581,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8842679,
+          1.3025641
+        ]
+      },
+      "properties": {
+        "osm_id": 430993688,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Mounbatten Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8842908,
+          1.302134
+        ]
+      },
+      "properties": {
+        "osm_id": 430995100,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Mounbatten Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8086244,
+          1.324746
+        ]
+      },
+      "properties": {
+        "osm_id": 451909829,
+        "osm_type": "way",
+        "name": "Sinopec Bukit Timah",
+        "brand": "Sinopec",
+        "operator": "Sinopec",
+        "address": "Bukit Timah Road",
+        "city": null,
+        "postcode": "269733",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8289117,
+          1.3719812
+        ]
+      },
+      "properties": {
+        "osm_id": 451946224,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8281933,
+          1.370026
+        ]
+      },
+      "properties": {
+        "osm_id": 451946319,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8281616,
+          1.3704676
+        ]
+      },
+      "properties": {
+        "osm_id": 451946394,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9108252,
+          1.3090359
+        ]
+      },
+      "properties": {
+        "osm_id": 452264879,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "East Coast Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7867479,
+          1.3352485
+        ]
+      },
+      "properties": {
+        "osm_id": 452289240,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": null,
+        "operator": null,
+        "address": "Binjai Park",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8901983,
+          1.3492984
+        ]
+      },
+      "properties": {
+        "osm_id": 452645466,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Hougang Avenue 3",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818553,
+          1.4034544
+        ]
+      },
+      "properties": {
+        "osm_id": 453226341,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Sembawang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7896729,
+          1.2774955
+        ]
+      },
+      "properties": {
+        "osm_id": 453236693,
+        "osm_type": "way",
+        "name": "Shell Pasir Panjang 168",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Pasir Panjang Road",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7907393,
+          1.2772391
+        ]
+      },
+      "properties": {
+        "osm_id": 453236695,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8777965,
+          1.3311124
+        ]
+      },
+      "properties": {
+        "osm_id": 453243423,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "MacPherson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6941951,
+          1.4163592
+        ]
+      },
+      "properties": {
+        "osm_id": 453464497,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7754204,
+          1.4383024
+        ]
+      },
+      "properties": {
+        "osm_id": 453722345,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8244205,
+          1.4405268
+        ]
+      },
+      "properties": {
+        "osm_id": 453962409,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Sembawang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8245438,
+          1.440173
+        ]
+      },
+      "properties": {
+        "osm_id": 453962426,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Sembawang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8571999,
+          1.3144823
+        ]
+      },
+      "properties": {
+        "osm_id": 454182435,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Serangoon Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880767,
+          1.3243647
+        ]
+      },
+      "properties": {
+        "osm_id": 454190381,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Ajunied Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8722272,
+          1.3287241
+        ]
+      },
+      "properties": {
+        "osm_id": 454226355,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "MacPherson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8789518,
+          1.3323536
+        ]
+      },
+      "properties": {
+        "osm_id": 454887251,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Upper Ajunied Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8804199,
+          1.3319119
+        ]
+      },
+      "properties": {
+        "osm_id": 454887253,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": "SPC",
+        "address": "MacPherson Road",
+        "city": "Singapore",
+        "postcode": "368140",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7565269,
+          1.4112994
+        ]
+      },
+      "properties": {
+        "osm_id": 455066740,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Mandai Road",
+        "city": "Singapore",
+        "postcode": "729752",
+        "phone": "+65 6368 2990",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9325501,
+          1.3223252
+        ]
+      },
+      "properties": {
+        "osm_id": 455159933,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Bedok South Avenue 1",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8890909,
+          1.3142323
+        ]
+      },
+      "properties": {
+        "osm_id": 455161375,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Mobil1",
+        "address": "Geylang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9405972,
+          1.3748916
+        ]
+      },
+      "properties": {
+        "osm_id": 455259141,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": "Pasir Ris Drive 1",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7726817,
+          1.3833624
+        ]
+      },
+      "properties": {
+        "osm_id": 473355080,
+        "osm_type": "way",
+        "name": "SPC Bukit Panjang",
+        "brand": "SPC",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8755927,
+          1.3120016
+        ]
+      },
+      "properties": {
+        "osm_id": 475159263,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Geylang Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8012088,
+          1.2911287
+        ]
+      },
+      "properties": {
+        "osm_id": 478127131,
+        "osm_type": "way",
+        "name": "Esso Queensway B",
+        "brand": "ESSO",
+        "operator": "Esso",
+        "address": "Queensway",
+        "city": "Singapore",
+        "postcode": "149061",
+        "phone": "+65 6474 8267",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8185587,
+          1.2841875
+        ]
+      },
+      "properties": {
+        "osm_id": 478129347,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Bukit Merah",
+        "city": "Singapore",
+        "postcode": "159464",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952058,
+          1.3057238
+        ]
+      },
+      "properties": {
+        "osm_id": 478794714,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Commonwealth Avenue",
+        "city": "Singapore",
+        "postcode": "149736",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284101,
+          1.3579684
+        ]
+      },
+      "properties": {
+        "osm_id": 479746464,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8282151,
+          1.370934
+        ]
+      },
+      "properties": {
+        "osm_id": 479747449,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8395579,
+          1.3654382
+        ]
+      },
+      "properties": {
+        "osm_id": 479760437,
+        "osm_type": "way",
+        "name": "SPC",
+        "brand": null,
+        "operator": null,
+        "address": "Ang Mo Kio Avenue 1",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8944293,
+          1.3113198
+        ]
+      },
+      "properties": {
+        "osm_id": 480300819,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Tanjong Katong Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8431299,
+          1.3113424
+        ]
+      },
+      "properties": {
+        "osm_id": 480534286,
+        "osm_type": "way",
+        "name": "Shell Bukit Timah",
+        "brand": null,
+        "operator": null,
+        "address": "Bukit Timah Road",
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7620215,
+          1.4342531
+        ]
+      },
+      "properties": {
+        "osm_id": 480673819,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "1091 Woodland Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8269642,
+          1.3249516
+        ]
+      },
+      "properties": {
+        "osm_id": 481060175,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8452708,
+          1.3267591
+        ]
+      },
+      "properties": {
+        "osm_id": 481628665,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": "Caltex",
+        "address": "Balestier Road",
+        "city": null,
+        "postcode": null,
+        "phone": "+65 6255 2873",
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": "yes",
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7549987,
+          1.3096295
+        ]
+      },
+      "properties": {
+        "osm_id": 481669538,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Buroh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7550875,
+          1.3098218
+        ]
+      },
+      "properties": {
+        "osm_id": 481669540,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": null,
+        "operator": null,
+        "address": "Jalan Buroh",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8289543,
+          1.3730813
+        ]
+      },
+      "properties": {
+        "osm_id": 482046508,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": "Upper Thomson Road",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7962181,
+          1.3124677
+        ]
+      },
+      "properties": {
+        "osm_id": 482272085,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Holland Road",
+        "city": "Singapore",
+        "postcode": "278582",
+        "phone": "+65 6468 5258",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9048015,
+          1.4694387
+        ]
+      },
+      "properties": {
+        "osm_id": 486404855,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": "Port Garage",
+        "address": "Jalan Pusat Bandar",
+        "city": "Pasir Gudang",
+        "postcode": "81700",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9050779,
+          1.4546337
+        ]
+      },
+      "properties": {
+        "osm_id": 486704780,
+        "osm_type": "way",
+        "name": "Petron",
+        "brand": "Petron",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "00:00-24:00",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9009922,
+          1.410353
+        ]
+      },
+      "properties": {
+        "osm_id": 580038220,
+        "osm_type": "way",
+        "name": "SPC Sumang",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": "Sumang Link",
+        "city": "Singapore",
+        "postcode": "828805",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284316,
+          1.3579059
+        ]
+      },
+      "properties": {
+        "osm_id": 591415748,
+        "osm_type": "way",
+        "name": "Esso",
+        "brand": "Esso",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8803449,
+          1.3952854
+        ]
+      },
+      "properties": {
+        "osm_id": 672624946,
+        "osm_type": "way",
+        "name": "Esso Petrol Station",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Sengkang West Way",
+        "city": "Singapore",
+        "postcode": "797622",
+        "phone": "+65 6573 6546",
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7658494,
+          1.4595201
+        ]
+      },
+      "properties": {
+        "osm_id": 758441617,
+        "osm_type": "way",
+        "name": "Petron Jalan Tun Abdul Razak",
+        "brand": "Petron",
+        "operator": null,
+        "address": "Jalan Tun Abdul Razak",
+        "city": "Johor Bahru",
+        "postcode": "80000",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9133973,
+          1.4437045
+        ]
+      },
+      "properties": {
+        "osm_id": 767696861,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": "Jalan Baja",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9050749,
+          1.4700574
+        ]
+      },
+      "properties": {
+        "osm_id": 767819526,
+        "osm_type": "way",
+        "name": "Petronas",
+        "brand": "Petronas",
+        "operator": null,
+        "address": "Jalan Pusat Bandar",
+        "city": "Pasir Gudang",
+        "postcode": "81700",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7614817,
+          1.4647353
+        ]
+      },
+      "properties": {
+        "osm_id": 770075175,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Wong Ah Fook",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8150356,
+          1.2844688
+        ]
+      },
+      "properties": {
+        "osm_id": 776944130,
+        "osm_type": "way",
+        "name": "Caltex",
+        "brand": "Caltex",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7217586,
+          1.3234955
+        ]
+      },
+      "properties": {
+        "osm_id": 838044767,
+        "osm_type": "way",
+        "name": null,
+        "brand": "Shell",
+        "operator": null,
+        "address": "Jalan Ahmad Ibrahim",
+        "city": null,
+        "postcode": "619595",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9021147,
+          1.298168
+        ]
+      },
+      "properties": {
+        "osm_id": 965808401,
+        "osm_type": "way",
+        "name": "Shell",
+        "brand": "Shell",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "off",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7987633,
+          1.4326644
+        ]
+      },
+      "properties": {
+        "osm_id": 979713521,
+        "osm_type": "way",
+        "name": "Sinopec Woodlands",
+        "brand": "Sinopec Singapore",
+        "operator": null,
+        "address": "Woodlands Avenue 5",
+        "city": "Singapore",
+        "postcode": "737854",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8480465,
+          1.4203597
+        ]
+      },
+      "properties": {
+        "osm_id": 1104721237,
+        "osm_type": "way",
+        "name": "Sinopec",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7990097,
+          1.3300022
+        ]
+      },
+      "properties": {
+        "osm_id": 1139293978,
+        "osm_type": "way",
+        "name": "Esso Bukit Timah",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Bukit Timah Road",
+        "city": "Singapore",
+        "postcode": "269757",
+        "phone": "+65 6466 3611",
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8136976,
+          1.3282449
+        ]
+      },
+      "properties": {
+        "osm_id": 1140702127,
+        "osm_type": "way",
+        "name": "SPC Adam Road",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": "Adam Road",
+        "city": "Singapore",
+        "postcode": "289896",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8163699,
+          1.2948168
+        ]
+      },
+      "properties": {
+        "osm_id": 1149024055,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7932095,
+          1.270085
+        ]
+      },
+      "properties": {
+        "osm_id": 1227279389,
+        "osm_type": "way",
+        "name": "Refuelling Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6542357,
+          1.4701942
+        ]
+      },
+      "properties": {
+        "osm_id": 1252374613,
+        "osm_type": "way",
+        "name": "Petron",
+        "brand": "Petron",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8945969,
+          1.3082803
+        ]
+      },
+      "properties": {
+        "osm_id": 1262643077,
+        "osm_type": "way",
+        "name": "SPC Tanjong Katong",
+        "brand": null,
+        "operator": "SPC",
+        "address": "Swanage Road",
+        "city": "Singapore",
+        "postcode": "437168",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8956819,
+          1.307488
+        ]
+      },
+      "properties": {
+        "osm_id": 1263513103,
+        "osm_type": "way",
+        "name": "Caltex Tanjong Katong",
+        "brand": "Caltex",
+        "operator": "SPC",
+        "address": "Tanjong Katong Road",
+        "city": "Singapore",
+        "postcode": "437052",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7501792,
+          1.3775285
+        ]
+      },
+      "properties": {
+        "osm_id": 1263652994,
+        "osm_type": "way",
+        "name": "Esso Choa Chu Kang Way",
+        "brand": "Esso",
+        "operator": "Esso",
+        "address": "Choa Chu Kang Way",
+        "city": "Singapore",
+        "postcode": "688786",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7762855,
+          1.4425104
+        ]
+      },
+      "properties": {
+        "osm_id": 1381325479,
+        "osm_type": "way",
+        "name": "SPC Admiralty Road",
+        "brand": "SPC",
+        "operator": "Singapore Petroleum Company",
+        "address": "Admiralty Road",
+        "city": "Singapore",
+        "postcode": "739981",
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7131412,
+          1.3757802
+        ]
+      },
+      "properties": {
+        "osm_id": 1387593908,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": "Singapore",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8989232,
+          1.3911598
+        ]
+      },
+      "properties": {
+        "osm_id": 1417729715,
+        "osm_type": "way",
+        "name": "SPC Sengkang",
+        "brand": "SPC",
+        "operator": "SPC",
+        "address": "Sengkang East Way",
+        "city": "Singapore",
+        "postcode": "544885",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "SG"
+      }
+    }
+  ]
+}

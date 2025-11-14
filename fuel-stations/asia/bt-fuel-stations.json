@@ -1,0 +1,1881 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.86609,
+          27.5155783
+        ]
+      },
+      "properties": {
+        "osm_id": 2031591217,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4116336,
+          27.4312615
+        ]
+      },
+      "properties": {
+        "osm_id": 2491166287,
+        "osm_type": "node",
+        "name": "BP",
+        "brand": "BP",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0867269,
+          26.7538898
+        ]
+      },
+      "properties": {
+        "osm_id": 2665458688,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4425051,
+          27.3869485
+        ]
+      },
+      "properties": {
+        "osm_id": 3933397238,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": "Indian Oil",
+        "operator": "BoD",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6411006,
+          27.4673938
+        ]
+      },
+      "properties": {
+        "osm_id": 4369775090,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Norzin Lam - 1",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6428789,
+          27.4640625
+        ]
+      },
+      "properties": {
+        "osm_id": 4377499005,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": "Zamdo Lam",
+        "city": null,
+        "postcode": "11001",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2367065,
+          27.2775578
+        ]
+      },
+      "properties": {
+        "osm_id": 4386658691,
+        "osm_type": "node",
+        "name": "Mongar Oil Stations",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2495258,
+          26.8417892
+        ]
+      },
+      "properties": {
+        "osm_id": 4910880947,
+        "osm_type": "node",
+        "name": "Nganglam BoD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.959956,
+          26.9432174
+        ]
+      },
+      "properties": {
+        "osm_id": 4947146043,
+        "osm_type": "node",
+        "name": "BOD Dagapela",
+        "brand": "BOD Dagapela",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5362386,
+          27.3212806
+        ]
+      },
+      "properties": {
+        "osm_id": 5239659024,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9870197,
+          27.5769241
+        ]
+      },
+      "properties": {
+        "osm_id": 5309554125,
+        "osm_type": "node",
+        "name": "Assam Oil",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2945415,
+          27.3723961
+        ]
+      },
+      "properties": {
+        "osm_id": 6229947924,
+        "osm_type": "node",
+        "name": "BOD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0819081,
+          26.7069633
+        ]
+      },
+      "properties": {
+        "osm_id": 7047128385,
+        "osm_type": "node",
+        "name": "HP Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7754856,
+          26.8794007
+        ]
+      },
+      "properties": {
+        "osm_id": 7113646535,
+        "osm_type": "node",
+        "name": "Rel",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3812225,
+          26.8612289
+        ]
+      },
+      "properties": {
+        "osm_id": 7974865856,
+        "osm_type": "node",
+        "name": "Bharat Petroleum",
+        "brand": "Bharat Petroleum",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1491464,
+          27.7591724
+        ]
+      },
+      "properties": {
+        "osm_id": 9196958418,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8983078,
+          27.4954456
+        ]
+      },
+      "properties": {
+        "osm_id": 9533841926,
+        "osm_type": "node",
+        "name": "Bhutan Oil Distributor",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2843131,
+          27.3850457
+        ]
+      },
+      "properties": {
+        "osm_id": 9734113459,
+        "osm_type": "node",
+        "name": "Electric Charging Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5103694,
+          27.4954095
+        ]
+      },
+      "properties": {
+        "osm_id": 9750768718,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6035936,
+          27.3354514
+        ]
+      },
+      "properties": {
+        "osm_id": 9753853482,
+        "osm_type": "node",
+        "name": "Dangdung Fuel Station",
+        "brand": "BOC",
+        "operator": "BOC",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6247532,
+          27.4772726
+        ]
+      },
+      "properties": {
+        "osm_id": 9840325287,
+        "osm_type": "node",
+        "name": "Motithang BoD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6393368,
+          27.4784994
+        ]
+      },
+      "properties": {
+        "osm_id": 9894412717,
+        "osm_type": "node",
+        "name": "BoD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6594041,
+          27.4418483
+        ]
+      },
+      "properties": {
+        "osm_id": 9894412718,
+        "osm_type": "node",
+        "name": "BoD",
+        "brand": null,
+        "operator": null,
+        "address": "Doebum Zur Lam 304 SW",
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6311116,
+          27.4198109
+        ]
+      },
+      "properties": {
+        "osm_id": 9894412719,
+        "osm_type": "node",
+        "name": "BoD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1212975,
+          28.1130649
+        ]
+      },
+      "properties": {
+        "osm_id": 10131745382,
+        "osm_type": "node",
+        "name": "拉康成兴加油站",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9476536,
+          26.847543
+        ]
+      },
+      "properties": {
+        "osm_id": 10182045780,
+        "osm_type": "node",
+        "name": "Damchen Petroleum Distributors",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8178437,
+          27.164397
+        ]
+      },
+      "properties": {
+        "osm_id": 10182052031,
+        "osm_type": "node",
+        "name": "FMCL Gas Station",
+        "brand": "FMCL",
+        "operator": "Government",
+        "address": null,
+        "city": "Buli",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4847381,
+          26.871045
+        ]
+      },
+      "properties": {
+        "osm_id": 10316417152,
+        "osm_type": "node",
+        "name": "Bhutan Oil Distributiors",
+        "brand": "Indian Oil",
+        "operator": "Tashi Commercial Corporation",
+        "address": "W Ngojang Zhung Lam",
+        "city": "Gelephu",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4854619,
+          26.8709908
+        ]
+      },
+      "properties": {
+        "osm_id": 10316417153,
+        "osm_type": "node",
+        "name": "Bhutan Oil Distributiors",
+        "brand": "Indian Oil",
+        "operator": "Tashi Commercial Corporation",
+        "address": "S Ngedrup Zhung Lam",
+        "city": "Gelephu",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.48837,
+          26.8773025
+        ]
+      },
+      "properties": {
+        "osm_id": 10580499834,
+        "osm_type": "node",
+        "name": "Damchen Oil Distributor",
+        "brand": "Indian Oil",
+        "operator": "Damchen Oil Distributor",
+        "address": "S Ngedrup Zhung Lam",
+        "city": "Gelephu",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4758593,
+          26.8771932
+        ]
+      },
+      "properties": {
+        "osm_id": 10595677052,
+        "osm_type": "node",
+        "name": "Bhutan Oil Distributiors",
+        "brand": "Indian Oil",
+        "operator": "Tashi Commercial Corporation",
+        "address": "Kunzang Lam NW",
+        "city": "Gelephu",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1872223,
+          26.814178
+        ]
+      },
+      "properties": {
+        "osm_id": 10759119070,
+        "osm_type": "node",
+        "name": "Gomtu Petrol Pump Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7952605,
+          26.7368423
+        ]
+      },
+      "properties": {
+        "osm_id": 11033658958,
+        "osm_type": "node",
+        "name": "Bharat Petroleum",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.419641,
+          27.4157343
+        ]
+      },
+      "properties": {
+        "osm_id": 11930786269,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6428865,
+          27.4672016
+        ]
+      },
+      "properties": {
+        "osm_id": 11932105869,
+        "osm_type": "node",
+        "name": "Electric Vehicle Charge",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5692371,
+          27.3698196
+        ]
+      },
+      "properties": {
+        "osm_id": 11934013169,
+        "osm_type": "node",
+        "name": "Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6394256,
+          27.478202
+        ]
+      },
+      "properties": {
+        "osm_id": 11937187769,
+        "osm_type": "node",
+        "name": "Damchen Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1460402,
+          27.5469713
+        ]
+      },
+      "properties": {
+        "osm_id": 12317238901,
+        "osm_type": "node",
+        "name": "STCBL",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7298158,
+          27.5024362
+        ]
+      },
+      "properties": {
+        "osm_id": 12318487801,
+        "osm_type": "node",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.909357,
+          26.875026
+        ]
+      },
+      "properties": {
+        "osm_id": 13299016174,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735225",
+        "phone": "+917076873615",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8051,
+          26.8813
+        ]
+      },
+      "properties": {
+        "osm_id": 13299016183,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735206",
+        "phone": "+919800808314",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.956845,
+          26.718742
+        ]
+      },
+      "properties": {
+        "osm_id": 13299016188,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735233",
+        "phone": "+919733264689",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.551303,
+          26.741311
+        ]
+      },
+      "properties": {
+        "osm_id": 13299077742,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "781360",
+        "phone": "+917002776043",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.914757,
+          26.724197
+        ]
+      },
+      "properties": {
+        "osm_id": 13299077743,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "784523",
+        "phone": "+918876102251",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8234406,
+          26.7571545
+        ]
+      },
+      "properties": {
+        "osm_id": 13299077749,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "784526",
+        "phone": "+919613452249",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2874916,
+          26.7180617
+        ]
+      },
+      "properties": {
+        "osm_id": 13299146773,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735220",
+        "phone": "+919832020300",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.03138,
+          26.794422
+        ]
+      },
+      "properties": {
+        "osm_id": 13299146779,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735202",
+        "phone": "+913563252100",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.030696,
+          26.793612
+        ]
+      },
+      "properties": {
+        "osm_id": 13299146780,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735202",
+        "phone": "+919434127733",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.093921,
+          26.704568
+        ]
+      },
+      "properties": {
+        "osm_id": 13299146782,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "735204",
+        "phone": "+919434110351",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.113778,
+          27.104572
+        ]
+      },
+      "properties": {
+        "osm_id": 13299200927,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "790002",
+        "phone": "+918414063936",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.879603,
+          27.599473
+        ]
+      },
+      "properties": {
+        "osm_id": 13299228930,
+        "osm_type": "node",
+        "name": null,
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": "790104",
+        "phone": "+913794223346",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6393251,
+          27.4784037
+        ]
+      },
+      "properties": {
+        "osm_id": 437550224,
+        "osm_type": "way",
+        "name": "BOD",
+        "brand": null,
+        "operator": "Private",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": "24/7",
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5028435,
+          26.7940144
+        ]
+      },
+      "properties": {
+        "osm_id": 442021404,
+        "osm_type": "way",
+        "name": "Petrol Pump",
+        "brand": null,
+        "operator": null,
+        "address": "Dungsam - Lam",
+        "city": "Samdrup Jongkhar",
+        "postcode": "41001",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5036724,
+          26.8033204
+        ]
+      },
+      "properties": {
+        "osm_id": 442144486,
+        "osm_type": "way",
+        "name": "Gas Cylinder Distribution Office",
+        "brand": null,
+        "operator": null,
+        "address": "Gadhen - Lam1",
+        "city": "Samdrup Jongkhar",
+        "postcode": "41001",
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3880396,
+          26.8605909
+        ]
+      },
+      "properties": {
+        "osm_id": 444868960,
+        "osm_type": "way",
+        "name": "Drul Petroleum Corp LTD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9141506,
+          27.4927299
+        ]
+      },
+      "properties": {
+        "osm_id": 537770825,
+        "osm_type": "way",
+        "name": "中国石油加油站",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7538441,
+          27.5448712
+        ]
+      },
+      "properties": {
+        "osm_id": 908367769,
+        "osm_type": "way",
+        "name": "Chamkhar Fuel Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5102006,
+          27.4954543
+        ]
+      },
+      "properties": {
+        "osm_id": 968847538,
+        "osm_type": "way",
+        "name": "BoD",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.397295,
+          27.0164998
+        ]
+      },
+      "properties": {
+        "osm_id": 974109479,
+        "osm_type": "way",
+        "name": "Denchi Fuel Station",
+        "brand": "Tashi Commercial",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6919432,
+          26.8796234
+        ]
+      },
+      "properties": {
+        "osm_id": 975062195,
+        "osm_type": "way",
+        "name": "Bhutan Oil Corporation",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1229698,
+          27.0131612
+        ]
+      },
+      "properties": {
+        "osm_id": 996954512,
+        "osm_type": "way",
+        "name": "Bhutan Oil Distribution",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3973129,
+          27.0164738
+        ]
+      },
+      "properties": {
+        "osm_id": 1061738716,
+        "osm_type": "way",
+        "name": "BOD,Denchi",
+        "brand": "Pemagatshel BOD",
+        "operator": "BoD",
+        "address": "Denchi",
+        "city": "Denchi Town",
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1125011,
+          28.1162431
+        ]
+      },
+      "properties": {
+        "osm_id": 1107279641,
+        "osm_type": "way",
+        "name": null,
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "yes",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4851221,
+          26.8710723
+        ]
+      },
+      "properties": {
+        "osm_id": 1156699977,
+        "osm_type": "way",
+        "name": "Petrol Station",
+        "brand": "Indian Oil",
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5416541,
+          26.8363055
+        ]
+      },
+      "properties": {
+        "osm_id": 1156767890,
+        "osm_type": "way",
+        "name": "Kuenphen LPG agent",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1955907,
+          27.2353882
+        ]
+      },
+      "properties": {
+        "osm_id": 1157465564,
+        "osm_type": "way",
+        "name": "Gas Station",
+        "brand": null,
+        "operator": null,
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": null,
+        "fuel_octane_91": null,
+        "fuel_octane_95": null,
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7673568,
+          28.2661665
+        ]
+      },
+      "properties": {
+        "osm_id": 1319140658,
+        "osm_type": "way",
+        "name": null,
+        "brand": "中国石化",
+        "operator": "中国石化",
+        "address": null,
+        "city": null,
+        "postcode": null,
+        "phone": null,
+        "opening_hours": null,
+        "fuel_diesel": "yes",
+        "fuel_octane_91": null,
+        "fuel_octane_95": "no",
+        "fuel_octane_98": null,
+        "fuel_e10": null,
+        "country": "BT"
+      }
+    }
+  ]
+}
